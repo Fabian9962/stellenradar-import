@@ -1,6 +1,9 @@
-Name: Radar 1 – Stellen finden (Version 2, 15.11.2026: 12 Abfragen mehr – Director/VP, Bereichsleitung, GL, CEO, Werk-/Standortleitung, CSCO, CPO, CDO, CSO u. a.)
+Name: Radar 1 – Stellen finden (Version 3, 15.11.2026: nur eigene Umgebung, nie Fabians Laptop; Version 2: 12 Abfragen mehr – Director/VP, Bereichsleitung, GL, CEO, Werk-/Standortleitung, CSCO, CPO, CDO, CSO u. a.)
 Zeitplan: täglich 06:00 (Europe/Zurich)
 --- Auftrag ---
+ENVIRONMENT (mandatory): Work only in your own environment (your own servers and your own browser). Never use Fabian's laptop, his other devices, his network connection or any tool that runs on his computer, not even as a fallback. Do not write any files on his computer.
+If a site blocks you (bot protection, CAPTCHA, login wall, HTTP 403/429): do not try to get around it (no other devices, no proxies, no solving CAPTCHAs, no disguised access). Record it as BLOCKED as described below, continue with the next page or source, and write what you have.
+
 Read jobagent.ch search results completely and save them to GitHub. Open every URL live; never use memory, cached data or search snippets.
 
 URL pattern:

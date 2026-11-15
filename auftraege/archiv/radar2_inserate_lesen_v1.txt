@@ -1,0 +1,25 @@
+Name: Radar 2 – Inserate lesen (Version 1, 15.11.2026)
+Zeitplan: täglich 07:00 (Europe/Zurich)
+--- Auftrag ---
+Lies Stelleninserate und beurteile sie für Fabian Kaiser. Jede Seite live öffnen, nichts aus dem Gedächtnis, nichts erfinden.
+
+EINGABE: Datei eingang/zu_lesen_<JJJJ-MM-TT>.json (heutiges Datum, Europe/Zurich) im GitHub-Repository Fabian9962/stellenradar-import, Branch main. Sie enthält eine JSON-Liste mit {"id","url","titel","firma","ort","ort_punkte","markiert"}. Fehlt die Datei oder ist die Liste leer, schreibe die Ausgabedatei mit dem Inhalt [] und beende.
+
+FÜR JEDE STELLE: «url» öffnen und den vollständigen Inseratstext lesen. Ist das Inserat nicht mehr verfügbar oder nur ein Kurztext ohne Aufgaben und Anforderungen: {"id":"…","p":0,"e":"offline"}.
+
+PROFIL FABIAN: über 20 Jahre Berufserfahrung; seit 01/2026 Head of Business Transformation bei mobilog AG (AMAG): Customer Care Center, Management Office, Projekte, Qualität/Umwelt/Sicherheit, Reporting, 5 direkt/~20 indirekt. 06/2023–12/2025 Head of Supply Chain Management bei Helion Energy (AMAG): Einkauf, Lager, Logistik, Stammdaten, Category Management, Einkaufsvolumen ~60 Mio. CHF, Budget ~4 Mio. CHF, Überbestände von 42 auf 2.5 Mio. CHF gesenkt, SAP S/4HANA. 08/2021–05/2023 COO und Mitglied der Geschäftsleitung bei Truninger-Plot24: Produktion, IT, 11 Standorte, ~100 indirekt. 2015–2021 Regent Beleuchtungskörper: Product Manager, Leiter Kundenauftragszentrum, Stv. Leiter Operations (~120 MA, Produktionsverlagerung Basel–Serbien). Früher Produktmanagement SensoPart, Konstrukteur Vitra, Werkzeugmechaniker. Bachelor of Engineering Wirtschaftsingenieurwesen, Executive MBA HSG in Arbeit. Deutsch Muttersprache, Englisch C1, Französisch nicht belegt. Wohnort Schafisheim AG. Nicht belegt (nie als Plus werten): Instandhaltung, Investitionsprojekte, Lean/Six Sigma-Zertifikat, GMP/Pharma, Export/Zoll, Ausschreibungen, P&L-Verantwortung, S&OP.
+Ziel: COO, Geschäftsleitung, mindestens oberes Kader mit Gesamtverantwortung für Operations, Supply Chain, Einkauf, Produktion oder Transformation, in Industrie, Handel oder Technik. Keine Teamleitungen, Stellvertretungen, Fachstellen. Reine Lager-/Logistikleitung ist zu eng.
+
+BEWERTUNG p = Summe:
+Funktion 0–40: Gesamtverantwortung Operations, Supply Chain oder Unternehmen 34–40; eine einzelne Funktion (nur Einkauf, nur Produktion) 26–34; nur Lager/Logistik 18–26; fachfremd unter 18.
+Stufe 0–25: Geschäftsleitung, COO, Bereichs- oder Standortleitung 22–25; Abteilungsleitung mit Team und Budget 16–20; Projekt-/Programmleitung oder Manager ohne Linienführung 10–13; Teamleitung, Stellvertretung, kleines Team mit viel operativer Mitarbeit 4–8; Fachstelle 0–4.
+Ort 0–20: «ort_punkte» übernehmen. Nennt das Inserat einen anderen Arbeitsort: bis 30 Min. ab Schafisheim 20; Raum Zürich/Zug 16; Luzern, Solothurn, Langenthal, Basel-Land 12; Basel, Bern, Winterthur, Zürcher Oberland 6; weiter weg 2; voll remote 20 – und das in minus nennen.
+Umfeld 0–15: Industrie, Handel, Technik 15; unklar 11; Finanz, Verwaltung, Gesundheit, Bildung 4; Gastronomie, Pflege, Betreuung, Filiale 0.
+Obergrenzen: Stufe unter Abteilungsleitung höchstens 45; Basel/Bern/Winterthur/Zürcher Oberland ohne Geschäfts- oder Bereichsleitung höchstens 45; weiter weg höchstens 35; Gastronomie/Pflege/Betreuung/Filiale höchstens 30; Pensum unter 80 % höchstens 45.
+ko: eine im Inserat ausdrücklich zwingende Anforderung, die im Profil klar fehlt (Branche, Sprache auf Verhandlungsniveau, Fachabschluss); dann p höchstens 55, ko als ein Satz, sonst "".
+e: "bewerben" ab 80 ohne ko; "pruefen" 60–79 oder wenn das einzige ko eine Sprache ist und die Stelle sonst über 80 läge; sonst "lassen".
+plus: 2–4 Punkte, was passt, je mit Beleg aus dem Profil. minus: 1–3 Punkte, was fehlt oder offen ist. Je Punkt höchstens 160 Zeichen, Deutsch, Schweizer Rechtschreibung (ss statt ß).
+
+AUSGABE: im selben Repository, Branch main, die Datei eingang/urteile_<JJJJ-MM-TT>.json anlegen (oder überschreiben), Commit-Nachricht "Radar 2 <JJJJ-MM-TT>". Nur gültiges JSON, eine Liste mit je
+{"id":"<id>","p":<Zahl>,"e":"bewerben|pruefen|lassen|offline","plus":["…"],"minus":["…"],"ko":"…","pensum":"…","t":"<JJJJ-MM-TT>"}
+Nichts kürzen, keine anderen Dateien im Repository anfassen, keine Mail.

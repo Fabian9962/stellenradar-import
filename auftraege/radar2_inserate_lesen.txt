@@ -1,11 +1,14 @@
-Name: Radar 2 – Inserate lesen (Version 1, 15.11.2026)
+Name: Radar 2 – Inserate lesen (Version 2, 15.11.2026: nur eigene Umgebung, nie Fabians Laptop)
 Zeitplan: täglich 07:00 (Europe/Zurich)
 --- Auftrag ---
+ENVIRONMENT (mandatory): Work only in your own environment (your own servers and your own browser). Never use Fabian's laptop, his other devices, his network connection or any tool that runs on his computer, not even as a fallback. Do not write any files on his computer.
+If a site blocks you (bot protection, CAPTCHA, login wall, HTTP 403/429): do not try to get around it (no other devices, no proxies, no solving CAPTCHAs, no disguised access). Record it as BLOCKED as described below, continue with the next page or source, and write what you have.
+
 Lies Stelleninserate und beurteile sie für Fabian Kaiser. Jede Seite live öffnen, nichts aus dem Gedächtnis, nichts erfinden.
 
 EINGABE: Datei eingang/zu_lesen_<JJJJ-MM-TT>.json (heutiges Datum, Europe/Zurich) im GitHub-Repository Fabian9962/stellenradar-import, Branch main. Sie enthält eine JSON-Liste mit {"id","url","titel","firma","ort","ort_punkte","markiert"}. Fehlt die Datei oder ist die Liste leer, schreibe die Ausgabedatei mit dem Inhalt [] und beende.
 
-FÜR JEDE STELLE: «url» öffnen und den vollständigen Inseratstext lesen. Ist das Inserat nicht mehr verfügbar oder nur ein Kurztext ohne Aufgaben und Anforderungen: {"id":"…","p":0,"e":"offline"}.
+FÜR JEDE STELLE: «url» öffnen und den vollständigen Inseratstext lesen. Ist das Inserat nicht mehr verfügbar oder nur ein Kurztext ohne Aufgaben und Anforderungen: {"id":"…","p":0,"e":"offline"}. Ist die Seite gesperrt (Bot-Schutz, CAPTCHA, 403/429): die Stelle weglassen (nicht als offline melden), sie liest dann Claude.
 
 PROFIL FABIAN: über 20 Jahre Berufserfahrung; seit 01/2026 Head of Business Transformation bei mobilog AG (AMAG): Customer Care Center, Management Office, Projekte, Qualität/Umwelt/Sicherheit, Reporting, 5 direkt/~20 indirekt. 06/2023–12/2025 Head of Supply Chain Management bei Helion Energy (AMAG): Einkauf, Lager, Logistik, Stammdaten, Category Management, Einkaufsvolumen ~60 Mio. CHF, Budget ~4 Mio. CHF, Überbestände von 42 auf 2.5 Mio. CHF gesenkt, SAP S/4HANA. 08/2021–05/2023 COO und Mitglied der Geschäftsleitung bei Truninger-Plot24: Produktion, IT, 11 Standorte, ~100 indirekt. 2015–2021 Regent Beleuchtungskörper: Product Manager, Leiter Kundenauftragszentrum, Stv. Leiter Operations (~120 MA, Produktionsverlagerung Basel–Serbien). Früher Produktmanagement SensoPart, Konstrukteur Vitra, Werkzeugmechaniker. Bachelor of Engineering Wirtschaftsingenieurwesen, Executive MBA HSG in Arbeit. Deutsch Muttersprache, Englisch C1, Französisch nicht belegt. Wohnort Schafisheim AG. Nicht belegt (nie als Plus werten): Instandhaltung, Investitionsprojekte, Lean/Six Sigma-Zertifikat, GMP/Pharma, Export/Zoll, Ausschreibungen, P&L-Verantwortung, S&OP.
 Ziel: COO, Geschäftsleitung, mindestens oberes Kader mit Gesamtverantwortung für Operations, Supply Chain, Einkauf, Produktion oder Transformation, in Industrie, Handel oder Technik. Keine Teamleitungen, Stellvertretungen, Fachstellen. Reine Lager-/Logistikleitung ist zu eng.
