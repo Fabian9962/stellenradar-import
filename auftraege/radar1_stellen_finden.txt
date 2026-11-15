@@ -1,4 +1,4 @@
-Name: Radar 1 – Stellen finden (Version 3, 15.11.2026: nur eigene Umgebung, nie Fabians Laptop; Version 2: 12 Abfragen mehr – Director/VP, Bereichsleitung, GL, CEO, Werk-/Standortleitung, CSCO, CPO, CDO, CSO u. a.)
+Name: Radar 1 – Stellen finden (Version 3, 15.11.2026: Vollständigkeit – alle Seiten prüfen, Ergebnis erst am Ende schreiben; nur eigene Umgebung, nie Fabians Laptop; Version 2: 12 Abfragen mehr – Director/VP, Bereichsleitung, GL, CEO, Werk-/Standortleitung, CSCO, CPO, CDO, CSO u. a.)
 Zeitplan: täglich 06:00 (Europe/Zurich)
 --- Auftrag ---
 ENVIRONMENT (mandatory): Work only in your own environment (your own servers and your own browser). Never use Fabian's laptop, his other devices, his network connection or any tool that runs on his computer, not even as a fallback. Do not write any files on his computer.
@@ -52,3 +52,5 @@ then one line per job entry, all entries, in page order:
 Last line: #END|pages=<number of pages read>|jobs=<number of job lines>
 
 Rules: never invent a code. Replace a '|' inside a title by '/'. If a page cannot be opened, write #<KEY>|<D/W>|page=<N>|BLOCKED|<reason> and continue. Write nothing else to the repository, do not touch other files, send no email.
+
+Vollständigkeit: Process every query and every mode until the last page (no 'Nächste Seite' link remains). Never stop early and never sample. For each page, verify that count=<entries on page> matches the number of job lines you parsed; if they differ, re-read the page before continuing. Retry transient errors (timeouts, HTTP 5xx, connection errors) up to 3 times with growing pauses. Retry HTTP 403/429 once after a pause of a few minutes; if it still fails, write BLOCKED and continue. Do not circumvent bot protection (no proxies, no disguised access, no rotating IPs or user agents). Collect all results first; write the output file(s) to GitHub only after every query and mode is finished. Commit via git or the GitHub API using the token in the environment variable GITHUB_TOKEN_STELLENRADAR; never print the token. After writing, re-read the committed file(s) from GitHub and verify that the #END counts match the pages and job lines you collected.
