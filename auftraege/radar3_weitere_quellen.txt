@@ -1,4 +1,4 @@
-Name: Radar 3 – weitere Quellen (LinkedIn, jobs.ch, Indeed)
+Name: Radar 3 – weitere Quellen (LinkedIn, jobs.ch, Indeed) (Version 1, 15.11.2026)
 Zeitplan: täglich 05:30 (Europe/Zurich)
 --- Auftrag ---
 Find job ads on LinkedIn, jobs.ch and Indeed Switzerland and save them to GitHub. Open the search pages live; never use memory or invent anything.

@@ -11,6 +11,8 @@
 | 07:45 | Claude «Stellenradar: Grok-Urteile übernehmen» | schreibt die Urteile in den Radar, übernimmt `extern_…` in die Sammlung «extern», verschiebt alle Dateien nach `archiv/` |
 | 08:10 | Claude «Stellenradar: Alert-Mails einlesen und Inserate lesen» | liest die Inserate der neuen LinkedIn-/jobs.ch-/Indeed-Stellen (bestehende Aufgabe) |
 
-- `auftraege/`: die Grok-Aufträge, je Änderung eine neue Versionsdatei; ältere Versionen nach `auftraege/archiv/`.
+- `auftraege/`: die gültigen Grok-Aufträge. Grok liest sie bei jedem Lauf aus dem Repository; Änderungen hier wirken ab dem nächsten Lauf, ohne dass die Automation in Grok angepasst wird.
+  - `radar1_stellen_finden.txt`, `radar2_inserate_lesen.txt`, `radar3_weitere_quellen.txt` – Versionsnummer steht in der ersten Zeile.
+  - Vor jeder Änderung wird die bisherige Fassung als `auftraege/archiv/<name>_v<N>.txt` abgelegt.
 - Fehlt eine Grok-Datei, arbeitet Claude wie früher selbst (Rückfall).
 - Radar: https://claude.ai/artifact/7hSYRJjdcohBjct9yYZ3RL

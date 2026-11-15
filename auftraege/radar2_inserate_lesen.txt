@@ -1,4 +1,4 @@
-Name: Radar 2 – Inserate lesen
+Name: Radar 2 – Inserate lesen (Version 1, 15.11.2026)
 Zeitplan: täglich 07:00 (Europe/Zurich)
 --- Auftrag ---
 Lies Stelleninserate und beurteile sie für Fabian Kaiser. Jede Seite live öffnen, nichts aus dem Gedächtnis, nichts erfinden.
