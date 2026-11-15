@@ -23,3 +23,11 @@ jc|<jobs.ch UUID>|<title>|<company>|<location>
 in|<Indeed jk value>|<title>|<company>|<location>
 Replace a '|' inside a field by '/'. First line: # RUN <YYYY-MM-DD> <HH:MM>. Last line: # END <number of job lines>.
 Rules: never invent an ID; if you cannot see the real ID, skip the job. Write nothing else to the repository, do not touch other files, send no email.
+
+COMPLETENESS (Version 2):
+- Search EVERY role in the list, in its German and English variant, on EVERY source. Do not stop early or sample.
+- For each search, go through ALL result pages until the source shows no further results (empty page, no "next" link, or the source's own end of results). Keep a progress log per source and role so an interrupted run can resume where it stopped instead of starting over.
+- If a single page fails temporarily (timeout, network error, HTTP 5xx), wait and retry it up to 3 times before moving on; note pages that still fail as "# INCOMPLETE <source> <role> <page> <reason>".
+- Keep only ads whose title matches one of the listed roles (sensible German/English matching), posted in the last 14 days, located in the region above. Deduplicate.
+- Write the output file only after all sources, roles and pages have been checked. Before writing, check: every role was searched on every source, and the # END count equals the number of job lines.
+- Working environment: only your own computer and your own browser; nothing on Fabian's devices. If a source blocks access (login wall, captcha you cannot pass, HTTP 403/429, bot protection), do not try to circumvent it; write "# BLOCKED <source> <reason>" and continue with the next source.
