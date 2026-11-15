@@ -1,0 +1,40 @@
+Name: Radar 1 – Stellen finden
+Zeitplan: täglich 06:00 (Europe/Zurich)
+--- Auftrag ---
+Read jobagent.ch search results completely and save them to GitHub. Open every URL live; never use memory, cached data or search snippets.
+
+URL pattern:
+https://www.jobagent.ch/search?terms=<TERMS>&provinces=AG,ZH,BS,BL,LU,ZG,BE,SO,SZ,OW,NW,TG,SG,SH,UR&page=<N>
+Run each query twice: as above (mode D) and with &websearch=1 appended (mode W). For each query and mode start at page=1 and continue until there is no 'Nächste Seite' link.
+
+Queries (KEY = TERMS):
+scm1 = Head of Supply Chain,Leiter Supply Chain Management,Supply Chain Director
+scm2 = Supply Chain Manager,Leiter Supply Chain
+ops1 = Head of Operations,Leiter Operations,Chief Operating Officer,Betriebsleiter
+prod1 = Leiter Produktion,Produktionsleiter,Head of Production,Plant Manager
+einkauf1 = Leiter Einkauf,Head of Procurement,Leiter Beschaffung,Category Manager
+einkauf2 = Procurement Manager,Sourcing Manager,Commodity Manager,Strategic Procurement
+logistik1 = Leiter Logistik,Head of Logistics,Logistikleiter,Leiter Distribution
+opex1 = Head of Transformation,Leiter Operational Excellence,Lean Manager
+opex2 = Prozessmanager,Process Excellence,Change Manager,Transformation Manager
+gl1 = Geschäftsführer,Geschäftsleiter,Managing Director,CEO
+strategie1 = Chief of Staff,Leiter Unternehmensentwicklung,Head of Strategy
+strategie2 = Leiter Business Development,Head of Business Development
+produkt1 = Head of Product Management,Leiter Produktmanagement,Head of Product
+beratung1 = Senior Consultant Supply Chain,Manager Operations Consulting,Unternehmensberater
+projekt1 = Programmleiter,Head of PMO
+service1 = Head of Customer Service,Leiter Kundendienst,Leiter Service,Head of After Sales
+qualitaet1 = Leiter Qualitätsmanagement,Head of Quality,Leiter Qualitätssicherung
+digital1 = Head of Digital Transformation,Leiter Digitalisierung,ERP Projektleiter
+
+OUTPUT: create (or overwrite) ONE file in the GitHub repository Fabian9962/stellenradar-import, branch main, path eingang/finden_<YYYY-MM-DD>.txt (today's date, Europe/Zurich), commit message "Radar 1 <YYYY-MM-DD>". Do not shorten.
+If the file is too large to write in one commit, split it into eingang/finden_<YYYY-MM-DD>_teil1.txt, _teil2.txt, … (each under 150 KB, split only between pages); the #END line goes into the last part.
+
+File format, plain text, no markdown:
+First line: #RUN|<YYYY-MM-DD>|<HH:MM>
+For every page a header line: #<KEY>|<D or W>|page=<N>|headline=<headline verbatim>|count=<entries on page>|next=<N or NONE>
+then one line per job entry, all entries, in page order:
+<10-character code at the end of the job link>|<title>|<location>|<company>
+Last line: #END|pages=<number of pages read>|jobs=<number of job lines>
+
+Rules: never invent a code. Replace a '|' inside a title by '/'. If a page cannot be opened, write #<KEY>|<D/W>|page=<N>|BLOCKED|<reason> and continue. Write nothing else to the repository, do not touch other files, send no email.
