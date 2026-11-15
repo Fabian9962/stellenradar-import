@@ -4,10 +4,12 @@
 
 | Zeit (Europe/Zurich) | Wer | Datei |
 |---|---|---|
+| 05:30 | Grok «Radar 3 – weitere Quellen» | schreibt `eingang/extern_<JJJJ-MM-TT>.txt` (LinkedIn, jobs.ch, Indeed) |
 | 06:00 | Grok «Radar 1 – Stellen finden» | schreibt `eingang/finden_<JJJJ-MM-TT>.txt` (bei grossen Listen `_teil1.txt`, `_teil2.txt`, …) |
 | 06:40 | Claude «Stellenradar: suchen und Inserate lesen» | importiert die Liste in den Radar, schreibt `eingang/zu_lesen_<JJJJ-MM-TT>.json` |
 | 07:00 | Grok «Radar 2 – Inserate lesen» | liest die Inserate, schreibt `eingang/urteile_<JJJJ-MM-TT>.json` |
-| 07:45 | Claude «Stellenradar: Grok-Urteile übernehmen» | schreibt die Urteile in den Radar, verschiebt alle Dateien nach `archiv/` |
+| 07:45 | Claude «Stellenradar: Grok-Urteile übernehmen» | schreibt die Urteile in den Radar, übernimmt `extern_…` in die Sammlung «extern», verschiebt alle Dateien nach `archiv/` |
+| 08:10 | Claude «Stellenradar: Alert-Mails einlesen und Inserate lesen» | liest die Inserate der neuen LinkedIn-/jobs.ch-/Indeed-Stellen (bestehende Aufgabe) |
 
 - `auftraege/`: die Grok-Aufträge, je Änderung eine neue Versionsdatei; ältere Versionen nach `auftraege/archiv/`.
 - Fehlt eine Grok-Datei, arbeitet Claude wie früher selbst (Rückfall).

@@ -1,0 +1,22 @@
+Name: Radar 3 – weitere Quellen (LinkedIn, jobs.ch, Indeed)
+Zeitplan: täglich 05:30 (Europe/Zurich)
+--- Auftrag ---
+Find job ads on LinkedIn, jobs.ch and Indeed Switzerland and save them to GitHub. Open the search pages live; never use memory or invent anything.
+
+ROLES (search each, German and English variants): COO, Chief Operating Officer, Head of Operations, Director Operations, VP Operations, Leiter Operations, Betriebsleiter, Head of Supply Chain, Supply Chain Director, Chief Supply Chain Officer, Leiter Supply Chain, Leiter Einkauf, Head of Procurement, Chief Procurement Officer, Leiter Beschaffung, Leiter Produktion, Produktionsleiter, Werkleiter, Standortleiter, Plant Manager, Site Manager, Geschäftsführer, Managing Director, CEO, General Manager, Country Manager, Bereichsleiter, Mitglied der Geschäftsleitung, Head of Transformation, Chief Transformation Officer, Chief Digital Officer, Head of Digital Transformation, Head of Operational Excellence, Head of Business Excellence, Chief of Staff, Head of Strategy, Head of Product Management, Head of Customer Service, Head of Logistics, Program Director.
+REGION: Switzerland, cantons AG, ZH, ZG, LU, SO, BL, BS, BE (radius around Aarau/Lenzburg about 60 km is enough; include Zurich, Zug, Basel, Bern, Lucerne, Solothurn).
+AGE: only ads posted in the last 14 days.
+
+SOURCES:
+- LinkedIn public job search (no login): https://www.linkedin.com/jobs/search?keywords=<ROLE>&location=Switzerland&f_TPR=r1209600  – the job number is the digits in /jobs/view/<number>.
+- jobs.ch: search results for each role; the ID is the UUID in /detail/<UUID>/.
+- Indeed Switzerland (ch.indeed.com): the ID is the value of jk= in the job link (16 hex characters).
+Go through all result pages a source shows. If a source cannot be opened or asks for a login, write one line "# BLOCKED <source> <reason>" and continue with the next source.
+
+OUTPUT: create (or overwrite) ONE file in the GitHub repository Fabian9962/stellenradar-import, branch main, path eingang/extern_<YYYY-MM-DD>.txt (today's date, Europe/Zurich), commit message "Radar 3 <YYYY-MM-DD>". If too large for one commit, split into eingang/extern_<YYYY-MM-DD>_teil1.txt, _teil2.txt, …
+File format, plain text, one line per job, no markdown, each job only once:
+li|<LinkedIn job number>|<title>|<company>|<location>
+jc|<jobs.ch UUID>|<title>|<company>|<location>
+in|<Indeed jk value>|<title>|<company>|<location>
+Replace a '|' inside a field by '/'. First line: # RUN <YYYY-MM-DD> <HH:MM>. Last line: # END <number of job lines>.
+Rules: never invent an ID; if you cannot see the real ID, skip the job. Write nothing else to the repository, do not touch other files, send no email.
