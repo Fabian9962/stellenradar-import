@@ -1,0 +1,110 @@
+# RUN 2026-11-16 05:32
+# BLOCKED LinkedIn HTTP 429 bei oeffentlicher Suche (Rate-Limit/Bot-Schutz), nicht umgangen
+# BLOCKED Indeed ch.indeed.com HTTP 403 (Bot-Schutz), nicht umgangen
+jc|8e68475e-cc5c-40ee-b4ce-cd57d138d8c5|CFO (Mitglied der Geschäftsleitung) – 100 %|ProSearch AG|Basel
+jc|8c41ff28-cbae-4560-8948-02ce81b09ce6|Elektroprojektleiter mit Entwicklung zum Geschäftsführer (m/w/d)|das team ag|Basel (4052 Basel)
+jc|ab26cdac-193b-4c8c-84cf-2c44cb0a2071|Projektleiter Elektroinstallationen als Geschäftsführer|dasteam ag|Region Basel
+jc|6147285b-4650-4d34-bab1-07e955834dec|Leitung Zentrale Dienste - Mitglied der Geschäftsleitung|Ausgleichskasse des Kantons Solothurn|Zuchwil
+jc|cfa8e6e4-e11a-4ed0-8408-a427c9d988c9|Geschäftsleiter:in|Jörg Lienert AG|St. Urban
+jc|846a88cc-6fe9-4bc1-914d-821144fb4159|Geschäftsführer m/w/d|Curena AG|Zürich
+jc|2ce7b3c7-431d-48e7-a004-81057dd3a668|Head of Operations Elemente und Minirail (alle)|SCHNEEBERGER AG Lineartechnik|Roggwil BE
+jc|5bfd30d9-17a3-42d6-b87c-caf2d2564449|CEO / Vorsitz der Geschäftsleitung|Jörg Lienert AG|Wangen an der Aare
+jc|38d39527-0535-4a05-8518-641c48234273|Geschäftsführer/Geschäftsführerin|Schlössli Biel-Bienne|Biel/Bienne
+jc|eb51d1d8-f63a-4244-bb08-dc208d526232|Betriebsleiter / Geschäftsführer (m/w/d) für Heggidorn AG – 100%|Heggidorn AG|Frauenkappelen
+jc|4a74552e-28e3-46d2-9895-5bcb1fcc3d92|Geschäftsführer/-in 80-100%|PKZ Burger-Kehl & Co. AG|Urtenen-Schönbühl
+jc|b15c5369-8e30-4ce8-a255-1e9be01532d5|Bereichsleiter:in Software & Product Engineering und Mitglied der Geschäftsleitung|DV Bern AG|Bern
+jc|c7273f53-9c99-48d8-a645-1fbd51ebc65d|Geschäftsleiter*in APPISBERG|Verein Appisberg|Männedorf
+jc|14dfacb4-e067-489f-ad25-583089a7b54c|Leitung Finanzen / CFO, Mitglied der Geschäftsleitung (80-100%)|Sanacare AG|Winterthur
+jc|2339ec96-37f8-43b6-90e3-53c01263ff16|Geschäftsleiter:in (alle)|Karl Waechter AG|Zürich
+jc|967d9d10-b1f8-47d1-87ab-754795e804b9|Head of Digital Sales & Delivery Business (d/w/m)|Tenz GmbH|Schlieren
+jc|c8e06f49-3dcc-426f-9a37-513765de5b42|INHABER / GESCHÄFTSFÜHRER im erweiterten Automobil-Umfeld (w/m)|Mooser & Partner AG Personalberatung|Zürich (Nord)
+jc|df8b006b-b8cc-45e1-adad-ada84439889d|Betriebsleiter|Estoppey-Reber SA|Aegerten
+jc|8e098a12-1d42-47f6-8344-d542772e72e0|Head of Customer Services|Quickline AG|Nidau
+jc|ada08923-85ea-4ad9-acc6-b21632c5498b|Produktionsleiter / Head of Production (m/w/d)|Glas Trösch AG|Ursenbach
+jc|86458779-c6e9-40d0-acea-8a2c8a76b3fa|Head of Operations (all genders)|Angst+Pfister AG|Zürich
+jc|3a79294c-3323-425f-bc62-4482353a2d09|Produktionsleiter / Head of Production (m/w/d)|Glas Trösch AG|Bern
+jc|54e26f55-4207-4e79-a4c8-2e281c5db50e|Geschäftsleitung Alterszentrum (m/w/d)|news Personal AG|Wohlen
+jc|39e01b4d-9b1c-4d99-8e5e-561295e3934a|LeiterIn Transport National (Mitglied der Geschäftsleitung)|Schöni Transport AG|Rothrist
+jc|91b06977-4da5-4b0f-8235-2df67d3ce468|BEREICHSLEITER ELEKTROINSTALLATIONEN|Thomson Consulting AG|Raum Zürich
+jc|7f83eb59-3d76-4828-ad3c-acc742fb00f4|Leiter/in Logistik (100 %) Mitglied der Geschäftsleitung|Otto Fischer AG|Zürich
+jc|eca8c39b-2389-4eae-bac1-03f746141b11|Ärztliche Direktorin / ärztlicher Direktor Erwachsenenpsychiatrie & Mitglied Geschäftsleitung|Innopool AG|Liestal
+jc|de77d48d-b2be-4e5d-8942-b632bb76de44|Betriebsleiterin/Betriebsleiter Technischer Dienst|Kantonale Verwaltung Basel-Landschaft|Niederdorf
+jc|6535f0fe-fa9f-4335-b0db-36cd5a3f4344|Mitglied der Geschäftsleitung Verkauf, Vertrieb & Marketing (m/w/d) (100%)|Nellen & Partner AG|Zürich
+jc|ddcbecf8-87c8-4140-a4c0-2080369d0c02|Geschäftsleitung Dienstleistungszentrum für Kirchgemeinden|Genossenschaft Dienstleistungszentrum für Kirchgemeinden|Zürich
+jc|58902887-2cf0-4ac3-98e0-ee3b8d90947d|Leiter Logistik / Betriebsleiter (m/w/d)|Planzer|Regensdorf
+jc|56920463-9dfd-4a14-a52e-bec6f26617b4|Geschäftsführer:in 80 - 100%|iek Institut für emotionale Kompetenz AG|Zürich
+jc|9f29ce25-4b1b-4aaa-9013-5db1e5f444a9|Stellvertretender Geschäftsleiter oder Assistent (m/w/d) 100%|BAUHAUS Fachcentren AG|Niederwangen
+jc|47e2e8c8-d22c-46dc-9356-15a209353dbc|Geschäftsführer/in, Leiter/in Geschäftsstelle (50%) / Verband, Verein, Kultur, NGO|Berner Münster Kinder- und Jugendchor|Bern
+jc|a0c0f5c6-d660-402b-b0ec-52d6e401d7d1|Geschäftsführer/in Vorsorgestiftung, 80-100%|Spitalzentrum Biel AG|Biel
+jc|2e8ffb49-9f1e-4ffe-b22f-798976cc5b29|Stv. Betriebsleiter (20%) sowie Dachfenster Monteur (80%)|Dachfenster Keller GmbH|Thalheim an der Thur
+jc|2fad3b36-d8b0-4388-bb06-48d1612b7045|Montageleiter Logistikanlagen 100% (m/w/d)|das team ag|Aarau (5000 Aarau)
+jc|a7284d5a-052a-44d3-8f1b-aeaaeb4bebf7|Teamleiter Produktion 100% (m/w) in Full-Reuenthal (CH)|SELFRAG AG|Aargau
+jc|f91d857c-edef-4c90-9e84-cc8f55f709f1|Projektleiter:in Elektroplanung im Hochbau / Stv. Geschäftsleitung|e-selection AG|Zug
+jc|48b0be25-8e2e-4cef-8f0e-a82172282808|Teamleiter Produktion (100%)|Huber+Suhner AG|Pfäffikon
+jc|fc85b73b-5bd6-49a1-83e8-915a901d6268|Standortleiter LKW Werkstatt & Kundendienst 100% (m/w/d)|F. Murpf AG, Transporte und Logistik|Hägendorf
+jc|f7e7c829-3d02-440b-b3cd-ae1b75946043|Standortleiterin oder Standortleiter, Schulleiter|Oberstufe Wasseramt Ost, Schulzentrum DeLu|Derendingen
+jc|d53b1778-1376-45c2-8851-61493c7f74bb|Leitung Berufliche Vorsorge / Mitglied der Geschäftsleitung (80-100%)|Amrop Executive Search AG.|Zürich
+jc|a032a5ff-950a-4283-9c2f-002bf3770744|Stellvertretende*r Filialbereichsleiter*in Fleisch/Fisch in Affoltern am Albis|Migros Zürich|Affoltern am Albis
+jc|9b605b86-42e0-4f70-ad70-9c3779681117|Betriebsleiter:in Gastronomie / Unit Manager 100% - Flughafen Zürich (JobID 12552)|Autogrill Schweiz-AG|Zürich
+jc|9e46f6ee-08bf-40d2-a75d-698bbeffd84d|Betriebsleiter Spritzwerk (m/w/d) / Bern|TOMCO-PERSONAL AG|Bern
+jc|b4fcfe1f-5d3d-47fa-a617-684b0790f4ca|Betriebsleiter/in 100%|Fankhauser AG HUTTWIL, Rohrbach|Bern
+jc|b91321d5-5a1d-466e-b3e5-70bc7e1ec38a|Betriebsleiter Strassen- und Tiefbau (a) 100%|Opus Personal AG, Zweigniederlassung Bern|Bern
+jc|556424a4-5634-476c-bd02-cde4d455d7cc|Teamleiter Produktion / Supply Chain (m/w/d) , Meilen|Delica AG|Meilen
+jc|9157f9e7-5641-4cdf-85b3-67d37d73dd3a|Filialbereichsleiter*in Fleisch/Fisch in Affoltern am Albis|Migros Zürich|Affoltern am Albis
+jc|a8729944-d821-46cf-9055-b11bb89330e6|Leiter:in ÜK-Zentrum und Mitglied der Geschäftsleitung 80 - 100 %|OdA Gesundheit beider Basel|Münchenstein
+jc|f7bf376d-56c3-42ce-a1ef-6dceea96c992|Projektleiter Bahntechnik und Stellvertreter Bereichsleiter (m/w)|Eduard Steiner AG Rikon|Rikon
+jc|db0f27a2-7022-446d-bb8f-9155f38df45f|Geschäftsleiter Stv. (m/w/d) 100%|BAUHAUS Fachcentren AG|Langenthal
+jc|80d9f211-80ff-4be5-8db9-2df225931171|Teamleiter Logistik 100% (m/w/d)|F. Murpf AG, Transporte und Logistik|Rümikon
+jc|4e017103-dead-4a48-bc1d-5c36305822b9|Bereichsleiter/-in Vertrag|Aargauische Gebäudeversicherung|Aarau
+jc|d691a4dd-271d-49d6-ba0b-b3d617851109|Mitglied der Geschäftsleitung mit Schwerpunkt Recht, Risiko und Finanzen|Alternative Bank Schweiz AG|Olten
+jc|94f7694f-5f52-402b-baaa-10c3bb5f3e93|Bereichsleiter/in Zentrale Dienste 60%-80%|Stadt Grenchen|Grenchen
+jc|4835f4d2-b9d5-4eb4-8cc9-43bedd69cdd3|Nachwuchsprogramm: Bereichsleiter*in Supermarkt|Genossenschaft Migros Aare|Solothurn
+jc|56ec2487-6837-4dfd-88eb-a816f54c79e8|Nachwuchsprogramm: Bereichsleiter*in Supermarkt|Genossenschaft Migros Aare|Egerkingen
+jc|25528937-0de1-49fc-a307-2c44f330eae9|Nachwuchsprogramm: Bereichsleiter*in Supermarkt|Genossenschaft Migros Aare|Aargau
+jc|831da2c7-2134-4584-a323-248e171e3a0f|Nachwuchsprogramm: Bereichsleiter*in Supermarkt|Genossenschaft Migros Aare|Aargau
+jc|c071f5c2-f056-42fc-bac8-5669390d87f6|FACHBEREICHSLEITER:IN BAU (w/m/d)|HOLINGER AG|Emmenbrücke
+jc|8d89e1a2-98e5-4509-87ec-e0552c93326b|Bereichsleiter/in Softwarelösungen|BLT Baselland Transport AG|Basel
+jc|bb888596-5dee-471c-80a7-7360d727dd8e|Leitung Pflege und Betreuung (80 - 100%) / Mitglied der Geschäftsleitung|Keller Unternehmensberatung AG|Pfäffikon ZH
+jc|2d753ffb-556a-4a5d-a658-e96512cafab7|Nachwuchsprogramm: Bereichsleiter*in Supermarkt|Genossenschaft Migros Aare|Bern
+jc|4bcef187-12f1-433f-95ef-383ab1ccc874|Nachwuchsprogramm: Bereichsleiter*in Supermarkt|Genossenschaft Migros Aare|Bern
+jc|0ff34ac6-dbb3-4714-8218-acf8e6a44e50|Produktionsleiter*in Schreinerei|ERNE AG Holzbau|Laufenburg
+jc|e41cab74-4510-463a-83b9-c5dddcf0f5ee|Produktionsleiter*in Schreinerei|ERNE AG Holzbau|Laufenburg
+jc|637f4cdc-4952-42a3-9267-e1cbc04eea6f|PRODUKTIONSSUPPORT TECHNIK UND PROZESSE / STV. LEITUNG PRODUKTION (60-100%)|Phytomed AG|Hasle b. Burgdorf
+jc|0d831301-191a-4b65-b6b9-eceaaa587f3e|Standortleiter mit übergeordneter Führungsverantwortung 80–100 % (m/w/d) Chez Grisoni Thalwil|Chez Grisoni|Thalwil
+jc|6e301d35-53fe-4be6-b383-5ec7476eb5c6|Bereichsleiter*in Wohnen 80-100%|Stiftung Züriwerk|Bubikon
+jc|37325669-163f-43e8-beb4-9da2c0dcbafe|Fachbereichsleiter*in und Stv. Bereichsleiter*in Bade- und Eisanlagen|Stadt Zürich – Sportamt|Zürich
+jc|bfa39525-ec66-431a-a93d-a73d27c836c2|Kaufmännische:r Bereichsleiter:in Spezialtiefbau|STRABAG AG|Zürich
+jc|173a2610-64cc-40a1-8f06-29823206935f|Bereichsleiter*in Archäologie & Denkmalpflege|Stadt Zürich – Amt für Städtebau|Zürich
+jc|2c2766b9-840d-4aec-aa77-fe9ab5826bd7|Geschäftsführerin / Geschäftsführer Bildungsraum Nordwestschweiz BRNW 60%|Kanton Aargau|Aarau
+jc|cec5b88d-f4a4-4aa9-91cf-dad085dc869b|Teamleitung Standort Rheinfelden 80-100%|Spitex Fricktal AG|Rheinfelden
+jc|0f68d22e-bf20-4fb9-b290-4923b82d83b2|Standortleiter LKW Werkstatt & Kundendienst 100% (m/w/d)|F. Murpf AG, Transporte und Logistik|Solothurn
+jc|5700a801-b49a-44b1-a41b-a49761b6f7c3|HLK Expert:in, Stv. Bereichsleiter:in HLKS 80-100%|AW_DeutschSchweiz|Basel
+jc|c0d94c2e-7401-4177-bef1-493b774b1122|Bereichsleiter/-in Aufsicht & Betreuung, 100%|Sicherheitsdirektion des Kantons Bern|Biel
+jc|4c0e765d-6a75-4f66-9f57-e15bdc5435af|Bereichsleiter/-in IT-Infrastruktur|Informatik Service Center ISC-EJPD|Bern
+jc|ac3b9d02-f6d4-4fe6-b7a9-0a4aef538586|Bereichsleiter/in Hotellerie, Infrastruktur und Garten (80-100%)|Schlössli Pieterlen|Pieterlen
+jc|64f348fb-1ad6-4003-a60d-52c6f64c6223|Country Manager Switzerland - Premium Lifestyle & Accessories|Luxury Experts Sarl|Bern
+jc|9e8b8f85-2337-4600-a579-996876d5b4ac|Site Manager – GIS Substations|INP Schweiz AG|Aargau
+jc|bb4e1c14-e02c-49f3-965c-17775914baaa|Site Manager / Site Coordinator – Data Centers|INP Schweiz AG|Aargau
+jc|0b28a630-4d77-4a1d-b5d8-62331c5bbe97|Stv. Geschäftsführer Restaurant mit Küchenchef:in Funktion|Coop Restaurant|Dietikon Silbern Restaurant - Silbernstrasse 9
+jc|a6d83577-97f3-4435-b2ff-bf8491dcdc05|Assistenz der Geschäftsleitung (70%)|The M.-L. von Franz Institute for Studies in Synchronicity|Zürich
+jc|e2c527a5-c828-4a0d-9801-fbf980b22daf|Assistent:in der Geschäftsleitung|Jörg Lienert AG|Baar
+jc|b34d2a5c-95ca-4960-b482-20d7a3c7e542|Projektleiter:in interne Projekte – direkt an der Seite der Geschäftsleitung|Parallel Informatik AG|Luzern
+jc|4dadb4e7-607c-4b44-8c7b-fd40f1ff0363|Assistenz Geschäftsleitung / Immobiliensachbearbeitung (m/w/d)|RIMO AG|Reiden
+jc|70540ded-e82c-4068-bed8-b6bb22a21e2b|Co-Geschäftsführer*in 30–50% (m/w/d)|KIBE Region Huttwil|Bern
+jc|a332e3c6-3cc2-49a3-9e0d-f1997d5dc12d|Assistent/in der Geschäftsleiterin 40%|dahlia Verein|Langnau im Emmental
+jc|cb235d3a-8d56-4030-8b8a-060c19c9b00c|Assistentin der Geschäftsleitung (m/w/d)|Eidgenössische Finanzmarktaufsicht FINMA|Bern
+jc|eae5afe2-aaba-4849-b4b9-b5f9914af70e|Assistant Events & Support CEO Office|ISS Schweiz AG|Zürich-Altstetten (direkt beim Bahnhof)
+jc|c4ab1c60-8892-414f-a320-d6d50885c43e|Bereichsleiter/in Softwarelösungen - BLT|BLT Baselland Transport AG|Basel
+jc|bdc11c22-22f4-44ab-97bf-c602d4f02b38|Leitung Pflege und Betreuung / Mitglied der Geschäftsleitung (80-100%). per sofort od. n.V.|Adecco|Aarau
+jc|c68ec39e-4240-4350-be51-75dee3528494|Assistentin der Geschäftsleitung (m/w/d)|Eidgenössische Finanzmarktaufsicht (FINMA)|Bern
+jc|cdbe6de5-06fe-4dbb-89d7-ca5fb504e225|Geschäftsführer:in|Import Parfumerie|Langenthal
+jc|507ea9de-3a7b-4180-a4d7-9960daeefbf2|FACHBEREICHSLEITER:IN Kommunaler Tiefbau (w/m/d) - Der Fachbereich Kommunaler Tiefbau umfasst hauptsächlich Bauprojekte in den Bereichen Werkleitungsbau, Tiefbau/Strassenbau und Siedlungsentwässerung 80 - 100%|HOLINGER|Bern
+jc|02fff399-3639-4a7f-92d2-26f3f02e4c6d|Stv. Geschäftsführer:in 80-100%|Two Spice AG|Bern, Westside
+jc|9348c4ba-c333-4caa-93b4-160606570659|Geschäftsführer:in Restaurant Worb|Coop Restaurant|Worb
+jc|a6ab1cbf-5026-4d99-bdb3-d02e31d3c4c8|Betriebsleiter:in mit Kochfunktion|Genossenschaft ZFV Unternehmungen|Bern
+jc|efc28943-48ec-4c1b-839e-2808af1dcc0c|Bereichsleiter:in Inland und Mitglied der Geschäftsleitung (80–100%)|Stiftung Hilfswerk der Evangelischen Kirchen Schweiz (HEKS)|Zürich
+jc|4f14999f-30d6-4e87-87fa-a386a44d91f0|Fachbereichsleiter/-in Projektmanagement 100 %|Kantonspolizei Bern|Bern
+jc|2d6b5152-cc85-4738-a95f-045e09334f22|Aspirant:in Geschäftsführer:in|COOP|Stadt Zürich
+jc|79d0ec42-0746-42f0-88f5-84e3dcbaa2a2|Geschäftsführer:in 100%|Two Spice AG|Winterthur Kesselhaus
+jc|000a643a-2228-4119-b5a6-900525910a8a|FACHBEREICHSLEITER:IN BAU (w/m/d) - Anstellung per Sofort oder nach Vereinbarung 80 - 100%|HOLINGER|Luzern
+# END 106
