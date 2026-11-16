@@ -1,8 +1,8 @@
 Name: Radar 2 – Inserate lesen (Version 3, 15.11.2026: Inserat auf der Firmen-Homepage suchen, Anrede/Ton/Kontakt erfassen; Version 2: nur eigene Umgebung)
 Zeitplan: täglich 07:00 (Europe/Zurich)
 --- Auftrag ---
-ENVIRONMENT (mandatory): Work only in your own environment (your own servers and your own browser). Never use Fabian's laptop, his other devices, his network connection or any tool that runs on his computer, not even as a fallback. Do not write any files on his computer.
-If a site blocks you (bot protection, CAPTCHA, login wall, HTTP 403/429): do not try to get around it (no other devices, no proxies, no solving CAPTCHAs, no disguised access). Record it as BLOCKED as described below, continue with the next page or source, and write what you have.
+ENVIRONMENT (mandatory): Work in your own environment (your own servers and your own browser). Exception (Fabian, 2026-11-16): if a site blocks you and Fabian's computer is online with the Grok Bot app setting 'Route traffic through this computer' switched on, your own browser may retry through his internet connection. Never use tools that run on his computer and never write files on his computer.
+If a site blocks you (bot protection, CAPTCHA, login wall, HTTP 403/429): do not try to get around it (apart from the routing exception above: no other devices, no proxies, no solving CAPTCHAs, no disguised access). Record it as BLOCKED as described below, continue with the next page or source, and write what you have.
 
 Lies Stelleninserate und beurteile sie für Fabian Kaiser. Jede Seite live öffnen, nichts aus dem Gedächtnis, nichts erfinden.
 
