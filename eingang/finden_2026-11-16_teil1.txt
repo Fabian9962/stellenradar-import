@@ -1,0 +1,1406 @@
+#RUN|2026-11-16|09:50
+#scm1|D|page=1|headline=13 Jobs gefunden|count=7|next=NONE
+#scm1|D|page=2|headline=13 Jobs gefunden|count=0|next=NONE
+#scm1|W|page=1|headline=6 Jobs in der Websuche gefunden|count=6|next=NONE
+#scm2|D|page=1|headline=80 Jobs gefunden|count=41|next=NONE
+32566a626b|Management Consultant SAP Strategy - SCM Lead 80-100%(w/m/d)|Bern (PostParc, Bahnhof Bern) oder Zürich-Flughafen (TheCircle )|NTT DATA Business Solutions AG
+325562684f|Customs and Supply Chain Specialist|6017 Ruswil|SIGA AG
+3255626777|Supply Chain Specialist|6017 Ruswil|SIGA AG
+3255626774|Supply Chain Specialist & Procurement|6017 Ruswil|SIGA AG
+#scm2|D|page=2|headline=80 Jobs gefunden|count=0|next=NONE
+#scm2|W|page=1|headline=39 Jobs in der Websuche gefunden|count=39|next=NONE
+#ops1|D|page=1|headline=256 Jobs gefunden|count=100|next=2
+325661614a|Head of HR Operations|2504 Biel/Bienne, CH-BE|The Swatch Group AG
+#ops1|D|page=2|headline=256 Jobs gefunden|count=100|next=NONE
+3254797030|Head of Asset Management Operations Services Teilzeit/Vollzeit|4002 Basel (Hauptsitz)|Helvetia Schweizerische Lebensversicherungsgesellschaft AG
+#ops1|D|page=3|headline=256 Jobs gefunden|count=0|next=NONE
+#ops1|W|page=1|headline=56 Jobs in der Websuche gefunden|count=56|next=NONE
+#prod1|D|page=1|headline=198 Jobs gefunden|count=100|next=2
+3256785131|Produktionsleiter 100% (m/w)|CH-8645 Jona|Legno Gartenschreiner GmbH
+3253755376|Leiter Fertigung (m/w/d)|Zürich|Rheinmetall Air Defence AG
+#prod1|D|page=2|headline=198 Jobs gefunden|count=4|next=NONE
+#prod1|W|page=1|headline=94 Jobs in der Websuche gefunden|count=94|next=NONE
+3256783562|Produktionsleiter 100% (m/w/d)|Luzern|Universal-Job AG
+3256755749|Produktionsleiter Elektrogeräte 100%|5000 Aarau|Topas Personal Winterthur AG
+#einkauf1|D|page=1|headline=99 Jobs gefunden|count=55|next=NONE
+325565475a|Category Manager (m/w/d) 80-100%|Weinfelden|Lidl Schweiz AG
+#einkauf1|D|page=2|headline=99 Jobs gefunden|count=0|next=NONE
+#einkauf1|W|page=1|headline=45 Jobs in der Websuche gefunden|count=45|next=NONE
+#einkauf2|D|page=1|headline=495 Jobs gefunden|count=106|next=2
+32564f584b|Global Strategic Sourcing Manager - Packaging, IT & Prof. Services|9469 Sennwald|VAT Vakuumventile AG
+3256697159|Purchasing Manager Bauverträge und Industriebau|4001 Basel|gloor & lang ag
+#einkauf2|D|page=2|headline=495 Jobs gefunden|count=104|next=3
+32556e5a72|Commodity Group Manager|Frick|Jakob Müller AG Frick
+3255626653|Einkäufer:in 100 %|6300 Zug|Bossard Group AG
+3256526b55|Transaktionsmanager Einkauf 100%|Baden|Kohlberg & Partner GmbH
+3255427730|Einkäufer/in 100%|Deutschschweiz|Eisberg AG
+#einkauf2|D|page=3|headline=495 Jobs gefunden|count=45|next=NONE
+#einkauf2|W|page=1|headline=254 Jobs in der Websuche gefunden|count=100|next=2
+3256783370|Einkäufer/in 50%|9016 St. Gallen|RFbeam Microwave GmbH
+32566d5465|Technische:r Einkäufer:in [#595] - per sofort 100%|CH-6283 Baldegg|PAUL WICKI PERSONAL AG
+#einkauf2|W|page=2|headline=254 Jobs in der Websuche gefunden|count=100|next=3
+#einkauf2|W|page=3|headline=254 Jobs in der Websuche gefunden|count=54|next=NONE
+#logistik1|D|page=1|headline=378 Jobs gefunden|count=107|next=2
+3256666d65|Leiter Logistik (m/w/d)|Altdorf (UR)|RWM Schweiz AG
+3256566751|Leiter/in IT Finanzen und Logistik (m/w/d) 100%|CH-9000 St. Gallen|Kanton St.Gallen
+3256533563|Teamleiter:in Logistik 80-100%|CH-5606 Dintikon|Swiss Post Cargo CH AG
+#logistik1|D|page=2|headline=378 Jobs gefunden|count=104|next=3
+#logistik1|D|page=3|headline=378 Jobs gefunden|count=56|next=NONE
+#logistik1|W|page=1|headline=126 Jobs in der Websuche gefunden|count=100|next=2
+32564c5331|Leiter/in IT Finanzen und Logistik (m/w/d) 80-100%|9000 St.Gallen|Kanton St.Gallen
+#logistik1|W|page=2|headline=126 Jobs in der Websuche gefunden|count=26|next=NONE
+#opex1|D|page=1|headline=31 Jobs gefunden|count=23|next=NONE
+#opex1|W|page=1|headline=8 Jobs in der Websuche gefunden|count=8|next=NONE
+#opex2|D|page=1|headline=396 Jobs gefunden|count=107|next=2
+3256777861|Business Process Excellence Director|Zürich|Kanadevia Inova AG
+3256557670|Spécialiste en gestion du changement|3007 lieu de travail à convenir|Schweizerische Radio- und Fernsehgesellschaft
+3256557666|Specialista in Change Management|3007 luogo di lavoro da concordare|Schweizerische Radio- und Fernsehgesellschaft
+3256557662|Fachspezialist:in Change Management|3007 Arbeitsort nach Vereinbarung|Schweizerische Radio- und Fernsehgesellschaft
+#opex2|D|page=2|headline=396 Jobs gefunden|count=104|next=3
+3256657670|Prozessverantwortliche/r Pflege & Qualitätssicherung|Sursee|Adecco
+3256345969|Downstream Process Expert - API Production Site Development 100%|4332 Sisslerfeld|Bachem AG
+#opex2|D|page=3|headline=396 Jobs gefunden|count=45|next=NONE
+#opex2|W|page=1|headline=155 Jobs in der Websuche gefunden|count=100|next=2
+3256695074|Prozessfachmann|Altstätten, Rheintal, Sankt Gallen|Gi Group SA
+#opex2|W|page=2|headline=155 Jobs in der Websuche gefunden|count=55|next=NONE
+#gl1|D|page=1|headline=506 Jobs gefunden|count=106|next=2
+3256783277|Director, Obesity Commercial & Brand Marketing|Zurich|Novo Nordisk Health Care AG
+3256783039|Geschäftsführer:in Meiringen -100%|Meiringen|Coop Genossenschaft
+3256777862|Senior Director Group Financial Planning & Analysis|Zürich|Kanadevia Inova AG
+3256777866|(aus dem Bereich Tief- und Strassenbau)|Altendorf|Acosim AG
+3256775244|INHABER / GESCHÄFTSFÜHRER im erweiterten Automobil-Umfeld|8600 Zürich (Nord)|Mooser & Partner AG Personalberatung
+3256636c69|Executive Director, International Medical Affairs, Dermatology|Basel (City)|Novartis AG
+#gl1|D|page=2|headline=506 Jobs gefunden|count=104|next=3
+325655674c|Executive Director, Global Corporate Communications Strategy & Enablement|Basel (City)|Novartis AG
+#gl1|D|page=3|headline=506 Jobs gefunden|count=104|next=4
+#gl1|D|page=4|headline=506 Jobs gefunden|count=61|next=NONE
+#gl1|W|page=1|headline=149 Jobs in der Websuche gefunden|count=100|next=2
+3256784e64|Projektleiter / Stv. Geschäftsführer 80 - 100 %|CH-6300 Zug|Matthias Döll GmbH
+3256714f54|CEO / Vorsitz der Geschäftsleitung 100%|CH-3380 Walliswil b. Niederbipp|Jörg Lienert AG
+32566f3978|Assistenz der Geschäftsführung / Assistant to Managing Director|Rorschach|Würth Management AG
+#gl1|W|page=2|headline=149 Jobs in der Websuche gefunden|count=49|next=NONE
+#strategie1|D|page=1|headline=39 Jobs gefunden|count=33|next=NONE
+#strategie1|W|page=1|headline=6 Jobs in der Websuche gefunden|count=6|next=NONE
+#strategie2|D|page=1|headline=28 Jobs gefunden|count=19|next=NONE
+#strategie2|W|page=1|headline=9 Jobs in der Websuche gefunden|count=9|next=NONE
+#produkt1|D|page=1|headline=16 Jobs gefunden|count=12|next=NONE
+#produkt1|W|page=1|headline=4 Jobs in der Websuche gefunden|count=4|next=NONE
+3256784c35|Leitung Marktsegment Holz 100%|CH-6203 Sempach Station|Jörg Lienert AG
+#beratung1|D|page=1|headline=257 Jobs gefunden|count=107|next=2
+#beratung1|D|page=2|headline=257 Jobs gefunden|count=82|next=NONE
+#beratung1|W|page=1|headline=79 Jobs in der Websuche gefunden|count=79|next=NONE
+3255445835|Security Operations Engineer DevSecOps (a) 80 - 100%|CH-5405 Dättwil AG|cyberunity AG
+#projekt1|D|page=1|headline=39 Jobs gefunden|count=30|next=NONE
+#projekt1|W|page=1|headline=10 Jobs in der Websuche gefunden|count=10|next=NONE
+#service1|D|page=1|headline=243 Jobs gefunden|count=105|next=2
+3256435270|Serviceleiter Beton-, Tunnel- und Bergbautechnik 100% (m/w)|CH-8105 Regensdorf|Robert Aebi AG
+3255685445|Leiter Service Kältetechnik (w/m/d) - FRIGEL AG|Zuzwil SG|Frigel AG
+#service1|D|page=2|headline=243 Jobs gefunden|count=65|next=NONE
+#service1|W|page=1|headline=82 Jobs in der Websuche gefunden|count=82|next=NONE
+3256765330|Leiter Service Gebäudetechnik, 80-100%|CH-6060 Sarnen|Persigo AG
+#qualitaet1|D|page=1|headline=84 Jobs gefunden|count=52|next=NONE
+3256336370|Lead Quality Control - Sisslerfeld Site Develepoment 100%|4332 Stein AG|Bachem AG
+#qualitaet1|W|page=1|headline=33 Jobs in der Websuche gefunden|count=33|next=NONE
+#digital1|D|page=1|headline=198 Jobs gefunden|count=100|next=2
+#digital1|D|page=2|headline=198 Jobs gefunden|count=18|next=NONE
+#digital1|W|page=1|headline=83 Jobs gefunden|count=83|next=NONE
+#ops2|D|page=1|headline=497 Jobs gefunden|count=100|next=2
+3256784c64|Teamleitung & Stv. Leitung Pflege und Bereuung Dipl. Pflegefachfrau / Pflegefachmann HF/FH/DNII 80-1 80-100%|CH-8952 Schlieren|TERTIANUM AG
+325678334f|Teamleitung & Stv. Leitung Pflege und Bereuung Dipl. Pflegefachfrau / Pflegefachmann HF/FH/DNII 80-1|8952 Schlieren (ZH)|TERTIANUM AG
+#ops2|D|page=2|headline=497 Jobs gefunden|count=104|next=3
+#ops2|D|page=3|headline=497 Jobs gefunden|count=104|next=4
+#ops2|D|page=4|headline=497 Jobs gefunden|count=75|next=NONE
+#ops2|W|page=1|headline=126 Jobs gefunden|count=100|next=2
+#ops2|W|page=2|headline=126 Jobs gefunden|count=26|next=NONE
+#ops3|D|page=1|headline=209 Jobs gefunden|count=100|next=2
+#ops3|D|page=2|headline=209 Jobs gefunden|count=60|next=NONE
+#ops3|W|page=1|headline=51 Jobs gefunden|count=51|next=NONE
+#gl2|D|page=1|headline=1’468 Jobs gefunden|count=100|next=2
+3256784c4d|Leiter:in Abteilung Sicherheit 80-100%|CH-3098 Köniz|Gemeinde Köniz
+3256785155|System Engineer Microsoft / Stv. Abteilungsleiter Technik (80-100 %)|CH-6010 Kriens|BAMBUS EDV-Consulting GmbH
+3256783751|Leitung Berufliche Vorsorge / Mitglied der Geschäftsleitung (80-100%)|Zürich|ATIOZ, BVG- und Stiftungsaufsicht Tessin, Ostschweiz und Zürich
+#gl2|D|page=2|headline=1’468 Jobs gefunden|count=104|next=3
+3256714565|Bereichsleiter/-in IT-Infrastruktur 80-100%|Zollikofen|Eidgenössisches Justiz- und Polizeidepartement (EJPD)
+325671744f|Leiter:in ÜK-Zentrum und Mitglied der Geschäftsleitung 80 - 100 %|CH-4142 Münchenstein|OdA Gesundheit beider Basel
+325671737a|Bereichsleitung «Menschen aus Hochprävalenzländer HIV und Kunden der Sexarbeit» (80 - 100%)|CH-8004 Zürich|Sexuelle Gesundheit Zürich SeGZ
+3256716353|Stellvertretender Business Unit Leiter (w/m/d) 80-100%|Oftringen|ETAVIS AG
+3256716837|Leitung Finanzen / CFO, Mitglied der Geschäftsleitung 80-100%|Winterthur|Sanacare AG
+3256707277|Gruppenleitung Tagesstätte mit Stv. der Abteilungsleitung 100%|8840 Einsiedeln|BSZ Stiftung
+3256724b57|Leiter/-in Fachbereich Regionale Steuerung und Standards Region Ost 80-100%|Zürich|Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS)
+3256714755|Sektorchef Operations 100% Revierbewachungen (m/w/d)|Winterthur|Securitas AG Schweizerische Bewachungsgesellschaft
+325671744a|Bereichsleiter/in Bau, Infrastruktur & Werke (BIW) und Mitglied der Geschäftsleitung (80 - 100 %)|CH-6055 Alpnach Dorf|Gemeinde Alpnach
+3256714556|Fachperson Finanzen und Sachbearbeitung Asyl 60-80% (mit Option auf Bereichsleitung)|CH-4310 Rheinfelden|Gemeindeverband Sozialbereiche Bezirk Rheinfelden
+3256707258|Abteilungsleiter:in Rohrleitungsbau Gas / Wasser / Fernwärme|3001 Bern|Energie Wasser Bern
+3256715562|Abteilungsleiter:in Rohrleitungsbau Gas / Wasser / Fernwärme 80-100%|CH-3004 Bern|Energie Wasser Bern
+32566f5768|Stv. Abteilungsleiter Engineering (m/w)|Studen (CH)|Gleason Switzerland AG
+32566e6156|Kaufmännische:r Bereichsleiter:in Spezialtiefbau|Schlieren|Strabag AG
+32566e616a|Section Head Clean Room Assembly|CH-9435 Heerbrugg|ESCATEC Switzerland AG
+32566e4a7a|Bereichsleiter:in Inland und Mitglied der Geschäftsleitung (80-100%)|Zürich|Stiftung Hilfswerk der Evangelischen Kirchen Schweiz (HEKS)
+32566f4875|Abteilungsleiter:in AVOR100%|8280 Kreuzlingen|Chocolat Bernrain AG
+32566e725a|Fachbereichsleiter*in und Stv. Bereichsleiter*in Bade- und Eisanlagen 100%|CH-8050 Zürich|Schul- und Sportdepartement der Stadt Zürich
+32566e5969|Fachbereichsleitung Finanzen 80 - 100 %|CH-6376 Emmetten|Gemeinde Emmetten
+325670426e|Abteilungsleiter:in AVOR 100%|CH-8280 Kreuzlingen|Chocolat Bernrain AG
+32566e7138|Abteilungsleiter Stv. Eisenwaren/Werkzeuge/Maschinen/Elektro 100%|CH-4900 Langenthal|BAUHAUS Fachcentren AG
+32566e556e|Bereichsleiter/in Zentrale Dienste 60%-80%|CH-2540 Grenchen|Stadt Grenchen
+32566e544d|Abteilungsleiter:in Rohrleitungsbau Gas / Wasser / Fernwärme80 - 100%|CH-3011 Bern|Energie Wasser Bern
+32566b3466|Leitung Fachbereich Freiraumplanung + Gartendenkmalpflege -80%|CH-4001 Basel|Kanton Basel-Stadt
+32566c344c|Mitglied der Geschäftsleitung mit Schwerpunkt Recht, Risiko und Finanzen|Olten|Alternative Bank Schweiz AG
+32566b7450|Fachbereichsleiter*in und Stv. Bereichsleiter*in Bade- und Eisanlagen|8050 Zürich|Schul- und Sportdepartement der Stadt Zürich
+32566b7838|Audit - Assistant Manager - Asset Management - 100%|8050 Zurich|PwC
+32566b7034|Stellvertretende Abteilungsleiterin / Stellvertretender Abteilungsleiter Früchte und Gemüse -100%|Rupperswil|Transgourmet Schweiz AG
+32566a746e|Technischer Direktor - Mitglied der Geschäftsleitung (w/m/d)|CH-8240 Thayngen|Teca-Print AG
+32566b6878|Fachbereichsleiter*in und Stv. Bereichsleiter*in Bade- und Eisanlagen|CH-8050 Zürich|Stadt Zürich
+32566c5438|Fachbereichsleiter*in und Stv. Bereichsleiter*in Bade- und Eisanlagen 80-100%|CH-8050 Zürich|Schul- und Sportdepartement der Stadt Zürich
+32566d486b|Stellvertretende Abteilungsleiterin / Stellvertretender Abteilungsleiter Food 100%|CH-4133 Pratteln|Transgourmet Schweiz AG
+32566c5579|Bereichsleiter/-in Aufsicht & Betreuung, 100%|CH-2502 Biel/Bienne|Kanton Bern
+32566d3743|Abteilungsleiter:in 100% I Metro Boutique Mall of Switzerland, Ebikon|Ebikon|Metro Boutiques AG
+32566c6736|Abteilungsleiter/-in Geotechnik und Wasserbau 80 - 100%|Bern|CSD Ingenieure AG
+32566b5836|Bereichsleiter/in Markt, Energie und Mobilität (m/w/d) 80-100%|CH-9000 St. Gallen|St.Galler Stadtwerke
+32566b3571|Abteilungsleitung Restaurants 80-100%|CH-3645 Gwatt (Thun)|Stiftung TRANSfair
+32566b3449|Bereichsleiter*in Wohnen 80-100%|Bubikon|Stiftung Züriwerk
+32566d3031|Nachwuchsfachperson mit Ziel Fach- oder Bereichsleitung, Region Luzern-Land|6210 Sursee|Genossenschaft Migros Luzern, in Dierikon
+325668666a|Abteilungsleiterin/Abteilungsleiter Bau + Sicherheit (80 - 100 %) / Mitglied der Geschäftsleitung|CH-8306 Brüttisellen|Gemeinde Wangen-Brüttisellen
+32566a4965|Bereichsleiter/-in Aufsicht & Betreuung, 100%|CH-2502 Biel/Bienne|Kanton Bern
+32566a306d|Koch/Köchin EFZ - Berufsbildner/in mit Stv. Bereichsleitung 40-60 %|CH-2542 Pieterlen|Schlössli Pieterlen
+325669504c|Abteilungsleiter/in Spezialtiefbau 100%|CH-4800 Zofingen|Meier + Jäggi AG Zofingen
+3256695439|Mitglied der Geschäftsleitung - Bereich Qualität und Bildung 60 - 90 %|Schwyz Schwyz|Spitex Region Schwyz
+3256693856|Bereichsleiter/-in Aufsicht & Betreuung, 100%|Biel|Kanton Bern
+3256687a6a|Leiter:in Abteilung Bildung und Technologie 80%-100%|Zürich|Kanton Zürich
+3256693146|Abteilungsleiter:in Technik Produktion -100%|Schafisheim|Coop Genossenschaft
+3256696e79|Geschäftsleitungsmitglied (w) Ressort HR und Rechtsfragen (80-100%)|CH-2720 Tramelan|Centre Social Protestant Berne-Jura
+3256696531|Leiterin/Leiter Finanzen und Mitglied der erweiterten Geschäftsleitung 80-100%|8835 Feusisberg|Marigin AG
+3256696944|Mitglied der Geschäftsleitung mit Schwerpunkt Recht, Risiko und Finanzen|4601 Olten|Alternative Bank Schweiz AG
+3256686746|Leiterin / Leiter Abteilung Gesundheitsversorgung|CH-6431 Schwyz|Kanton Schwyz
+3256695951|Fachbereichsleiter*in und Stv. Bereichsleiter*in Bade- und Eisanlagen, 80-100 %|CH-8048 Zürich|Stadt Zürich
+325668646f|Bereichsleiter/in Patientenadministration 100 %|CH-4900 Langenthal|SRO AG
+3256685252|Fachbereichsleiter/in Schulverwaltung, 80 - 100 %|CH-9404 Rorschacherberg|Gemeinde Rorschacherberg
+3256694b79|Mitglied der Geschäftsleitung mit Schwerpunkt Recht, Risiko und Finanzen(80% - 100%)|CH-4600 Olten|Alternative Bank Schweiz AG
+325669396d|Leiter/in Finanzen und Mitglied der erweiterten Geschäftsleitung 80%-100%|Deutschschweiz|Marigin AG
+3256693948|MITGLIED DER GESCHÄFTSLEITUNG (A) - MARKETING, INNOVATION & SALES 80 - 100 %|6010 Kriens|Sinnvoll Dienstleistungen GmbH
+3256697766|Stellvertretende Abteilungsleiterin / Stellvertretender Abteilungsleiter Food 100%|CH-4133 Pratteln|Transgourmet Schweiz AG
+#gl2|D|page=3|headline=1’468 Jobs gefunden|count=104|next=4
+3256696e4b|Mitglied der Geschäftsleitung (A) / 80 - 100 %|6010 Kriens|Sinnvoll Dienstleistungen GmbH
+3256687544|Abteilungsleiter*in Abpackerei Reinraum|9602 Bazenheid|Micarna SA
+32566a4264|Bereichsleiter:in Software & Product Engineering und Mitglied der Geschäftsleitung 100%|CH-3006 Bern|DV Bern AG
+3256683879|Stellvertretende Abteilungsleiterin / Stellvertretender Abteilungsleiter Food 100%|CH-4133 Pratteln|Transgourmet Schweiz AG
+3256696774|Bereichsleiter:in Software & Product Engineering und Mitglied der Geschäftsleitung|3006 Bern|DV Bern AG
+325667576d|Leiter / Leiterin des Fachbereichs Pflanzliche Produkte|Liebefeld|Bundesamt für Landwirtschaft (BLW)
+3256676268|Stellvertretende Abteilungsleiterin / Stellvertretender Abteilungsleiter Food -100%|Pratteln|Transgourmet Schweiz AG
+325667526e|Bereichsleitung Markt und Kunden|9602 Kirchberg|rwt Regionalwerk Toggenburg AG
+3256664557|Mitglied der Geschäftsleitung / immobilienbewirtschafter 80-100%|CH-8500 Frauenfeld|Marthaler Immobilien AG
+3256663869|Leitung Abteilung Konditorei 100%|CH-8045 Zürich|Kubista Gastro GmbH
+3256666979|Leitung Zentrale Dienste - Mitglied der Geschäftsleitung 100%|CH-4528 Zuchwil|Ausgleichskasse des Kantons Solothurn (AKSO)
+3256664f54|Abteilungsleitung Sozialhilfe, Beratung, Asyl (m/w/d)|CH-8501 Frauenfeld|Stadt Frauenfeld
+3256666765|Leiter / Leiterin des Fachbereichs Pflanzliche Produkte 80-100%|CH-3097 Liebefeld|Bundesamt für Landwirtschaft (BLW)
+3256653876|Leitung Zentrale Dienste - Mitglied der Geschäftsleitung|4528 Zuchwil|Ausgleichskasse des Kantons Solothurn (AKSO)
+325663337a|Abteilungsleiter/in Feinbäckerei Pfäffikon ZH 100%|8330 Pfäffikon ZH|Remo Wüst Bäckerei + Konditorei AG
+3256647a4d|Bereichsleitung Diakonie 40-50%|St. Gallen-Appenzell|Bistum St.Gallen
+325664797a|Bereichsleitung Einwohnerdienste 100 %|CH-8197 Rafz|Gemeinde Rafz
+3256647a38|Abteilungsleitung Kultur / Kulturbeauftragte/r 80%|CH-8620 Wetzikon ZH|Stadt Wetzikon (ZH)
+3256626a72|Abteilungsleiterin oder Abteilungsleiter Sicherheit 80-100%|CH-8610 Uster|Stadt Uster
+3256646a61|Bereichsleiter/-in Vertrag 100%|CH-5000 Aarau|Aargauische Gebäudeversicherung
+3256626431|Abteilungsleiter/in Onkologie und Spezialisierte Palliative Care 80 - 100%|Bern|Lindenhofgruppe AG
+3256646c6a|Fachbereichsleiter/-in Projektmanagement 100 % (w/m)|CH-3013 Bern|Kantonspolizei Bern
+3256635258|Stv. Bereichsleitung Service|Zürich|Stiftung Arbeitskette
+3256635176|Abteilungsleiter:in Service (alle)|Zürich|Karl Waechter AG
+3256634c62|Abteilungsleitung Aktivierung 80 - 100%|CH-9542 Münchwilen TG|Genossenschaft Regionales Alterszentrum Tannzapfenland
+3256654635|Abteilungsleitung Sozialhilfe, Beratung, Asyl (m/w/d) - 80%|8500 Frauenfeld|Stadt Frauenfeld
+3256654a61|Stellvertretende Bereichsleitung Archivierung, 80-100 %|CH-8048 Zürich|Stadt Zürich
+3256645776|Stv. Bereichsleitung Service 100%|CH-8952 Schlieren|Stiftung Arbeitskette
+3256645777|Stv. Bereichsleitung Service 60%|CH-8952 Schlieren|Stiftung Arbeitskette
+3256645742|Abteilungsleiter:in Textil 80-100%|CH-6300 Zug|Ochsner Sport AG
+325664706a|Directeur·trice du département Marché & Vente 100%|CH-3176 Neuenegg|Ofac société coopérative
+3256646f76|Leiter/-in Bereich Abkommen 100%|CH-3008 Bern|Bundesamt für Sozialversicherungen (BSV)
+325664764e|Bereichsleiter/in Property & Casualty 100%|CH-8050 Zürich|Funk Gruppe AG
+3256647665|Leiter/-in Bereich Dienste 80-90% (a)|CH-6020 Emmenbrücke|Gemeinde Emmen
+3256656872|Abteilungsleiter Stv. Eisenwaren/Werkzeuge/Maschinen/Elektro (m/w/d) 100%|CH-4900 Langenthal|BAUHAUS Fachcentren AG
+3256656937|Abteilungsleiter Stv. Sanitär (m/w/d) 80% - 100%|CH-3172 Niederwangen b. Bern|BAUHAUS Fachcentren AG
+3256656930|Abteilungsleiter oder Abeilungsleiter Stv. Elektro (m/w/d) 80% - 100%|CH-3172 Niederwangen b. Bern|BAUHAUS Fachcentren AG
+3256655546|Ticketing General Public Customer Care Manager|Zurich|Fédération Internationale de Football Association (FIFA)
+3256636c64|Leiter / Leiterin des Fachbereichs Pflanzliche Produkte 80-100%|Liebefeld|Eidgenössisches Departement für Wirtschaft, Bildung und Forschung (WBF)
+3256646453|Abteilungsleiter Wareneingang 100%|CH-4900 Langenthal|BAUHAUS Fachcentren AG
+3256646431|Abteilungsleiter Stv. Eisenwaren/Werkzeuge/Maschinen/Elektro 100%|CH-4900 Langenthal|BAUHAUS Fachcentren AG
+3256645561|Abteilungsleiter oder Abeilungsleiter Stv. Elektro (m/w/d) 80% - 100%|CH-3172 Niederwangen b. Bern|BAUHAUS Fachcentren AG, Zweigniederlassung Niederwangen
+325664555a|Stv. Abteilungsleiter Sanitär (m/w/d) 80% - 100 %|CH-3172 Niederwangen b. Bern|BAUHAUS Fachcentren AG, Zweigniederlassung Niederwangen
+325664556e|MITGLIED DER GESCHÄFTSLEITUNG (A) - MARKETING, INNOVATION & SALES 80-100%|CH-6010 Kriens|Sinnvoll Dienstleistungen GmbH
+3256644e33|Abteilungsleiter*in Dienstleistungsverrechnung 80-100%|CH-8006 Zürich|Stadt Zürich
+3256635631|Abteilungsleiter Wareneingang (m/w/d) 100%|Langenthal|BAUHAUS Fachcentren AG
+3256635577|Abteilungsleiter Stv. Eisenwaren/Werkzeuge/Maschinen/Elektro (m/w/d) 100%|Langenthal|BAUHAUS Fachcentren AG
+3256614149|Abteilungsleiter oder Abteilungsleiterin Verkauf Bergsportartikel 80-100%|CH-8050 Zürich|Bächli Bergsport AG
+32565a4f4b|Abteilungsleiter:in TK Hybrid (Dipl. Pflegefachperson HF/FH)|CH-4125 Riehen|Klinik Sonnenhalde AG - Psychiatrie und Psychotherapie
+3256613257|Business Unit Manager NetApp (60%) (m/w/d)|Rotkreuz|TD SYNNEX Switzerland GmbH
+3256616461|Vorstand Ressortleiter:in Finanzen & Sponsoring|CH-6430 Schwyz|Vipers InnerSchwyz
+3256616873|Abteilungsleiter*in Dienstleistungsverrechnung, 80-100 %|CH-8048 Zürich|Stadt Zürich
+3256615871|Abteilungsleiter Stv. Eisenwaren/Werkzeuge/Maschinen/Elektro 100%|4900 Langenthal|BAUHAUS Fachcentren AG
+3256623272|Abteilungsleiter*in Dienstleistungsverrechnung|8006 Zürich|Stadt Zürich
+3256623267|Stv. Bereichsleitung Service|8048 Zürich|Stiftung Arbeitskette
+325662354d|Bereichsleiter/-in Vertrag|5000 Aarau|Aargauische Gebäudeversicherung
+3256594537|Abteilungsleiter:in Architektur/Baumanagement 100%|CH-5408 Ennetbaden|Gähler und Partner AG
+32565a745a|Leiter/-in Bereich Sozialversicherungen & Dienste 80-90% (a)|Emmenbrücke|Gemeinde Emmen
+3256596c67|Leiter/-in Bereich Dienste 80-90%|CH-6020 Emmenbrücke|Gemeinde Emmen
+32565a6554|Neue Standortleitung Ilgenmoos (F/M/D) und Mitglied der Geschäftsleitung|8307 Effretikon|Stiftung Ilgenhalde
+32565a534f|Fachbereichsleiter/-in Projektmanagement 100 %|Bern|Kantonspolizei Bern
+3256614e6f|Télévendeur/se viande (membre de la direction)|Schenkon|Carneco AG
+3256595643|Abteilungsleiter:in Run&Train 80-100%|CH-6003 Luzern|Ochsner Sport AG
+3256615234|Abteilungsleiter oder Abteilungsleiterin Verkauf Bergsportartikel 80-100%|CH-8050 Zürich|Bächli Bergsport AG
+3256614848|Bereichsleiter*in Bedienung Migros Drachen 100%|4051 Basel|Genossenschaft Migros Basel
+3256616463|Vorstand Ressortleiter:in Events|CH-6430 Schwyz|Vipers InnerSchwyz
+3256594c72|Bereichsleiter/in Softwarelösungen 100%|CH-4104 Oberwil BL|BLT Baselland Transport AG
+#gl2|D|page=4|headline=1’468 Jobs gefunden|count=104|next=5
+3256596363|Abteilungsleiter*in Fleisch/Fisch 100%|CH-8400 Winterthur|Genossenschaft Migros Ostschweiz
+3256614f33|Fachbereichsleiter/in Interne Sicherheit|CH-6300 Zug|Stadt Zug
+3256617765|Abteilungsleiter*in Abpackerei Reinraum 80 - 100%|9602 Bazenheid|Micarna SA
+3256615873|Abteilungsleiter Stv. Sanitär 80% - 100%|3172 Niederwangen|BAUHAUS Fachcentren AG
+3256615856|Abteilungsleiter oder Abeilungsleiter Stv. Elektro 80% - 100%|3172 Niederwangen|BAUHAUS Fachcentren AG
+3256566235|Stellvertretende Abteilungsleiterin / Stellvertretender Abteilungsleiter Food 100%|CH-6010 Kriens|Transgourmet Schweiz AG
+3256566658|Abteilungsleiter:in Architektur/Baumanagement 100%|CH-5408 Ennetbaden|Gähler und Partner AG
+3256573066|Responsable du secteur Conventions 100%|CH-3008 Bern|Bundesamt für Sozialversicherungen (BSV)
+3256586f50|Directeur·trice du département Marché & Vente|3176 Neuenegg|Ofac société coopérative
+3256567476|Projektleiter Bahntechnik und Stellvertreter Bereichsleiter (m/w) 100%|CH-8486 Rikon im Tösstal|Eduard Steiner AG Rikon
+3256567754|Abteilungsleitung Notfallstation (a) 100%|CH-3550 Langnau im Emmental|Spital Emmental AG
+325658634c|Co-Bereichsleiter*in mit agogischem Auftrag 80-100 %, im Grünbereich|4460 Gelterkinden|Öko-Job
+325658567a|Betriebsleiter:in Gastronomie / Unit Manager 100% - Flughafen Zürich|8058 Zürich|Autogrill Schweiz AG
+3256576b4e|Bereichsleitung Diakonie (40-50 %)|St. Gallen|Caritas Schweiz
+3256575570|Fachbereichsleiter*in BMA Hämatologielabor (80-100%), Standort Triemli|CH-8048 Zürich|Stadt Zürich
+3256585053|Leiter/-in Bereich Sozialversicherungen & Dienste 80-90%|6020 Emmenbrücke|Gemeinde Emmen
+3256574e38|Bereichsleiter*in Archäologie & Denkmalpflege, 80-100 %|CH-8048 Zürich|Stadt Zürich
+3256574e5a|Fachbereichsleiter*in BMA Hämatologielabor (80-100%), Standort Triemli|CH-8055 Zürich|Stadtspital Zürich
+3256574d45|Abteilungsleitung AüP (Akut und Übergangspflege), Standort Käferberg, 100 %|CH-8048 Zürich|Stadt Zürich
+3256587a42|Leiter/-in Bereich Dienste 80-90% (a)|6021 Emmenbrücke|Gemeinde Emmen
+3256574b68|Abteilungsleitung AüP (Akut und Übergangspflege), Standort Käferberg, 100 %|CH-8050 Zürich|Stadt Zürich Gesundheitszentren für das Alter
+325658427a|Bereichsleiter/in Hotellerie, Infrastruktur und Garten (80-100%)|CH-2542 Pieterlen|Schlössli Pieterlen
+3256593163|Abteilungsleiter:in Textil 80-100%|6300 Zug|Ochsner Sport AG
+325658446e|Mitglied der Geschäftsleitung - Bereich Qualität und Bildung|CH-6438 Ibach|Spitex Region Schwyz
+3256584530|Bereichsleitung Pflege und Betreuung als Mitglied der Geschäftsleitung 90-100%|Standort Kreuzlingen|Genossenschaft Alterszentrum Kreuzlingen
+3256584756|Leiter/-in Bereich Sozialversicherungen & Dienste 80-90% (a)|CH-6020 Emmenbrücke|Gemeinde Emmen
+3256573669|Abteilungsleiter*in Fleisch/Fisch 80-100%|CH-8400 Winterthur|Genossenschaft Migros Ostschweiz
+3256574354|Department Manager (m/w/d) - Solothurn (100% / 38.5 Wochenstunden)|CH-4500 Solothurn|H & M Hennes & Mauritz AG
+325657336d|HLK Expert:in, Stv. Bereichsleiter:in HLKS 80-100%|CH-4051 Basel|Amstein + Walthert AG
+3256574668|Leiter/in Fachbereich Vermessung / Geomatik 100%|CH-4058 Basel|BASENCO GmbH
+3256574475|Leiter/-in Bereich Abkommen 100%|CH-3008 Bern|Bundesamt für Sozialversicherungen (BSV)
+325658784b|Abteilungsleiter*in Brot/Backwaren 80 - 100%|9113 Degersheim|Genossenschaft Migros Ostschweiz
+3256577570|Abteilungsleiter*in Fleisch/Fisch|Winterthur|Genossenschaft Migros Ostschweiz
+32566f324d|Bereichsleitung Pflege / Co-Bereichsleitung Pflege 100% - Festanstellung in Zürich-Oberland|Uster, Greifensee, Schwerzenbach|Adecco
+32566f7664|Leitung Sales & Marketing|Kanton Luzern|KIRBY KADERSELECTION GmbH
+325654564a|Bereichsleiter/in Softwarelösungen Vollzeit|Oberwil|BLT Baselland Transport AG
+3256543349|Bereichsleiter*in Krea-Werkstätten 80 %|CH-3400 Burgdorf|Stiftung intact
+3256543346|Per 1. Januar 2027 oder nach Vereinbarung suchen wir eine/n Bereichsleiter/in Sozialarbeit (80%)|Amt Biel|Casanostra Verein
+3256546146|Bereichsleiter/-in Waldrecht Mittelland 80-100 %|Zollikofen|Kanton Bern
+3256555948|Abteilungsleiter:in Baumanagement|5408 Ennetbaden|Gähler und Partner AG
+325655364e|Abteilungsleiter:in Run&Train 80-100%|6003 Luzern|Ochsner Sport AG
+3256557950|Leiterin Abteilung Tiergesundheit/Leiter Abteilung Tiergesundheit|8500 Frauenfeld|Kanton Thurgau
+3256563039|Leiterin Abteilung Tiergesundheit/Leiter Abteilung Tiergesundheit 80 % bis 100 %|Frauenfeld|Kanton Thurgau
+3256556974|Leiter/-in Bereich Abkommen 100%|Bern|Eidgenössisches Departement des Innern (EDI)
+3256537773|Bereichsleitung Stellvertreter*In 80% - US-MEX St. Gallen|CH-9000 St. Gallen|2B Visions AG
+3256537244|Bereichsleiter*in Berufliche Massnahmen - Mitglied der Geschäftsleitung 80% - 100%|CH-4410 Liestal|insieme Baselland Stiftung für die Eingliederungsstätte Baselland ESB
+3256555446|Leiter/in Fachbereich Vermessung / Geomatik|Basel|BASENCO GmbH
+3256554a44|Bereichsleitung Suchtprävention 70 - 80%|8180 Bülach|Fachstelle für Abhängigkeitserkrankungen
+3256557862|Abteilungsleiter*in Fleisch/Fisch|8400 Winterthur|Miduca AG
+3256556f4e|Abteilungsleiter*in Fleisch/Fisch 80 - 100%|8400 Winterthur|Genossenschaft Migros Ostschweiz
+3256507752|Abteilungsleiter:in Technology & Enabling Services (80-100%)|Zürich|Livit AG
+3256525754|Bereichsleiter/in Baubewilligungen 60-100%|CH-6030 Ebikon|Gemeinde Ebikon
+3256515975|Team Leader / Abteilungsleiter (m/w/d) 100% - Outdoor/ Wasser|Zürich|Decathlon Sports Switzerland SA
+3256515974|Team Leader / Abteilungsleiter (m/w/d) - 100%|Basel|Decathlon Sports Switzerland SA
+3256534937|Abteilungsleiterin / Abteilungsleiter EBA & BAE 100%|CH-4057 Basel|KV Basel AG
+3256514e4f|Abteilungsleiter:in Service (alle) 80-100%|Zürich|Karl Waechter AG
+3256527951|Co-Abteilungsleitung Geschützte Abteilung 80-100%|CH-6340 Baar|Stiftung Pflegezentrum Baar
+3256533537|Abteilungsleiterin/Abteilungsleiter Aufenthalt 100%|CH-4133 Pratteln|Kanton Basel-Landschaft
+3256524c32|HR-Leiter/in für die Region Zentral (w/m) 60 - 80% - Volketswil ZH|Volketswil|Wacker Neuson AG
+3256524c39|Ratsschreiberin/Ratsschreiber als Mitglied Geschäftsleitung (100%)|9230 Flawil|Gemeinde Flawil
+3256523670|Projektleiter Bahntechnik und Stellvertreter Bereichsleiter|8486 Rikon|Eduard Steiner AG Rikon
+325652304e|Chief Technology Officer and member of the Executive Board|4132 Muttenz|Bertrams Chemieanlagen AG
+325652686e|Bereichsleiter*in Archäologie & Denkmalpflege|8001 Zürich|Stadt Zürich
+3256526831|Leiter/in Fachbereich Vermessung / Geomatik|4058 Basel|BASENCO GmbH
+3256514e70|Bereichsleitung Stellvertreter:In 80-100%|St. Gallen|2B Visions AG
+3256535749|Leiter/in Fachbereich Vermessung / Geomatik 100%|CH-4058 Basel|BASENCO GmbH
+3256524446|Bereichsleiter Seilpark Interlaken/Grindelwald (m/w/d), 80%, per sofort oder nach Vereinbarung|Wilderswil|Outdoor Switzerland AG
+3256523733|Department Manager - Solothurn|4500 Solothurn|H & M Hennes & Mauritz AG
+#gl2|D|page=5|headline=1’468 Jobs gefunden|count=104|next=6
+325651595a|HLK Expert:in, Stv. Bereichsleiter:in HLKS 80-100%|Basel|Amstein + Walthert AG
+325651517a|Leiter:in Kinder & Jugendliche / Mitglied der Geschäftsleitung 80%|8135 Langnau am Albis (ZH)|Tanne, Schweizerische Stiftung für Taubblinde
+32566b7630|Pflegedienstleitung 100% - Mitglied der Geschäftsleitung|Region Biel|Impirio AG
+3256505175|(Co-)Leitung Zentrale Dienste 20% ab Jan 2027|CH-8800 Thalwil|Kinderhaus Thalwil AG
+32566c344d|Bereichsleiter/in Bau, Infrastruktur & Werke (BIW) und Mitglied der Geschäftsleitung (80 - 100 %)|Alpnach Dorf|Jörg Lienert AG
+32564d666e|Sektorleiter/-in Food/Non Food/Getränke 100% - Emmen|CH-6032 Emmen|Demaurex & Cie S.A.
+32564e5537|Stellvertretende Abteilungsleiterin / Stellvertretender Abteilungsleiter Food -100%|Kriens|Transgourmet Schweiz AG
+32564e5834|Leiter/-in Fachbereich Miliz CFC|Bern|Schweizer Armee - Kommando Cyber Kdo Cy
+32564e4938|Abteilungsleiterin/Abteilungsleiter Aufenthalt 90-100%|CH-4133 Pratteln|Kanton Basel-Landschaft
+32564d3130|Leiter/-in Fachbereich Miliz CFC 80-100%|CH-3004 Bern|Schweizer Armee - Kommando Cyber Kdo Cy
+32564e764a|Abteilungsleiter:in Primarstufe (100%)|CH-8001 Zürich|Pädagogische Hochschule Zürich
+32564d4a30|Bereichsleiter Bahninfra (m/w/d) 100%|CH-6460 Altdorf UR|ITS Kanal Services AG
+32564d646d|Dipl. Gebäudetechniker:in HF Kälte für Bereichsleitung 100%|CH-8902 Urdorf|Zengaffinen AG, Die grüne Kältetechnik
+32564d3137|Stv. Leiter/-in Abteilung Bauwesen 80 %|CH-3550 Langnau im Emmental|Kanton Bern
+32564e747a|Stv. Leiter/-in Abteilung Bauwesen 80 %|CH-3550 Langnau im Emmental|Kanton Bern
+32564e7743|Abteilungsleiter/in Personal 70-80%|CH-4123 Allschwil|Gemeinde Allschwil
+32564e6e51|Abteilungsleiter/in Netze Gas und Wasser 100%|CH-8200 Schaffhausen|Kraftwerk Schaffhausen AG
+3256495a75|Leiter/in Finanzen/Dienste und Mitglied der Geschäftsleitung 80-100 %|CH-6467 Schattdorf|AUTO AG URI
+3256495235|Techniker/-in & Stellvertretende/-r Bereichsleiter/-in Technik 100%|CH-3753 Oey|Mifroma SA
+32564a4a74|Leiter*in Fachbereich Systeme im Schiffbau 100%|CH-6005 Luzern|Shiptec AG
+32564a4e6f|Dipl. Gebäudetechniker:in HF Kälte für Bereichsleitung 100%|CH-8902 Urdorf|Zengaffinen AG, Die grüne Kältetechnik
+3256494756|Responsabile settore specialistico milizia CFC 80-100%|CH-3003 Berna|Schweizer Armee - Kommando Cyber Kdo Cy
+32564b7a4f|Dipl. Gebäudetechniker:in HF Kälte für Bereichsleitung|Urdorf|Zengaffinen AG, Die grüne Kältetechnik
+3256494933|Leiter/-in Fachbereich Miliz CFC 80-100%|CH-3003 Bern|Schweizer Armee - Kommando Cyber Kdo Cy
+32564b6a71|Abteilungsleiter:in Primarstufe|8090 Zürich|Pädagogische Hochschule Zürich
+32564c4d6f|Bereichsleiter/in Wohnen und Tagesstruktur 80-100% Sozialpädagogin / Sozialpädagoge als Stv. Teamleitung Bereich Wohnen 70-90%|CH-4800 Zofingen|Stiftung Nische
+32564c4165|Abteilungsleiter/in Netze Gas und Wasser|CH-8200 Schaffhausen|Kraftwerk Schaffhausen AG
+32564b4767|Leitung Pflege und Betreuung/ Mitglied der Geschäftsleitung (80-100% Pensum)|CH-8332 Russikon|Alters- und Pflegezentrum Rosengasse
+32564b4b58|Head of Business Unit|Zürich|ti&m AG
+32564b4b38|Abteilungsleiterin/Abteilungsleiter Aufenthalt 90-100 %|Pratteln|Kanton Basel-Landschaft
+32564b384c|Bereichsleitung Sozialarbeit - 80%|2502 Biel/Bienne|Casanostra Verein
+32564b3943|Sektorleiter/-in Food/Non Food/Getränke 100% - Emmen|6032 Emmen|Demaurex & Cie S.A.
+32564c6f69|Bereichsleitung Sozialarbeit|2501 Biel (BE)|Casanostra Verein
+32564c6f66|Bereichsleiter/in Wohnen und Tagesstruktur 80-100%|4800 Zofingen (AG)|Stiftung Nische
+3256495a35|Bereichsleiter:in / Fitnessinstruktor:in / Group Fitness Instruktor:in 50-100%|CH-8001 Zürich|High Five Fitness AG
+32564a4a6e|Leiter*in Fachbereich Bau im Schiffbau 100%|CH-6003 Luzern|Shiptec AG
+32564a4653|Abteilungsleitung Heilpädagogische Dienste und Psychomotorik 60-80 % - Referenz TB50|CH-4600 Olten|Stiftung Arkadis
+32564b6d48|Fachbereichsleitung Tragwerk 80-100%|Aarau|suisseplan Ingenieure AG raum + landschaft
+32564a7262|Spartenleitung Facility Services & Sicherheit|Lindau|Strickhof Lindau, Berufsbildung & Beratung
+3256494453|Fachbereichsleiter/-in Aufsichtsbehörde KESB, 40-50%|CH-4500 Solothurn|Kanton Solothurn
+32564b6257|Stv. Leiter/-in Abteilung Bauwesen 80 %|Langnau im Emmental|Kanton Bern
+32564c5145|Abteilungsleiter/in Personal 70-80%|4123 Allschwil|Gemeinde Allschwil
+32564c344a|Abteilungsleitung Sozialdienst - 100%|4410 Liestal|convalere ag
+32564a6947|Abteilungsleiter:in Möbel|5620 Bremgarten (AG)|OTTO'S AG
+3256686d76|Ärztliche Direktorin / ärztlicher Direktor Erwachsenenpsychiatrie & Mitglied Geschäftsleitung|4410 Liestal|Innopool AG
+3256695a6a|Leitung Berufliche Vorsorge / Mitglied der Geschäftsleitung|8090 Zürich|Amrop Executive Search AG
+3256695978|Bereichsleiter/in Bau, Infrastruktur & Werke und Mitglied der Geschäftsleitung|6055 Alpnach|Jörg Lienert AG
+325648686d|Leiterin / Leiter Personalpool und Mitglied der Bereichsleitung Pflege, Bildung und Sozialdienst (PBS) 80%|Windisch|Psychiatrische Dienste Aargau AG
+3256486c73|Sektorleiter/-in Food/Non Food/Getränke 100% - Emmen|6032 Emmen|CCA Angehrn AG
+3256485258|Projektleiter/in Siedlungsentwässerung und Stv. Bereichsleitung (80% - 100%)|CH-5200 Brugg AG|STEINMANN Ingenieure und Planer AG
+3256484d6f|Soziale Arbeit mit Option der Fachbereichsleitung Kindes- und Erwachsenenschutz 60 - 100%|3360 Herzogenbuchsee|Gemeinde Herzogenbuchsee
+325648796c|ICT Supporter:in und Stv. Leiter:in Fachbereich Informatik (100 %)|4147 Aesch|Gemeinde Aesch (BL)
+3256487471|Projektleiter / Abteilungsleiter Werkleitungen 100 %|Wettswil|Berger AG, Wettswil
+3256476939|Leiter/-in Fachbereich Miliz CFC 80-100%|Bern|Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS)
+3256476c37|Ressortleitung Einwohnerservice|CH-6011 Kriens|Stadt Kriens
+3256476c38|Leitung Pflege und Betreuung/Mitglied der Geschäftsleitung 100%|CH-5722 Gränichen|Stiftung Alterszentrum Schiffländi, Gränichen
+3256474642|Abteilungsleitung Finanzen|CH-6072 Sachseln|Gemeinde Sachseln
+3256474c30|Ressortleitung Einwohnerservice|CH-6010 Kriens|Stadt Kriens
+3256484762|Techniker/-in & Stellvertretende/-r Bereichsleiter/-in Technik|Oey|Mifroma SA
+3256476f53|Abteilungsleiter:in Primarstufe (100%) per 1. September 2027 oder nach Vereinbarung|CH-8004 Zürich|Pädagogische Hochschule Zürich
+3256467545|Bereichsleiter:in / Fitnessinstruktor:in / Group Fitness Instruktor:in|8001 Zürich|High Five Fitness AG
+3256486855|Abteilungsleiter*in Früchte/Gemüse mit personeller Führung 80 - 100%|9443 Widnau|Genossenschaft Migros Ostschweiz
+325648564d|Abteilungsleiter:in Möbel -100%|CH-6210 Sursee|OTTO'S AG
+3256484e44|Leiter/-in Finanzen und Stellvertretung der Abteilungsleitung (80 - 100 %)|5000 Aarau|Stadt Aarau
+325649396a|Bereichsleiter/in Liegenschaften 80% bis 100%|CH-8173 Neerach|Gemeinde Neerach
+3256484247|Leiter:in Gastronomie und Hauswirtschaft - Mitglied der erweiterten Geschäftsleitung|CH-6340 Baar|VIVIVA Baar
+3256483236|Leiter:in Gastronomie und Hauswirtschaft - Mitglied der erweiterten Geschäftsleitung|CH-6340 Baar|VIVIVA Baar AG
+3256484c73|Section Lead Drug Product Process Engineering|Basel, Basel-City|F. Hoffmann-La Roche AG
+3256487a70|Bereichsleiter*in Realisierung, Mitglied der Geschäftsleitung|8000 Zürich (ZH)|Stadt Zürich
+3256456e54|Chefarzt/Chefärztin oder Bereichsleiter/-in Urologie (80-100%)|CH-8610 Uster|Spital Uster AG
+3256446f70|Abteilungsleitung Endokrinologie/Diabetologie|8180 Bülach|Spital Bülach AG
+3256465364|Leiter Werkstätten / Technik (m/w), Mitglied der Geschäftsleitung 100%|Altstätten|BUS Ostschweiz AG
+3256465936|Leiter/in Finanzen/Dienste und Mitglied der Geschäftsleitung 80-100 %|6467 Schattdorf|AUTO AG URI
+3256464a58|Leiter Werkstätten / Technik (m/w), Mitglied der Geschäftsleitung 100%|Altstätten|BUS Oberthurgau AG
+3256465178|BausekretärIn / Stv. Abteilungsleitung 80-100%|CH-8942 Oberrieden|Gemeinde Oberrieden
+3256464250|Bereichsleiter Bahninfra (m/w/d) 100%|Altdorf|ITS Kanal Services AG
+3256456a75|Techniker/-in & Stellvertretende/-r Bereichsleiter/-in Technik 100%|3753 Oey|Elsa Group SA
+3256456a79|Abteilungsleiter*in Fleisch/Fisch 80 - 100%|8200 Schaffhausen|Genossenschaft Migros Ostschweiz
+325646546c|Bereichsleiter:in / Fitnessinstruktor:in (50-100%)|Zürich|High Five Fitness AG
+#gl2|D|page=6|headline=1’468 Jobs gefunden|count=104|next=7
+3256464b37|Abteilungsleiter Fräsen (m/w/d) / 100 %|CH-3292 Busswil BE|Leitner AG
+3256466269|Schulleitung / Führungsfunktion Vollzeit von 81 bis 100 %|3012 Bern|Gymnasium Neufeld
+3256435638|Bereichsleiter/in Bau 80 - 100 %|CH-4543 Deitingen|Gemeinde Deitingen
+3256434264|Abteilungsleitung Endokrinologie/Diabetologie (LA) 80-100%|CH-8180 Bülach|Spital Bülach AG
+3256426f47|Abteilungsleiter:in Konstruktiver Ingenieurbau / Kunstbauten 80-100%|Basel|Gruner Holding AG
+3256426447|Stv. Fachbereichsleiter*in Einwohnerdienste 70 - 80 %|3150 Schwarzenburg|Gemeinde Schwarzenburg
+3256425759|Fachbereichsleitung Steuern 80-100 %|CH-8117 Fällanden|Gemeinde Fällanden
+3256425754|Leitung Bildung (50% Pensum) - Mitglied der Geschäftsleitung|CH-8309 Nürensdorf|Schule Nürensdorf
+3256443773|Abteilungsleiterin / Abteilungsleiter Getränke 80-100%|St. Gallen|Transgourmet Schweiz AG
+3256434730|Abteilungsleiter:in Lackiererei 100%|CH-3700 Spiez|Carrosserie Spiez AG
+3256424966|Fachbereichsleiter/-in Aufsichtsbehörde KESB, 40-50%|Solothurn|Kanton Solothurn
+3256433748|Abteilungsleitung Heilpädagogische Dienste und Psychomotorik, 60-80%|Olten (SO)|Stiftung Schweizer Zentrum für Heil- und Sonderpädagogik
+3256415737|Bereichsleiter/-in Support 80-100%|CH-4800 Zofingen|Bundesamt für Strassen ASTRA
+325637746f|Abteilungsleiter oder Abteilungsleiterin Verkauf Bergsportartikel 80-100%|CH-8050 Zürich|Bächli Bergsport AG
+325637704b|Chief Financial Officer - Mitglied der Geschäftsleitung 80-100%|Zürich, Thurgauerstrasse 76|faigle ag
+3256386661|Bereichsleiter/in Bau 80 - 100 %|4543 Deitingen|Gemeinde Deitingen
+325638504c|Bereichsleiter/-in Support 80-100%|Zofingen, Schweiz|Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK)
+3256385046|Ressortleitung Vertrauensärztlicher Dienst 80-100%|Luzern / hybrid|CSS Versicherung AG
+3256384d61|Bereichsleiter/in Hochbau (80 - 100 %-Pensum)|CH-5722 Gränichen|Gemeinde Gränichen
+3256387633|Abteilungsleiter*in Food/Non Food Abteilungsleiter*in Food/Non Food mit personeller Führung 80 - 100%|8451 Kleinandelfingen|Genossenschaft Migros Ostschweiz
+325638704f|Abteilungsleiter:in Bauinspektorat (80 - 100 %)|CH-8400 Winterthur|Stadt Winterthur
+3256394649|Abteilungsleitung Heilpädagogische Dienste und Psychomotorik 60-80 %|CH-4600 Olten|Stiftung Arkadis
+3256394653|Spartenleiter|CH-3400 Burgdorf|Faes Bau AG
+3256363867|Sektorleiter/-in Frischmarkt 100%|CH-4133 Pratteln|Demaurex & Cie S.A.
+325635616a|Bereichsleiter Hauswartungen 80-100%|CH-4657 Dulliken|Esapur AG
+3256317a62|Verantwortliche*r Ressort Gesuche 80-100%|CH-8057 Zürich|Universität Zürich
+3256336938|Chief Financial Officer (CFO) 80-100% Mitglied der Geschäftsleitung (m/w/d)|CH-5610 Wohlen AG|FFF Fresh & Frozen Food AG
+3256335853|Leitung Bereich Kindes- und Erwachsenenschutz (80%)|CH-3074 Muri b. Bern|Gemeinde Muri bei Bern
+3256335864|Stv. Abteilungsleiter/in Fabrikation|CH-6234 Triengen|Trisa AG
+3256335965|Stv. Abteilungsleiter/in Fabrikation|CH-6234 Triengen|Trisa Electronics AG
+3256334e70|Leiter Abteilung Reinigung 100%|CH-8108 Dällikon|EISBERG Schweiz AG
+3256334541|Abteilungsleiter:in Wohnen - Betreuung 70% - 90%|Willisau|Stiftung Brändi
+325634584a|Leiter/in Finanzen/Dienste und Mitglied der Geschäftsleitung 80 - 100 %|6467 Schattdorf|AUTO AG URI
+3256316666|Sektorleiter/-in Frischmarkt 100%|4133 Pratteln|Demaurex & Cie S.A.
+325633616a|Sektorleiter/-in Frischmarkt 100%|Pratteln|CCA Angehrn AG
+3256326e39|Leiter:in Bereich Bahntiefbau & Strassenbau 80-100% - Zürich|CH-8048 Zürich|AFRY Schweiz AG
+325634614b|Leiter Abteilung Reinigung 100%|Deutschschweiz|Eisberg AG
+3256326756|Abteilungsleiter:in Lackiererei 80-100%|CH-3700 Spiez|Carrosserie Spiez AG
+32557a7633|Abteilungsleiter:in Bahnbau 80-100%|Basel|Gruner Holding AG
+32557a784a|Fachbereichsleiter Baustandards (m/w/d) 80-100%|CH-8003 Zürich|CRB, Schweizerische Zentralstelle für Baurationalisierung
+325665396c|Leitung Pflege und Betreuung / Mitglied der Geschäftsleitung|8330 Pfäffikon ZH|Keller Unternehmensberatung AG
+3255797a64|Abteilungsleiter:in Damenober- und Unterbekleidung sowie Accessoires 80-100%|Zürich St. Annahof|Coop Genossenschaft
+325630504d|Bereichsleitung Bildung (40 - 60 %) ab 1.12.2026 oder nach|CH-8603 Schwerzenbach|STIFTUNG WIRTSCHAFT UND ÖKOLOGIE SWO
+3256305546|Stv. Bereichsleitung Hotellerie (60-80%)|CH-3007 Bern|Alterswohn- und Pflegeheim Jolimont
+325630494d|Bereichsleitung ambulante Wohnbegleitung mit Fallführung - 80%|4057 Basel|Hestia Soziale Dienstleistungen
+3256304d43|Bereichsleiter/in Entlastung & Gesellschaftliche Integration als Mitglied der Geschäftsleitung (100 %)|CH-5000 Aarau|Schweizerisches Rotes Kreuz Kanton Aargau
+3256314436|IT Bereichsleiter EDI & DataIntegration (m/w/d) 100%|8953 Dietikon|Planzer Transport AG
+3256307856|Verantwortliche*r Ressort Gesuche|8057 Zürich|Universität Zürich
+3256307634|Vorsteher/in Amt für Volksschulen und Sport 80-100%|6371 Stans|Kanton Nidwalden
+32557a526f|Ressortleiter/-in Stv. Einsatzelement Brennpunkte 80-100%|CH-4001 Basel|Kanton Basel-Stadt
+32557a4772|Bereichsleiter Abbruch, Rückbau, Entkernung (m/w/d) 100%|CH-5012 Schönenwerd|BETONCOUPE AG
+3256304639|Vorsteher/in Amt für Volksschulen und Sport|CH-6371 Stans|Kanton Nidwalden
+3256304541|Abteilungsleiter:in Möbel -100%|CH-6210 Sursee|OTTO'S AG
+32557a7a49|Co-Bereichsleitung Schule (Zyklus 3 und 3+)|CH-3612 Steffisburg|Sonderschulheim Sunneschyn Steffisburg Genossenschaft
+32557a6a73|Bereichsleiter:in Arbeitsvermittlung und Coaching, Biel und Zollikofen, 80-100%|Biel und Zollikofen|Schweizerisches Rotes Kreuz Kanton Bern (SRK Kanton Bern)
+3256314134|Bereichsleitung der Heilpädagogischen Schulen in Zürich und Dielsdorf|8051 Zürich|Stiftung RgZ
+32557a5462|Abteilungsleiter*in Früchte/Gemüse 80 - 100%|9320 Arbon|Genossenschaft Migros Ostschweiz
+32557a7a79|Vorsteher/in Amt für Volksschulen und Sport 80 - 100 %|CH-6370 Stans|Kanton Nidwalden
+3256307542|Ressortleiterin / Ressortleiter Verkauf (Schweine) w/m/d 80-100%|3412 Lyssach|UFA AG
+3255785436|Chefärztin/ Chefarzt Neurorehabilitation, Mitglied der Geschäftsleitung (a) 80-100%|Zürich Zürich|Klinik Lengg AG, Zürich
+3255774768|Bereichsleiter Checkpoint (Angebot für Männer, die Sex mit Männern haben) 60 - 70 %|Basel|Aids Hilfe beider Basel
+3255786e44|Stv. FBL Einwohnerdienste 70 - 80 %|CH-3150 Schwarzenburg|Gemeinde Schwarzenburg
+325577744b|Verantwortliche*r Ressort Gesuche 80-100%|CH-8006 Zürich|Universität Zürich
+3255777346|Leiter*in Fachbereich Systeme im Schiffbau 80% - 100%|CH-6005 Luzern|Shiptec AG
+3255777345|Leiter*in Fachbereich Bau im Schiffbau 80% - 100%|CH-6005 Luzern|Shiptec AG
+3255795153|Abteilungsleitung (80% bis 100%), La Casetta|CH-8352 Elsau|Gemeinnützige Stiftung Eulachtal für Pflege und Betreuung
+3255746f49|Bereichsleiter/-in Investitionscontrolling 80-100%|CH-3600 Thun|Bundesamt für Strassen ASTRA
+3255746275|Privatkundenberater*in / Stv. Abteilungsleiter*in 80-100%|CH-5400 Baden|Aargauische Kantonalbank
+3255763146|Chefärztin/ Chefarzt Neurorehabilitation, Mitglied der Geschäftsleitung|8008 Klinik Lengg AG, Bleulerstrasse 60, 8008 Zürich|Klinik Lengg AG, Zürich
+3255763357|Bereichsleiter/-in Rechtsdienst und Stv. Chef/-in Abteilung Recht 80-100%|Bern, Schweiz|Eidgenössisches Justiz- und Polizeidepartement (EJPD)
+325576654b|Caposettore Servizio giuridico e capo supplente divisione Diritto 80-100%|CH-3003 Berna, Svizzera|Bundesamt für Polizei (fedpol)
+3255765765|Bereichsleiter/-in Rechtsdienst und Stv. Chef/-in Abteilung Recht 80-100%|CH-3003 Bern, Schweiz|Bundesamt für Polizei (fedpol)
+3255755435|Chefärztin/ Chefarzt Neurorehabilitation, Mitglied der Geschäftsleitung (a) 80-100%|Zürich|Klinik Lengg AG, Zürich
+3255767930|Bereichsleitung der Heilpädagogischen Schulen in Zürich und Dielsdorf (Mitglied der Geschäftsleitung)|8051 Zürich (ZH)|Stiftung RgZ
+3255757378|Bereichsleitung der Heilpädagogischen Schulen in Zürich und Dielsdorf (80-100%)|CH-8048 Zürich|Stiftung RgZ
+#gl2|D|page=7|headline=1’468 Jobs gefunden|count=104|next=8
+3256597532|Abteilungsleitung Produktentwicklung Pharma 100%|9325 Roggwil|Universal-Job AG
+3255724a55|Bereichsleiter/-in Investitionscontrolling 80-100%|Thun, Schweiz|Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK)
+3255733735|BereichsleiterIn wirtschaftliche Sozialhilfe und Berufsbeistandschaft (80 - 100 %)|8910 Affoltern am Albis|Sozialdienst Bezirk Affoltern
+3255736744|Geschäftsbereichsleitung Bildung 80 - 100%|CH-8620 Wetzikon ZH|Stadt Wetzikon (ZH)
+3255734c37|Abteilungsleitung|Laufenburg|Gesundheitszentrum Fricktal AG
+3255723830|Bereichsleiter Abbruch, Rückbau, Entkernung 80-100%|CH-5012 Schönenwerd|BETONCOUPE AG
+3255726471|Privatkundenberater*in / Stv. Abteilungsleiter*in (a)|5401 Baden|Aargauische Kantonalbank
+3255724d58|Fachbereichsleitung Human Resources (50-60%)|CH-6003 Luzern|allgemeine baugenossenschaft luzern (abl)
+3255717247|Fachbereichsleiter/in Unterricht Zyklus 2 - Kognitive Entwicklung (a) 50%|Hohenrain|Schulen Luzern
+3255717462|Fachbereichsleiter/in Unterricht Zyklus 2 - Kognitive Entwicklung (a) 50%|Hohenrain|Kanton Luzern
+32556f7a4e|Fachbereichsleiter*in BMA Hämatologielabor , Standort Triemli|8055 Zürich|Stadtspital Zürich
+325570505a|Business Line Manager Tubes de précision 100%|CH-2555 Brügg BE|Notz Metall AG
+325570344e|Bereichsleitung Wohnen & Tagesgestaltung, Mitglied der Geschäftsleitung / 80 - 100% / Erwachsene|4144 Arlesheim (BL)|Sonnenhof Arlesheim AG
+3255704263|Leiter/in Kanzlei und Soziales / Mitglied der Geschäftsleitung (80|Triengen|Gemeinde Triengen
+32556f6256|Leiter:in Abteilung Sicherheit|3098 Köniz|Gemeinde Köniz
+32556e4e6d|Abteilungsleitung (m/w/d)|CH-4310 Rheinfelden|Gesundheitszentrum Fricktal AG
+32556e5030|Fachbereichsleiter/in oder Teamleiter/in Technischer Verkauf Innendienst (100%)|CH-6074 Giswil|Enz Technik AG
+32556e3864|Mitglied der Geschäftsleitung - Leitung Zentrale Dienste 80%|6030 Ebikon (LU)|Spitex Rontal Plus
+32556f5178|Fachbereichsverantwortliche/r Volkswirtschaft und Public Affairs (100%)|Zürich|Hauseigentümerverband Schweiz
+32556d524e|Ressortleiter/in Spezialreinigung (80 - 100%)|Kanton Aargau|Top Services Group AG
+32556f6263|Abteilungsleiter Mechanische Fertigung|6405 Immensee|Durrer Spezialmaschinen AG
+32556e3469|Abteilungsleiter*in Wohnen 80 - 100%|8840 Einsiedeln|BSZ Stiftung
+32556e3468|Abteilungsleiter*in Wohnen 80 - 100%|6423 Seewen|BSZ Stiftung
+32556e3443|AbteilungsleiterIn Fachsortimente Textil und Vorhänge (w/m/d)|5034 Suhr|Möbel-Pfister AG
+32556e6755|Bereichsleitung Finanzen 80-100%|CH-4144 Arlesheim|Klinik Arlesheim AG
+32556e5a79|Leiter/in Bauverwaltung oder Fachbereichsleiter/in Tiefbau (80-100%)|Hasle-Rüegsau|Gemeinde Hasle bei Burgdorf
+32556b4b37|Abteilungsleiter mechanische Fertigung 100% (m/w/d)|CH-8580 Sommeri|L+S AG, Design + Technics
+32556c4838|System Engineer Microsoft / Stv. Abteilungsleiter Technik|6010 Kriens|BAMBUS EDV-Consulting GmbH
+32556c4144|HR BUSINESS UNIT MANAGER 100%, SUR SITE|2540 Grenchen|ETA SA Manufacture Horlogère Suisse
+32556b3753|Abteilungsleiter*in Berufsfachschule (80-90 %) Mitglied der Schulleitung|CH-3013 Bern|Schule für Gestaltung Bern & Biel
+32556a6e4a|Leiter:in Human Resources & Mitglied der Geschäftsleitung (80 - 100 %)|CH-6340 Baar|VIVIVA Baar AG
+3255694477|Abteilungsleiter:in Food/Non-Food -100%|CH-6210 Sursee|OTTO'S AG
+3255694459|Abteilungsleiter:in Food/Non-Food -100%|CH-6210 Sursee|OTTO'S AG
+3255694455|Abteilungsleiter:in Food/Non-Food -100%|CH-6210 Sursee|OTTO'S AG
+3255684672|Leiter/in Abteilung Planung und Bau 80 % - 100 %|5201 Brugg AG|Stadt Brugg
+3255685632|Abteilungsleiter:in Textil/Sport -100%|CH-6210 Sursee|OTTO'S AG
+325568555a|Abteilungsleiter:in Bike/Ski -100%|CH-6210 Sursee|OTTO'S AG
+3255685559|Abteilungsleiter:in Food/Non-Food -100%|CH-6210 Sursee|OTTO'S AG
+325568554f|Abteilungsleiter:in Textil/Sport -100%|CH-6210 Sursee|OTTO'S AG
+3255694451|Abteilungsleiter:in Food/Non-Food -100%|CH-6210 Sursee|OTTO'S AG
+325567756a|Bereichsleitung Wohnen|CH-8048 Zürich|Christuszentrum
+3255685574|Abteilungsleiter:in Möbel -100%|CH-6210 Sursee|OTTO'S AG
+3255685543|Chef de rayon food/non-food (h/f) -100%|CH-6210 Sursee|OTTO'S AG
+3255656777|Abteilungsleitung AüP , Standort Käferberg|8037 Zürich|Stadt Zürich Gesundheitszentren für das Alter
+3255663039|Abteilungsleiter*in Molkerei 80 - 100%|8280 Kreuzlingen|Genossenschaft Migros Ostschweiz
+3255654343|Abteilungsleiter*in Brot/Backwaren 80 - 100%|9434 Au SG|Genossenschaft Migros Ostschweiz
+3255623271|Bereichsleiter/-in Spezialreinigung 100%|CH-8500 Frauenfeld|Bachmann GmbH
+3256505633|Fachbereichsleiter Beschriftung & Werbetechnik|8610 Uster|PharmaSearch Binder & Partner GmbH
+325557544c|Abteilungsleitung Notfallpflege und Aufnahmestation (m/w/d)|CH-4310 Rheinfelden|Gesundheitszentrum Fricktal AG
+325557585a|Pflegefachperson als Stv. Abteilungsleitung 70-100% - Geriatrische Akutrehabilitation|CH-8610 Uster|Spital Uster AG
+3255566642|Ressortleitung Bildung / Mitglied Geschäftsleitung (m/w/d) 100%|CH-8004 Zürich|EXPERTsuisse AG
+3255573749|Bereichsleiter*in Food / Non Food 80 - 100%|3550 Langnau|Genossenschaft Migros Aare
+325553496d|Mitglied der Geschäftsleitung / Immobilienbewirtschafter (m/w/d)|Frauenfeld|Marthaler Immobilien AG
+3255524a53|Leitung Bereich Konditorei|8045 Zürich|Kubista Gastro GmbH
+3255513974|Abteilungsleiter*in Metzgerei|Wetzikon ZH|Genossenschaft Migros Ostschweiz
+32554c654d|Bereichsleiter/in Property & Casualty|8050 Zürich|Funk Gruppe AG
+32554d4242|Trainee Area Manager (h/f/d) 80-100% 1|8570 Weinfelden|Lidl Schweiz AG
+32554f4e52|Abteilungsleiter*in Metzgerei|8620 Wetzikon|Miduca AG
+32554e4b64|Ressortleiter/in Instandhaltung Leitungen|5505 Birr|Axpo Group
+3255497538|Ressortleitung Sozialberatung|CH-6010 Kriens|Stadt Kriens
+3255497850|Bereichsleiter/in Wohnen und Tagesstruktur 80-100% Stellvertretung der Geschäftsführung|CH-3032 Hinterkappelen|ZfV - Zentrum für Verbandsführung AG
+32554b3067|Bereichsleiter:in Elektrotechnik / Stv. Abteilungsleiter:in|Stadt Zürich|Schibli AG
+3255497831|Ressortleiter/in Instandhaltung Leitungen (m/w/d) (w/m/d)|Birr Onsite|Axpo Group
+3255465375|Abteilungsleiter Sonderleuchtenbau (m/w/d)|Alpnach Dorf, CH|Zumtobel Licht AG
+#gl2|D|page=8|headline=1’468 Jobs gefunden|count=104|next=9
+3255456744|Bereichsleitung Hausdienst Bettenstationen und Bettenzentrale 80%|CH-8952 Schlieren|Spital Limmattal
+3255456746|Bereichsleitung Hausdienst Risikobereiche und Abendreinigung 80% - 100%|CH-8952 Schlieren|Spital Limmattal
+3255463846|Co-Fachbereichsleiter:in Umwelt (80 - 100%)|CH-4153 Reinach BL|Kiefer & Studer AG Geotechniker SIA/USIC
+3255456b67|Bereichsleiter*in Berufliche Massnahmen - Mitglied der Geschäftsleitung 80% - 100%|CH-4410 Liestal|insieme Baselland Stiftung für die Eingliederungsstätte Baselland ESB
+3255454631|Abteilungsleiter*in Metzgerei 80 - 100%|8620 Wetzikon|Genossenschaft Migros Ostschweiz
+3255394566|Abteilungsleiter Bäckerei & Feinbäckerei (m/w/d) 100% - ab Juli 2026 oder nach Vereinbarung in Koppigen Aspi|CH-3425 Koppigen|Flury AG
+3255375264|Stellvertretende Bereichsleitung Gesundheit 60 %|3302 Moosseedorf (BE)|Stiftung Tannacker
+3255366244|Fachbereichsleiter/in Technisches Gebäudemanagement (80%-100%)|CH-3074 Muri b. Bern|Gemeinde Muri bei Bern
+3255366553|Abteilungsleitung Notfallstation (a)|Langnau|Spital Emmental AG
+325536506c|Abteilungsleiter Spenderkontaktzentren (m/w/d) 80% Bern|CH-3008 Bern|Interregionale Blutspende SRK AG
+3255377161|Bereichsleiter*in Metzgerei 80 - 100%|9240 Uzwil|Genossenschaft Migros Ostschweiz
+3255374a50|Nachwuchsfachperson mit Ziel Fach- oder Bereichsleitung, Region Zug und Schwyz 80 - 100%|6312 Steinhausen|Genossenschaft Migros Luzern, in Dierikon
+3255374a54|Nachwuchsfachperson mit Ziel Fach- oder Bereichsleitung, MM Sarnen-Center 80 - 100%|6060 Sarnen|Genossenschaft Migros Luzern, in Dierikon
+3255374865|Abteilungsleitung Architektur|CH-8610 Uster|Schindler & Scheibling AG
+325645656d|Abteilungsleitung Montage & Service|6300 Zug|Prime21 AG
+3255345633|Bereichsleiter/-in Spitex 70-80%|Zürcher Unterland/Limmattal|KZU Kompetenzzentrum Pflege und Gesundheit
+3255355470|Abteilungsleiter*in Non Food 80 - 100%|8422 Pfungen|Genossenschaft Migros Ostschweiz
+3255323151|Stellvertretende Bereichsleitung Kommunikation (80-100 %)|Zürich|Katholische Kirche im Kanton Zürich
+3255334236|Abteilungsleiter/in Human Resources|CH-3555 Trubschachen|Kambly SA Spécialités de Biscuits Suisses
+325531646f|Abteilungsleiter*in Fleisch/Fisch 80 - 100%|8280 Kreuzlingen|Genossenschaft Migros Ostschweiz
+3256433279|Leitung Pflege und Betreuung|Russikon|Keller Unternehmensberatung AG
+325477666c|Fachbereichsleitung Immobilienbewirtschaftung (80-100%)|CH-6003 Luzern|allgemeine baugenossenschaft luzern (abl)
+3254776834|Bereichsleiter:in Greifvogelstation|CH-8415 Berg am Irchel|Stiftung PanEco
+3254797779|Geschäftsleitungsmitglied (weiblich Ressort HR und Rechtsfragen (80-100%)|CH-2504 Biel/Bienne|Centre Social Protestant Berne-Jura
+325479636d|Nachwuchsfachperson mit Ziel Fach- oder Bereichsleitung, MMM Zugerland Steinhausen 80 - 100%|6312 Steinhausen|Genossenschaft Migros Luzern, in Dierikon
+3254796369|Nachwuchsfachperson mit Ziel Fach- oder Bereichsleitung, MMM Länderpark 80 - 100%|6370 Stans|Genossenschaft Migros Luzern, in Dierikon
+3254757a66|Bereichsleitung Pharmazeutisch-logistische Dienstleistungen (Offizin) 100% (41049)|St. Gallen|HOCH Health Ostschweiz
+3254754b70|Abteilungsleiter*in Molkerei 80 - 100%|8630 Rüti|Genossenschaft Migros Ostschweiz
+3254724944|CFO, Mitglied der Geschäftsleitung (w/m/d)|CH-9642 Ebnat-Kappel|Alder + Eisenhut AG
+325472684a|Bereichsleiter Hauswartungen|4657 Dulliken|Esapur AG
+325471634a|Koch/Köchin EFZ - Berufsbildner/in mit Stv. Bereichsleitung 40-60 %|CH-2542 Pieterlen|Schlössli Pieterlen
+3254724846|Business Area Manager - Wealth Management Solutions|Zürich (Hybride)|swissQuant Group AG
+3254723956|Abteilungsleitung Bauprojektmanagement|CH-8200 Schaffhausen|Kraftwerk Schaffhausen AG
+3254706b31|Dipl. Gebäudetechniker:in HF Kälte für Bereichsleitung 100%|CH-8902 Urdorf|Zengaffinen AG, Die grüne Kältetechnik
+32546e6775|Abteilungsleitung HR Services 80% (m/w/d)|CH-8200 Schaffhausen|Stiftung altra schaffhausen
+32546e6344|Betriebsingenieur / Abteilungsleiter Technik 80 - 100% (m/w)|CH-4133 Pratteln|ARA Rhein AG
+32546e4934|Abteilungleiter/-in Photovoltaik|CH-8718 Schänis|EVS Energieversorgung Schänis AG
+32546f384d|Abteilungsleiter Sanitär & Heizung (80 - 100%)|CH-6024 Hildisrieden|Gebäudetechnik Estermann AG
+32546d4342|Bereichsleiter Abbruch, Rückbau, Entkernung (m/w/d)|Schönenwerd|BETONCOUPE AG
+32546b7844|Bereichsleiter/in Hochbau / Stv. Leiter/in Bau + Planung (80-100%)|CH-4512 Bellach|Gemeinde Bellach
+32546c4167|Fachbereichsleitung BLS Kurse|CH-8355 Aadorf|Procamed AG
+32546d4538|Bereichsleiter:in Türen + Tore 100 % / Samstagern / Per sofort oder nach Vereinbarung|CH-8833 Samstagern|Kern Studer AG
+32546d4438|Bereichsleitung & Stv. Bereichsleitung Steuern 80 -100 %|CH-8636 Wald ZH|Gemeinde Wald (ZH)
+32546c444c|Schulleitung und Mitglied der Geschäftsleitung 70%|CH-3008 Bern|Weissenheim Heilpädagogisches Schulheim Bern
+32546b464a|Treuhand/Wirtschaftsprüfung Mitglied der GL Möglicher Einstieg in die Partnerschaft|Schönenwerd|Ackermann + Partner AG Die Treuhänder
+32546a6c6d|Bereichsleiter Service Sanitär und/oder Heizung (100%)|Volketswil|Ganz Installationen AG
+32546b3056|Spontanbewerbung|Grabs St. Gallen|HOCH Health Ostschweiz
+3254676853|Bereichsleiter Abbruch, Rückbau, Entkernung|5012 Schönenwerd|BETONCOUPE AG
+325468545a|Abteilungsleiter/in Systeme 100%|CH-6023 Rothenburg|B + T Bild + Ton AG
+3254684838|Bereichsleitung Wohnen & Mitglied der Geschäftsleitung 80-100%|CH-8620 Wetzikon ZH 1|IWAZ Schweizerisches Wohn- und Arbeitszentrum für Mobilitätsbehinderte
+325469385a|Spontanbewerbung Departement Pflege & Therapeutische Dienste (41128)|Grabs|HOCH Health Ostschweiz
+3254663854|Steuern Privatpersonen (80 - 100%) mit Option Übernahme Bereichsleitung|CH-8887 Mels|FIT Finanzberatung AG
+3254663855|Finanzen Privatpersonen (80 - 100%) mit Option Übernahme Bereichsleitung|CH-8887 Mels|FIT Finanzberatung AG
+3254634a70|Stv. Abteilungsleiterin / Stv. Abteilungsleiter Verarbeitung (100%)|CH-6144 Zell|Bell Schweiz AG
+3254634146|Abteilungsleitung Offene Jugendarbeit Zentrum 60-80%|CH-9000 St. Gallen|Stadt St. Gallen
+3254596752|Abteilungsleiter:in Feingebäck (m/w/d) 100%|6005 Luzern|Confiseur Bachmann AG
+3254615878|Bereichsleiter:in Facharztleistungen Arbeitsmedizin 80 - 100 %|Luzern|Suva
+3254574348|Abteilungsleiter:in Betriebslogistik 100%|CH-3225 Müntschemier|Schwab-Guillod AG
+3254564875|Verantwortliche/r Oder Teammitglied Ressort Wettkampfmaterial|Widnau|Unihockey Rheintal Gators
+3255793176|Bereichsleiter/in Finanzen 50 %|4534 Flumenthal SO|Pumag Consulting AG
+3255793378|Leiter/in immobilien/Mitglied der Geschäftsleitung|Amriswil (TG)|schilling partners ag
+3254527476|Bereichsleiter/in Verkauf|CH-8404 Winterthur|Keller Glas AG
+325450464a|Abteilungsleiter Schleiferei|CH-4914 Roggwil|Hönger AG
+3254504574|Abteilungsleitung Pensum 80 - 100%|CH-5070 Frick|Verein für Altersbetreuung im Oberen Fricktal
+#gl2|D|page=9|headline=1’468 Jobs gefunden|count=104|next=10
+3254503448|Nachwuchsprogramm: Abteilungsleiter*in Supermarkt 100%|2555 Brügg|Genossenschaft Migros Aare
+3254503442|Abteilungsleiter*in Blumen/Pflanzen 80 - 100%|5400 Baden|Genossenschaft Migros Aare
+3254514971|Fachbereichsleiter:in Medical Application Services (m/w/d)|CH-5600 Lenzburg|HINT AG
+3254516c71|Quereinstieg Abteilungsleiter*in Fleisch/Fisch 80 - 100%|8400 Winterthur|Genossenschaft Migros Ostschweiz
+32544d576b|Abteilungsleiter/-in Primar (Mitglied der Schulleitung)|CH-8620 Wetzikon ZH 1|IWW AG
+32544d5774|Abteilungsleiter Blaserei BL / Spritzblaserei SB (w/m/d)|CH-8280 Kreuzlingen|Kunststoff-Packungen AG
+32544c6561|Bereichleiter:in Statik Brugg (80-100%) 80% - 100%|CH-5200 Brugg AG|Mund Ganz + Partner AG
+32544b5372|Bereichleiter:in Statik Brugg (80-100%)|CH-5200 Brugg AG|STEINMANN Ingenieure und Planer AG
+32544b5861|Abteilungsleiter*in mit Zusatzfunktion Stv. Filialleitung 80 - 100%|8266 Steckborn|Genossenschaft Migros Ostschweiz
+3254474839|Bereichsleiter/in Einwohnerdienste 90 - 100%|CH-3800 Interlaken|Einwohnergemeinde Interlaken
+325447664a|Verantwortliche/r Oder Teammitglied Ressort Materiallager|Widnau|Unihockey Rheintal Gators
+3254454c6a|Verantwortliche/r Oder Teammitglied Ressort Reporting & Controlling|Widnau|Unihockey Rheintal Gators
+3254366877|Abteilungsleitung (Leitende/r Landschaftsarchitekt/-in) Themenfeld Gartendenkmalpflege und Friedhofswesen (Pensum 80-100%)|CH-5430 Wettingen|SKK Landschaftsarchitekten AG
+3254357638|Chefarzt/Chefärztin oder Bereichsleiter/-in Urologie (80-100%)|CH-8610 Uster|Spital Uster AG
+3254356767|Abteilungsleitung 80 - 100% (a)|Würenlos Thalia AG|Orell Füssli Thalia AG
+3254366e75|CTO - Mitglied der Geschäftsleitung (w/m/d)|CH-9630 Wattwil|Heberlein Technology AG
+3254333864|Mitglied der Geschäftsleitung|CH-3014 Bern|Strahm AG Umwelt- und Energietechnik
+3254326c63|Bereichsleiter Blech und Schlosserei (w/m)|CH-8280 Kreuzlingen|Mountair AG
+325433374c|Unit Manager Raststätte Münsingen (w/m/d)|Olten|Autogrill Schweiz AG
+3253775655|Stv. Abteilungsleitung Verpackung (100 %)|6005 Luzern|Confiseur Bachmann AG
+3253777959|Stellenausschreibung Bauverwaltung - Bereichsleitung Hochbau / Stv. Abteilungsleitung Bau 80 - 100 %|CH-3800 Unterseen|Gemeinde Unterseen
+32556c4677|Teamleiter Heizung & Sanitär 80-100 %, mit Perspektive Mitglied der Geschäftsleitung|6060 Sarnen|CHRONOS Personalberatung GmbH
+3253737953|Bereichsleiter Kältetechnik / Technischer Leiter|8902 Urdorf|Zengaffinen AG, Die grüne Kältetechnik
+3253715178|Bereichsleiter/-in Bevölkerungsdienste / Stv. Abteilungsleitung 100%|CH-8180 Bülach|Stadt Bülach
+325370446d|Bereichsleiter*in Frische mit Zusatzfunktion Stellvertreter*in Filialleitung 80 - 100%|8280 Kreuzlingen|Genossenschaft Migros Ostschweiz
+32536e3542|Abteilungsleiter*in Food/Non Food 80 - 100%|8555 Müllheim|Genossenschaft Migros Ostschweiz
+32536a4474|Teamleiter/in Heizung / Sanitär, Mitglied Geschäftsleitung (m/w/d)|CH-3860 Schattenhalb|Enertech AG
+32536a4473|Teamleiter/in Elektro, Mitglied Geschäftsleitung (m/w/d)|CH-3860 Schattenhalb|Enertech AG
+3253655034|Abteilungsleitung Tragwerke Hochbau (m/w/d)|Zürich|ARX Group SA
+3253626b74|Senior-Projektleitung /Mitglied Geschäftsleitung für Nova Energie Basel AG|Basel|Nova Energie AG
+3253624a49|Bereichsleitung Verkehrsökonomie (70-100%)|Zürich|INFRAS AG
+32535a3252|Leitung Abteilung für Menschen mit Demenz|CH-5102 Rupperswil|Alters- und Pflegeheim Länzerthus AG
+3253564754|Abteilungsleiter*in Qualitätsvorausplanung (f/m/d)|CH-4153 Reinach BL|Endress+Hauser
+3253546b59|Abteilungsleiter*in Non Food 80 - 100%|4513 Langendorf|Genossenschaft Migros Aare
+3253514950|Leiterin / Leiter Bereich Steuern - auch im Jobsharing möglich 60% - 100%|6260 Reiden|Gemeinde Reiden
+3253514379|Fachbereich CAD/BIM|CH-8048 Zürich|PZM Zürich AG
+3253514435|STV Abteilungsleiter/in Feinbäckerei 100%|8855 Wangen SZ|Remo Wüst Bäckerei + Konditorei AG
+3253514655|Fachbereich CAD/BIM|CH-6003 Luzern|PZM Luzern AG
+3253514650|Fachbereich Sanitär|CH-6003 Luzern|PZM Luzern AG
+3253514770|Marktbereichsleiter öffentlicher Verkehr (m/w/d), Mitglied der Geschäftsleitung 80% - 100%|3014 Bern|Boess Gruppe
+32534e7139|Bereichsleiter*in Bedienung in Ausbildung Migros Oberwil 100%|4104 Oberwil|Genossenschaft Migros Basel
+32534f6d58|Head of Department Welding Technology (w/m/d)|CH-4153 Reinach BL|Endress+Hauser
+32534e7135|Nachwuchsfachperson mit Ziel Fach- oder Bereichsleitung, Region Nid- und Obwalden 80 - 100%|6370 Stans|Genossenschaft Migros Luzern, in Dierikon
+32534e7138|Nachwuchsfachperson mit Ziel Fach- oder Bereichsleitung, Region Luzern-Land 80 - 100%|6210 Sursee|Genossenschaft Migros Luzern, in Dierikon
+32534a7166|Abteilungsleiter Hobelwerk (m/w/d) 100%|CH-6403 Küssnacht am Rigi|Schilliger Holz AG
+3255573066|Bereichsleiter:in Wohnen|5616 Meisterschwanden|Wilhelm AG, Zürich
+325349446c|Abteilungsleiter*in Non Food 80 - 100%|3250 Lyss|Genossenschaft Migros Aare
+325346797a|Bereichsleiter:in Elektroinstallationen 80 - 100 %|Wyssachen|clevergie ag
+3252713371|GESCHÄFTSBEREICHSLEITER:IN ABWASSER (w/m/d) Vollzeit, Teilzeit möglich|4410 Liestal|HOLINGER AG
+32526e7734|Bereichsleiter:in Smart Energy|CH-9607 Mosnang|ew elektro widmer ag
+32526e4b62|Therapeutic Area Head, PK Sciences - Immunology|Basel (City)|Novartis AG
+3255417867|Leiter Steuern & Mitglied der Geschäftsleitung (m/w/d)|St. Gallen|Nellen & Partner AG
+325263774a|Abteilungsleiter:in Auftragsabwicklung 3R 100%|Frauenfeld|Stadler Rail Group
+3252636f6f|Bereichsleiter/in Schreinerei|CH-8335 Hittnau|Jampen Holzbau AG
+3252577558|Team Leader / Abteilungsleiter (m/w/d) 100% - Fahrrad und Workshop|Heimberg|Decathlon Sports Switzerland SA
+3252567466|Team-Abteilungsleiter/in Lüftung 100%|In Rothenburg|Gut AG
+3252516b68|Leiter:in Bereich Bahntiefbau & Strassenbau 80-100% - Zürich|Zürich|AFRY Schweiz AG
+3252426470|Bereichsleitung Tiefbau (80 - 100 %)|8340 Hinwil|Gemeinde Hinwil
+3252394c51|GESCHÄFTSBEREICHSLEITER:IN SIEDLUNGSENTWÄSSERUNG (w/m/d) Vollzeit, Teilzeit möglich|5405 Baden|HOLINGER AG
+325239454a|Operative Leitung Fachbereich Medizin & Hausärztin/Hausarzt (80-100 %) 80-100%|CH-8400 Winterthur|Sanacare AG
+#gl2|D|page=10|headline=1’468 Jobs gefunden|count=104|next=11
+325235687a|Teamleiter/in Elektrobau (100%)|CH-8583 Sulgen|Walter AG Signaltechnik und Verkehrsregelungsanlagen
+325177615a|Leiter/-in Bereich Lüftung Klima|St. Gallen|E3 HLK AG
+32516e5967|Abteilungsleiter: in, - Schwerpunkt Gerontopsychiatrie 80-100%|CH-6340 Baar|VIVIVA Baar
+32516e5976|Abteilungsleiter: in, - Schwerpunkt Gerontopsychiatrie 80-100%|CH-6340 Baar|VIVIVA Baar AG
+32516d6f73|Fachbereichsleiter:in Ingenieurvermessung (Mitglied der Geschäftsleitung und Standortleitung Zürich)|8006 Zürich|Terra Vermessungen AG
+32516e5372|Abteilungsleiter*in Fleisch/Fisch|8424 Embrach|Miduca AG
+32516b6275|Quereinstieg Abteilungsleiter*in Fleisch/Fisch 50 - 100%|8879 Mels|Genossenschaft Migros Ostschweiz
+3251675264|Leitung Administration und Mitglied der Geschäftsleitung (m/w), 60-100%|CH-3608 Thun|Kurt Schneider AG
+325150687a|Abteilungsleitung Wohnen - Struktur- & Teilstrukturgruppe (80-100%)|Wohnheim Horgen|Organisation Humanitas Stiftung
+3251486941|Projektleiter / Senior Projektleiter Tunnel- und Untertagebau 80-100 % (w/m)|Zürich|ARX Group SA
+325146636f|Schreiner Chefmonteur/-in (bei Interesse als Mitglied der Geschäftsleitung)|CH-3073 Gümligen|Röthlisberger Schreinerei AG
+3251354861|Head of Department Sourcing Indirect (f/m/d)|CH-4153 Reinach BL|Endress+Hauser
+3251327946|FACHBEREICHSLEITER:IN TRAGWERKSPLANUNG (w/m/d) Vollzeit, Teilzeit möglich|3006 Bern|HOLINGER AG
+3251335870|Bereichsleiter Schaltanlagen-/Steuerungsbau (m/w)|CH-3053 Münchenbuchsee|elektro fahrni ag
+3251306462|Abteilungsleiter*in Frische 80 - 100%|8494 Bauma|Genossenschaft Migros Ostschweiz
+3250765273|Team-/Abteilungsleiter*in|Wetzikon|crea Natura GmbH
+3250685944|Senior BIM Manager:in / Stv. Abteilungsleitung (a)|Rheinfelden|Actemium Schweiz AG
+3250645874|Quereinsteiger*in Abteilungsleiter*in Frische 80 - 100%|9500 Wil|Genossenschaft Migros Ostschweiz
+3250587430|Abteilungsleiter*in Fleisch/Fisch 80 - 100%|8424 Embrach|Genossenschaft Migros Ostschweiz
+32504a5a73|Heizung / Kälte / Energie, 100 % (w/m)|CH-8048 Zürich|Komfonie engineering AG
+3250373575|Dipl. Pflegefachperson HF/FH als stellvertretende Abteilungsleitung|CH-6340 Baar|Stiftung Pflegezentrum Baar
+3250324371|Polymechaniker:in / Abteilungleitung für 5-Achs-Bearbeitungszenter 80-100%|CH-3270 Aarberg|Bangerter Microtechnik AG
+324f795674|Bereichsleiter/in Baubewilligungen 80 - 100 %|CH-8307 Effretikon|Stadt Illnau-Effretikon
+324f716358|Bereichsleitung Stellvertreter:In 50-100%|Schaffhausen|2B Visions AG
+324f716356|Bereichsleitung Stellvertreter:in 50 -100%|Frauenfeld|2B Visions AG
+324f677639|Head of Business Unit IES (Infrastructure & Energy Supply)|Root|NRG Solutions AG
+324f4f546b|Abteilungsleiter:in / Projektleiter:in AC-Installationen für Photovoltaik|Aarberg|tritec AG
+324e434975|Leiter:in Engineering - Mitglied der Geschäftsleitung|Niederhasli|Doka Schweiz AG
+324e304545|Bereichsleitung Baumanagement|Gossau, Romanshorn, Wil, Winterthur, Biel, Bern|B3 Gruppe AG
+324d79776b|Bereichsleiter/in Liegenschaften 80-100%|CH-8494 Bauma|Gemeinde Bauma
+324d79776c|Abteilungsleiter/in Gesellschaft 80-100%|CH-8494 Bauma|Gemeinde Bauma
+324d726251|Leiter:in Bereich Bahntiefbau & Strassenbau 80-100% - Zürich|8048 Zürich|AFRY Schweiz AG
+324d653939|Nachwuchsprogramm: Abteilungsleiter*in Supermarkt 100%|4800 Zofingen|Genossenschaft Migros Aare
+324d52614b|Abteilungsleiter:in Bahn Fahrbahn|5408 Ennetbaden|Gähler und Partner AG
+3252595a48|Abteilungsleiter Lüftung / Klima / Kälte (m/w/d) 100 %|Herzogenbuchsee|CHRONOS Personalberatung GmbH
+324c6f4c6c|Ingenieur:in - Schwerpunkt Statik Stahlbau & Rohrleitungen - Stv. Abteilungsleitung|Rheinfelden|Actemium Schweiz AG
+324c42354c|Telefonverkäufer/in Fleisch (Mitglied der Geschäftsleitung)|Schenkon|Carneco AG
+324c383456|Leiter:in Bereich Bahntiefbau & Strassenbau 80-100% - Zürich|Zürich|AFRY Schweiz AG
+324c383457|Leiter:in Abteilung Gesamtplanung 80-100% - Zürich|Zürich|AFRY Schweiz AG
+324b6d4958|Bereichsleiter 80-100% m*w / Olten|Olten|HKG Engineering AG
+324b4b7a4e|Abteilungsleiter Elektroengineering (m/w/d) 80-100%|4142 Münchenstein|Selmoni Ingenieur AG
+324a7a515a|Leiter/in Abteilung Container/ Freiland Gehölze 100%|CH-4665 Oftringen|Haller AG
+324a444e61|Fachbereichsleiter*in Tunnel- und Spezialtiefbau|CH-4052 Basel|Aegerter & Bosshardt AG
+324a426670|Nachwuchsprogramm: Abteilungsleiter*in Supermarkt 100%|5033 Buchs|Genossenschaft Migros Aare
+324a37644d|Nachwuchsprogramm: Abteilungsleiter*in Supermarkt 100%|5610 Wohlen|Genossenschaft Migros Aare
+324a376451|Nachwuchsprogramm: Abteilungsleiter*in Supermarkt 100%|4600 Olten|Genossenschaft Migros Aare
+3249636b65|Abteilungsleiter Industrieinstallation Schwerpunkt Pharma/Chemie (m/w/d) 80-100%|4142 Münchenstein|Selmoni Installation AG
+3249595654|Abteilungsleiter/in Möbel80% - 100%|Rothrist|XLCH AG
+3248734979|Treuhandspezialist*/ Mandatsleiter* und Mitglied der Geschäftsleitung 80 - 100%|Thun|Ernst AG Buchführung & Treuhand
+3248477759|Nachtdienst für 2-4 Nächte|CH-6216 Mauensee|Herbschtzytlos AG
+3247736942|Nachwuchsprogramm: Abteilungsleiter*in Supermarkt 100%|3400 Burgdorf|Genossenschaft Migros Aare
+3247736937|Nachwuchsprogramm: Abteilungsleiter*in Supermarkt 100%|3321 Urtenen-Schönbühl|Genossenschaft Migros Aare
+3247397653|Stellvertretende/-r Bereichsleitung Ingenieurbau Luzern|CH-6210 Sursee|Ingenieurbüro Kost + Partner AG
+324655757a|Nachwuchsprogramm: Bereichsleiter*in Supermarkt 100%|4310 Rheinfelden|Genossenschaft Migros Aare
+3246557572|Nachwuchsprogramm: Abteilungsleiter*in Supermarkt 100%|8957 Spreitenbach|Genossenschaft Migros Aare
+3246557635|Nachwuchsprogramm: Abteilungsleiter*in Supermarkt 100%|4310 Rheinfelden|Genossenschaft Migros Aare
+3246557569|Nachwuchsprogramm: Abteilungsleiter*in Supermarkt 100%|5620 Bremgarten|Genossenschaft Migros Aare
+3246557565|Nachwuchsprogramm: Bereichsleiter*in Supermarkt 100%|8957 Spreitenbach|Genossenschaft Migros Aare
+324645395a|Abteilungsleiter*in Frische 80 - 100%|9200 Gossau|Genossenschaft Migros Ostschweiz
+3246453957|Quereinsteiger*in Bereichsleiter*in 80 - 100%|9200 Gossau|Genossenschaft Migros Ostschweiz
+3246453962|Quereinsteiger*in Abteilungsleiter*in Molkerei Region Rheintal 80 - 100%|9001 Gossau SG|Genossenschaft Migros Ostschweiz
+3245786866|Abteilungsleiter:in Sanitär mit personeller Führungsverantwortung 60 - 100%|CH-3645 Gwatt (Thun)|Müller + Hänni AG
+#gl2|D|page=11|headline=1’469 Jobs gefunden|count=36|next=NONE
+3244577655|Keine passende Stelle gefunden?|CH-3715 Adelboden|Künzi + Knutti AG
+3241615353|Projektleiter:in oder Bereichsleiter:in Heizung (80-100%)|CH-4057 Basel|Basel Gebäudetechnik AG
+324161536d|Projektleiter:in oder Bereichsleiter:in Sanitär (80-100%)|CH-4057 Basel|Basel Gebäudetechnik AG
+3241615366|Projektleiter:in oder Bereichsleiter:in Lüftung (80-100%)|CH-4057 Basel|Basel Gebäudetechnik AG
+3239627a76|Assistant Manager or Manager - Technology Assurance Group|Zürich|KPMG AG
+3239394d69|Bereichsleiter/in Projekte Fensterbau|CH-6017 Ruswil|Haupt AG Ruswil
+3236387278|Abteilungsleiter:in Ingenieurtiefbau 80-100%|Frauenfeld|STUTZ AG Bauunternehmung
+3233675168|Nachwuchsprogramm: Bereichsleiter*in Supermarkt 100%|4513 Langendorf|Genossenschaft Migros Aare
+3233675161|Nachwuchsprogramm: Abteilungsleiter*in Supermarkt 100%|3800 Interlaken|Genossenschaft Migros Aare
+3233675434|Nachwuchsprogramm: Abteilungsleiter*in Supermarkt 100%|4513 Langendorf|Genossenschaft Migros Aare
+32327a4b41|Leiter Abteilung Aluminium Bearbeitung (m/w/d), Anstellungsgrad 100%|CH-3367 Thörigen|FBT Fahrzeug und Maschinenbau AG
+32326f7176|Nachwuchsprogramm: Abteilungsleiter*in Supermarkt 100%|4622 Egerkingen|Genossenschaft Migros Aare
+3231644167|Nachwuchsprogramm: Bereichsleiter*in Supermarkt 100%|4622 Egerkingen|Genossenschaft Migros Aare
+3230316444|Bereichsleitung SGD / Mitglied der Geschäftsleitung (alle)|CH-6204 Sempach|Suisag, Aktiengesellschaft für Dienstleistungen in der Schweineproduktion
+317a493661|Bauingenieur:in Bereichsleitung|Gossau, Romanshorn, Wil, Winterthur, Biel, Bern|B3 Gruppe AG
+3178484851|Fachbereichsleitung Neueröffnung Kita für die Regionen ZÜRICH und BASEL, Pensum von 100%|Zürich|globegarden gmbh
+3175476334|Fahrzeugschlosser / Carrosserie-Spengler / Carrosserie-Lackierer|CH-8610 Uster|Walde AG
+3175324746|Nachwuchsprogramm: Bereichsleiter*in Supermarkt 100%|2555 Brügg|Genossenschaft Migros Aare
+316a454b6e|Nachwuchsprogramm: Abteilungsleiter*in Supermarkt 100%|3604 Thun|Genossenschaft Migros Aare
+316a454b5a|Nachwuchsprogramm: Bereichsleiter*in Supermarkt 100%|3011 Bern|Genossenschaft Migros Aare
+3168446556|Assistant Restaurant General Manager (W/M/D)|Oftringen|Sogood S.A.
+3165464148|Abteilungsleiter Holzbau|Möhlin|Gut AG, Möhlin
+74786d52|Bereichs- / Projektleiter Elektro|CH-5412 Gebenstorf|Gisi Com AG
+#gl2|W|page=1|headline=437 Jobs in der Websuche gefunden|count=100|next=2
+3256784e55|Teamleiter Heizung & Sanitär (m/w/d) 80-100 %, mit Perspektive Mitglied der Geschäftsleitung|CH-6060 Sarnen|CHRONOS Personalberatung GmbH
+3256775a35|Elektro-Spezialist als ABTEILUNGS-LEITER "Elektro-Werkstatt" 80-100%|CH-8050 Zürich|Mooser & Partner AG Personalberatung
+3256776f75|BEREICHSLEITER ELEKTROINSTALLATIONEN 100%|CH-8000 Raum Zürich|Thomson Consulting AG
+3256775962|Leiter:in Human Resources & Mitglied der Geschäftsleitung (80 - 100 %)|CH-6340 Baar|Jörg Lienert AG
+3256766f35|Abteilungsleiter Konfektionierung 100% (m/w/d)|Toggenburg|Universal-Job AG
+3256773253|Abteilungsleiter:in Rohrleitungsbau Gas / Wasser / Fernwärme|Bern|Energie Wasser Bern
+3256757566|Sales Manager / Mitglied der GL|9000 St. Gallen|Seiler Logistics AG
+3256746569|Abteilungsleiter:in Food/Non-Food 80-100%|Mels|OTTO'S AG
+3256745472|Stv. Abteilungsleiter Fabrikation (m/w/d)|Triengen|Work Selection AG
+325674564c|Abteilungsleiter Drehen (m/w/d)|Merenschwand|Work Selection AG
+3256755248|Bereichsleitung Soziales (Recht / Sozialarbeit) m/w 80-100 %|Schübelbach|Steinmann & Partner GmbH
+3256737538|Bereichsleitung Pflege / Co-Bereichsleitung Pflege (m,w,d) 100% - Festanstellung in Zürich-Oberland|CH-8603 Schwerzenbach|Adecco
+3256755134|Team- / Abteilungsleitung Zollwesen Imp/ Exp 100%|Basel/ Agglomeration|punkt personal AG
+3256755030|Bereichsleiter:in Software & Product Engineering und Mitglied der Geschäftsleitung|Bern|Marco R. Fuhrer Unternehmensberatung
+3256717845|Bereichsleitung Pflege / Co-Bereichsleitung Pflege (m,w,d) 100% - Festanstellung in Zürich-Oberland|Uster, Greifensee, Schwerzenbach|Adecco
+3256714c66|CEO / Vorsitz der Geschäftsleitung|3390 Wangen an der Aare|Jörg Lienert AG
+3256714e6a|Bereichsleitung Pflege Demenz (m/w/d)|5610 Wohlen|news Personal AG
+3256714762|Abteilungsleitung (a) PPS & AVOR|Basel|persona service AG
+3256717645|LeiterIn Transport National (Mitglied der Geschäftsleitung)|Rothrist|Schöni Transport AG
+32566f696f|Team-Abteilungsleiter Lüftung 100% (m/w/d)|Luzern|Universal-Job AG
+32566d6f4b|Bereichsleitung Pflege / Co-Bereichsleitung Pflege (m,w,d) 100% - Festanstellung in Zürich-Oberland|8606 Uster, Greifensee, Schwerzenbach|Adecco
+32566f4f6b|Bereichsleiter/in Hochbau / Stv. Leiter/in Bau + Planung 80 - 100 % Region Solothurn / Jurasüdfuss|Bellach|Futuro Personal AG
+32566f5277|Bereichsleiter/in Archäologie und Denkmalpflege 80-100 %|Zürich|Futuro Personal AG
+32566e5050|Leitung Pflege und Betreuung / Mitglied der Geschäftsleitung (80-100 %)|9300 Wittenbach|Alterszentrum Kappelhof AG
+3256703964|Bereichsleitung Pflege / Co-Bereichsleitung Pflege 100% - Festanstellung in Zürich-Oberland|CH-8603 Schwerzenbach|Adecco
+32566f464a|Pflegedienstleitung 100% - Mitglied der Geschäftsleitung|Region Biel|Impirio AG
+32566f4970|Abteilungsleitung Endokrinologie / Diabetologie (LA) 80-100%|Bülach|CoSB AG
+32566f425a|Fachbereichsleiter*in und Stv. Bereichsleiter*in Bade- und Eisanlagen|Zürich|Schul- und Sportdepartement der Stadt Zürich
+32566f4641|Nachwuchsfachperson mit Ziel Fach- oder Bereichsleitung, Region Luzern-Land|Sursee|Genossenschaft Migros Luzern, in Dierikon
+32566b4276|Abteilungsleiterin geriatrie (pflegefachfrau / pflegefachmann), 80 - 100%|Meilen|progress personal ag
+32566b6d57|Bereichsleiter/in Markt, Energie und Mobilität (m/w/d) 80-100%|St.Gallen|St.Galler Stadtwerke
+32566b6f79|Abteilungsleiter*in Betriebslogistik|3225 Müntschemier, Berne|Flexsis SA
+32566d4a58|Ärztliche Direktorin / ärztlicher Direktor Erwachsenenpsychiatrie & Mitglied Geschäftsleitung 100%|CH-4410 Liestal|Innopool AG
+32566c7833|Neue Standortleitung Ilgenmoos ( F /M/ D) und Mitglied der Geschäftsleitung|Zürich|Vokus Personal AG
+32566c6755|Bereichsleiter Fräserei (a) 100%|8630 Rüti ZH|Personal Knobel AG
+32566b4d77|Leiter finanzen / mitglied der geschäftsleitung, 80 - 100% (w/m/d)|Arbon|progress personal ag
+32566b3751|Elektro-Sicherheitsberater:in, Leiter:in Fachbereich|SO / BE / BL / BS / AG / LU|advisca gmbh
+32566d5a4f|Leitung Berufliche Vorsorge / Mitglied der Geschäftsleitung (80-100%)|CH-8001 Zürich|Amrop Executive Search AG
+32566c4852|Bereichsleiter/in Bau, Infrastruktur & Werke (BIW) und Mitglied der Geschäftsleitung (80 - 100 %)|CH-6055 Alpnach Dorf|Jörg Lienert AG
+32566d5432|Business-Unit-Leiter:in Verkehrsinfrastruktur Region Nordost 100%|CH-3004 Bern|e-selection AG
+32566a5a77|Section Lead Drug Product Process Engineering 100%|4000 Basel (BS)|avec compétence (avecco) GmbH
+32566b5065|Bereichsleiter Projektabwicklung (w/m/d)|Bern Region|TCC - the career company ag
+325669346b|Abteilungsleiterin/Abteilungsleiter Bau + Sicherheit (80 - 100 %) / Mitglied der Geschäftsleitung|Brüttisellen|Steinmann & Partner GmbH
+3256696a57|Ärztliche Direktorin / ärztlicher Direktor Erwachsenenpsychiatrie & Mitglied Geschäftsleitung|Münchenbuchsee|Innopool AG
+325669574d|Teamleiter Elektrobau / Schaltanlagen|Sulgen|Work4you AG
+3256695235|Bereichsleiter/in Bau, Infrastruktur & Werke (BIW) und Mitglied der Geschäftsleitung (80 - 100 %)|CH-6055 Alpnach|Jörg Lienert AG
+3256695355|Bereichsleiter/in Bau, Infrastruktur & Werke (BIW) und Mitglied der Geschäftsleitung (80 - 100 %)|6055 Alpnach|Jörg Lienert AG
+3256697652|Bereichsleiter/in Bau, Infrastruktur & Werke und Mitglied der Geschäftsleitung 80-100%|CH-6055 Alpnach Dorf|Jörg Lienert AG
+3256666d37|Leitung Pflege und Betreuung (80 - 100%) / Mitglied der Geschäftsleitung|CH-8330 Pfäffikon ZH|Keller Unternehmensberatung AG
+3256653450|Bereichsleitung Einwohnerdienste 100 %|Rafz|Steinmann & Partner GmbH
+325665556a|Abteilungsleitung Sozialhilfe, Beratung, Asyl (m/w/d) 80-100%|8500 Frauenfeld|Stadt Frauenfeld
+325665556b|Stellvertretende Abteilungsleitung Hochbau, Liegenschaften und Parkierung (80-100 %).|9400 Rorschach|Stadt Rorschach
+3256625449|Automatiker, Stv. Abteilungsleiter 100% (m/w/d)|8000 Zürich|Adecco
+3256633659|Abteilungsleitung Kultur / Kulturbeauftragte/r 80%|Wetzikon (ZH)|Steinmann & Partner GmbH
+325663705a|Stellvertreter Abteilungsleiter Betriebslogistik 100%, m/w|Müntschemier, Seeland, Bern|Gi Group SA
+3256637058|Abteilungsleiter Betriebslogistik mit Fokus auf Digitalisierung 100%, m/w|Aarberg, Seeland, Bern|Gi Group SA
+3256644451|Leiter Finanzen & Administration (m/w/d), Mitglied der Geschäftsleitung 100%|CH-8001 Zürich|Nellen & Partner AG
+3256654530|Leitung Pflege & Betreuung / Mitglied der Geschäftsleitung 100%|Deutschschweiz|Alprojob Litscher
+3256614c6b|Leiter Finanzen & Administration (m/w/d), Mitglied der Geschäftsleitung|9000 St. Gallen|Nellen & Partner AG
+3256623054|Abteilungsleiter Spritzguss m/w/d|9113 Degersheim|Nolato Treff AG Degersheim
+3256616d4c|CFO (Mitglied der Geschäftsleitung) - 100 %|Deutschschweiz|ProSearch
+3256594331|Schreiner/in als Bereichsleiter für Fensterbau 100%|CH-6017 Ruswil|Stellentreff AG
+3256596841|Schreiner/in als Bereichsleiter für Fensterbau 100%|CH-6017 Ruswil|Fachkraft.ch GmbH
+325656746f|Leiter:in Kinder & Jugendliche / Mitglied der Geschäftsleitung 80%|CH-8135 Langnau am Albis|iek Institut für emotionale Kompetenz AG
+3256566e65|Stv. Abteilungsleiter Verarbeitung 100%|CH-6144 Zell LU|Durrer Management
+3256584951|Leiter/-in Bereich Sozialversicherungen & Dienste 80-90% (a)|Emmenbrücke|Steinmann & Partner GmbH
+3256584f30|Finance Director / Mitglied der Geschäftsleitung 100% (m/w/d)|Zürich|Universal-Job AG
+325658684a|Mitglied der Geschäftsleitung Verkauf, Vertrieb & Marketing (m/w/d) (100%)|Zürich|Nellen & Partner AG
+3256584f67|Abteilungsleiter Sanitärtechnik 80 - 100% (m/w/d)|Luzern|Universal-Job AG
+3256593039|Abteilungsleiter Zentrale und Fertigung (Zusammenbau) 100% (m/w/d)|Nidwalden|Universal-Job AG
+325655334e|Abteilungsleitung Produktentwicklung Pharma (100%) 100% (m/w/d)|Roggwil|Universal-Job AG
+#gl2|W|page=2|headline=437 Jobs in der Websuche gefunden|count=100|next=3
+3256557277|Bereichsleiter Sanitär 100% (m/w/d)|Bern|Universal-Job AG
+3256556b44|Abteilungsleiter*in Fleisch/Fisch 80-100%|8400 Winterthur|Migros-Genossenschafts-Bund
+3256535050|Fachbereichsleiter immobilienbewirtschaftung Region Luzern 80-100%|CH-6003 Luzern|Wetzel Personalberatung AG
+3256506b6b|Leiter:in Kinder & Jugendliche / Mitglied der Geschäftsleitung 80%|8135 Langnau am Albis|iek Institut für emotionale Kompetenz AG
+3256533150|Abteilungsleiter/in Oberflächenbehandlung (80-100 %)|CH-6462 Seedorf UR|ZÜRCHER Consulting
+32564f6c72|Abteilungsleiter Stellvertreter Dreherei 100% (m/w/d)|5000 Aarau|Adecco
+32564d7163|Abteilungsleiter Maschinen 100% (m/w/d)|Luzern|Universal-Job AG
+325649535a|Abteilungsleitung Montage & Service 90-100%|CH-6300 Zug|Prime21 AG
+32564a744c|Bereichsleiter/-in Fräsen (m/w/d) 100%|6030 Ebikon|Adecco
+32564c6862|Bereichsleiter/in Wohnen und Tagesstruktur 80-100% Stellvertretung der Geschäftsführung|4800 Zofingen|Kampahire GmbH
+32564c3555|Business-Unit-Leiter:in Verkehrsinfrastruktur Region Nordost|Mittelland|e-selection AG
+3256477076|Abteilungsleiter/in Feingebäck|Luzern|Randstad (Schweiz) AG
+325646776a|Architekt / Mitglied der Geschäftsleitung (a)|Bern, Bern-Mittelland, Bern|Gi Group SA
+3256476d30|Bereichsleiter Infrastruktur (a)|Region Zentralschweiz|Personal Sigma Altdorf & Stans AG
+325646486f|Abteilungsleiter*in Fleisch/Fisch 80-100%|8200 Schaffhausen|Migros-Genossenschafts-Bund
+3256437376|Abteilungsleiterin / Abteilungsleiter Getränke 80-100%|9016 St. Gallen|Coop Genossenschaft
+3256426234|Abteilungsleiter/-in Dreherei 100%|Region Weinfelden|pevena gmbh
+3256435259|General Manager 100%|CH-3011 Bern|Hotelis SA
+3256444962|Bereichsleiter Technik und Instandhaltung (m/w/d)|Zentralschweiz|Persigo AG
+3256387469|Abteilungsleiter Blaserei BL / Spritzblaserei SB (w/m/d)|8280 Kreuzlingen|Kunststoff-Packungen AG
+3256415357|Abteilungsleiter Sanitär 100%|CH-8048 Zürich|Sequoia Star AG
+3256395a4a|Kaderärztin / Kaderarzt Innere Medizin & Notaufnahme (Stv. LA) 60-100 % in familiärem, grenznahem Akutspital|Agglomeration Basel|Medimeo AG
+325639334b|General Manager|3011 Bern, Berne|Hotelis SA
+3256376552|Ressortleiter/in Instandhaltung Leitungen 80-100%|5505 Brunegg (AG)|avec compétence (avecco) GmbH
+3256374c57|Pflegedienstleitung / Bereichsleitung Pflege und Betreuung (m/w/d) 80-100 %|Stadt Bern|Curavero Michèle Friedli
+3256363077|Bereichsleiter:in Finanzen & Controlling 100%|CH-8620 Wetzikon ZH|Jörg Lienert AG
+3256364241|Fachbereichsleiter Leistungen 80 - 100% (m/w/d)|Zürich Oerlikon|Universal-Job AG
+325634554f|Abteilungsleiter mit Elektronik-Kenntnissen 100% (m/w/d)|9424 Rheineck|HP Job GmbH
+3256315767|Bereichsleiter:in Finanzen & Controlling|8620 Wetzikon ZH|Jörg Lienert AG
+3256343148|Bereichleiter:in Statik 100%|CH-5200 Brugg AG|ZÜRCHER Consulting
+32557a3145|Technischer Bereichsleiter - Automatisierung & Logistiksysteme 100% (m/w/d)|8304 Wallisellen|Adecco
+32557a3278|Fachbereichsleitung Finanzen KMU Handel (m/w/d) 100%|5000 Aarau|Adecco
+3256305564|Departementsleiter Life Sciences (m/w/d)|Raum Zürich|Müntener & Thomas AG
+3256304c67|Assistenz Bereichsleitung Technik (a)|8307 Effretikon|Personal Knobel AG
+3256303173|Bereichsleiter Sanitär 100% (m/w/d)|Bern|Universal-Job AG
+3255795877|Fachbereichsleiter oder Teamleiter Technischer Verkauf Innendienst 100% (a)|CH-6074 Giswil|Gi Group SA
+325576364b|Fachbereichsleiter oder Teamleiter Technischer Verkauf Innendienst 100% (a)|Giswil, Obwalden, Obwalden|Gi Group SA
+3255774678|Abteilungsleiter Stanzerei 100% (m/w)|9606 Bütschwil|Schwarz AG Holding
+3255774648|Leiter/in HR und GL Mitglied 100%|Burgdorf|Randstad (Schweiz) AG
+3255767674|Abteilungsleiter Zentrale und Fertigung (Zusammenbau) 100% (m/w/d)|Nidwalden|Universal-Job AG
+3255736d4e|Abteilungsleiter: in, - Schwerpunkt Gerontopsychiatrie|Zug · Zentralschweiz|Swiss-Care-Company GmbH
+3255713833|Stv. Abteilungsleiterin (Abteilungsleiter Verarbeitung) 100% (m/w/d)|Luzern|Universal-Job AG
+32556d4735|Leiter/in Finanzen und Mitglied der Geschäftsleitung|4133 Pratteln|Adecco
+32556b7450|Leitung Kompetenzzentrum Tierschutz, Mitglied der Geschäftsleitung|8048 Zürich-Altstetten|Jörg Lienert AG
+32556c4e46|Teamleiter Heizung & Sanitär (m/w/d) 80-100 %, mit Perspektive Mitglied der Geschäftsleitung|Interlaken - Sarnen|CHRONOS Personalberatung GmbH
+3255677774|Leiter:in Human Resources & Mitglied der Geschäftsleitung (80 - 100 %)|6340 Baar|Jörg Lienert AG
+3255656232|Bereichsleitung Recht|6010 Kriens|Jörg Lienert AG
+3255626967|Abteilungsleiter/in Konfektionierung (Käsevorverpackung)|9243 Jonschwil|Hardegger Käse AG
+325554424c|Ressortleiter/in Gesellschaft (80-100%) Mitglied der Geschäftsleitung|Rapperswil-Jona|inoversum personalmanagement AG
+32554d6244|Bereichsleiter:in Entlastung & gesellschaftliche Integration als Mitglied der Geschäftsleitung 100%|5000 Aarau|Jörg Lienert AG
+32554e4769|Abteilungsleiter*in Food/Non Food 80-100%|8555 Müllheim|Migros-Genossenschafts-Bund
+32554e514d|Anlagenführer & Stv. Abteilungsleiter Lebensmittelbranche (m/w/d)|Obwalden|Persigo AG
+32554e5537|Abteilungsleiter/in Oberflächenbehandlung 80-100%|Region Uri|Personal Sigma Altdorf & Stans AG
+32554b6d71|Abteilungsleiter Sanitär & Heizung (m/w) 100%|CH-6024 Hildisrieden|ZÜRCHER Consulting
+32554b5465|Bereichsleitung Wohnen & Tagesgestaltung Erwachsene 80 - 100 %, Mitglied der Geschäftsleitung|4056 Basel|Jörg Lienert AG
+3255446f55|Abteilungsleiter Gebäudeinstallation (m/w/d) 80-100%|Münchenstein|salessolution.ch GmbH
+3255464d43|Abteilungsleiter/-in Tarife & IBI-care|8501 Kantonsspital Frauenfeld|Spital Thurgau AG
+325546674f|Leiter/in Shared Services - Mitglied der Geschäftsleitung|Mittelland|Jörg Lienert AG
+#gl2|W|page=3|headline=436 Jobs in der Websuche gefunden|count=100|next=4
+3255386b59|Abteilungsleiter Werkzeug (m/f) 80-100%|CH-2500 Biel/Bienne|Barock Job AG
+3255414348|Abteilungsleiter Elektroengineering (m/w/d) 80-100%|Münchenstein|salessolution.ch GmbH
+3255416e4a|Bereichsleiter*in Metzgerei 80-100%|9240 Uzwil|Migros-Genossenschafts-Bund
+325541696e|Mandatsleiter Wirtschaftsprüfung, Nordwestschweiz|Nordwestschweiz|BlaCon GmbH
+3255366378|Abteilungsleiter Strategischer Einkauf - Heerbrugg (SG)|Heerbrugg (SG)|MG Personal Management, Michele Giaffreda
+3254754558|Ressortleiter Lagerlogistik 80-100% (a)|St. Gallen|PMS SCHÖNENBERGER AG
+3254763135|Leitung Pflege & Betreuung / Mitglied der Geschäftsleitung 100%|Deutschschweiz|Alprojob Litscher
+325472554d|Fachbereichsleitung Pflege 80-100% (M/W/D)|Nidau|Impirio AG
+3254735867|Stv. Abteilungsleiter Nachbearbeitung (m/w) 100% - Zerspanungstechnik|CH-4431 Bennwil|Rhy Personal AG
+32546e7057|Abteilungsleiter Produktionsplanung & Steuerung (AVOR) (m/w/d) 100%|Ostschweiz|PETRAG HR AG
+3254696750|Leitung Finanzen & ICT, Mitglied der Geschäftsleitung 60-80%|6012 Obernau (Kriens)|Jörg Lienert AG
+3254684f70|Leitung Finanzen & ICT, Mitglied der Geschäftsleitung|6012 Obernau (Kriens)|Jörg Lienert AG
+3254626e66|Co-Bereichsleitung IT-Services (m/w) 80-100%|Bern|myitjob GmbH
+3254625379|Bereichsleiter Tiefbau und Infrastrukturbau|Zürich-West (ZH/AG)|Andreas Schraner Unternehmens- und Kaderberatung AG
+3254634259|Leitung Human Resources (Mitglied der erweiterten Geschäftsleitung)|Schweiz|EMA Partners Switzerland AG
+3254614f37|Co-Abteilungsleitung|6340 Baar|news Personal AG
+3254574262|Quereinstieg Abteilungsleiter*in Fleisch/Fisch 50-100%|8879 Mels|Migros-Genossenschafts-Bund
+3254544259|Leiter/in Fachbereich Treuhand|Luzern/LU|Camenzind Human Resources GmbH
+325450416c|CFO, Mitglied der Geschäftsleitung|4153 Reinach / BL|Jörg Lienert AG
+32544d7832|Leiter:in Business Unit Deutschschweiz (m/w/d) 100%|Zürcher Unterland / Limmattal|glaus personal gmbh
+32544d4b58|Bereichsleiter/in Finanzen und Verwaltung|Region: Olten|Barock Job AG
+32544e4b41|Leiter Design & Services Hospitality, Mitglied der erweiterten Geschäftsleitung (w/m)|Zentralschweiz|Herzog Human Resources
+325447566d|Bereichsleiter Finanzen und Services (m/w/d)|Region Zürich|Nellen & Partner AG
+325449484c|Abteilungsleiter Abkanterei /Biegetechnik- Egnach (TG)|Egnach (TG)|MG Personal Management, Michele Giaffreda
+325431474e|MITGLIED GL / GESAMTPROJEKTLEITER / BAUHERRENVERTRETUNG|Zürich|Kley Consulting
+32537a6b49|Abteilungsleiter (a)|Region Obwalden|Personal Sigma Altdorf & Stans AG
+32536c6e4e|Stellvertretender Abteilungsleiter Schleiferei (m/w) 100%|9113 Degersheim|Angehrn AG Umformtechnik
+3253663561|Bereichsleitung Wohnen 100% (m/w/d)|4125 Riehen|news Personal AG
+3253654e34|Bereichsleiter:in Lüftung 80-100%|Frauenfeld|Gabriell Simoni & Partner GmbH
+32534f3957|Polymechaniker CNC-Fräsen / Stv. Abteilungsleiter 100%|Liestal|punkt personal AG
+32534f7445|Geschäftsbereichsleiter:in Steuern|Nordwestschweiz|upConsult GmbH
+3253484642|Abteilungsleiter Stv. Herstellung Frischfleisch-Convenience (w,m)|Lyss|Foodjob AG
+325348414f|Bereichsleiter Service (m/w) - HLKKS|Basel|Rhy Personal AG
+3253484648|Bereichsleitung Wohnen 100% (m/w/d)|8302 Kloten|news Personal AG
+3252744357|Bereichsleiter Technik (m/w/d) 100 %|Sarganserland|Müntener & Thomas AG
+3252724d52|Abteilungsleiter Lüftungstechnik, Ostschweiz|Nordwestschweiz|BlaCon GmbH
+32526c724d|Leitungsposition im Niedrigpensum gesucht? Wir suchen eine Pflegefachperson als Co-Bereichsleitung (m/w/d 50%)|ZH Unterland|Jobs Fit for Care AG
+32526d4646|Abteilungsleiter (a)|Region Zentralschweiz|Personal Sigma Altdorf & Stans AG
+32526a7435|Co-Abteilungsleitung Architektur 90-100%|8580 Amriswil|Moser Stalleinrichtungen AG
+32526b4554|Bereichsleiter/in Altlasten & Umwelt|Kloten|Matthias Döll GmbH
+3252576678|Abteilungsleiter Lüftung/Klima/Kälte (m/w/d) 100 %|Bern - Solothurn|CHRONOS Personalberatung GmbH
+3252574176|Abteilungsleitung Demenz|Aargau · Mittelland (AG, SO)|Swiss-Care-Company GmbH
+3252564e35|Bereichsleiter/in WOHNEN (80-100%)|Zentralschweiz|Alexander Gonzalez GmbH
+3252556579|Leitung Pflege / Mitglied der erweiterten Geschäftsleitung (m/w/d)|Region Luzern|Pharmy AG
+3252506b54|Bereichsleiter Schaltanlagenbau (m/w) - Gestalten Sie die Zukunft mit uns|Raum Zürich|Thomson Consulting AG
+3252506b62|Bereichsleiter Elektroinstallationen|Raum Zürichsee|Thomson Consulting AG
+32524f4d62|Pflegeleitung und Mitglied der Geschäftsleitung|Luzern|SEIRO GmbH
+3252445171|Bereichsleiter HLKS (m/w/d)|Bern|Medici & Sprecher AG
+3251705950|Malermeister / Mitglied GL (80-100%)|Zentralschweiz|Alexander Gonzalez GmbH
+3251594145|Leitung Finanzen/Services 80-100% (Mitglied der Geschäftsleitung)|CH-8590 Romanshorn|Human Relations GmbH
+3251536848|Abteilungsleiter/in Anästhesiepflege 80-100%|Region Zürichsee|Aposto Personal GmbH
+3251536835|Leitung Therapien / Mitglied Geschäftsleitung 80%-100%|Nordschweiz|Aposto Personal GmbH
+32514f4e32|Elektro-Spezialist als ABTEILUNGS-LEITER "Elektro-Werkstatt"|Oerlikon (Region)|Mooser & Partner AG Personalberatung
+325144774a|Abteilungsleiter (a)|Region Zentralschweiz|Personal Sigma Altdorf & Stans AG
+3250566e32|Co-Fachbereichsleiter:in Umwelt (80-100%)|Bern|Next Work AG
+32504d4a37|Leiter:in Architektur & Mitglied der Geschäftsleitung|Bern|advisca gmbh
+325037486f|Abteilungsleiter Wareneingang m/w|Mittelland|Beat Mathys, GATCOM, IT-Equipement
+3250343571|Abteilungs- / Projektleiter (a)|Region Zentralschweiz|Personal Sigma Altdorf & Stans AG
+325032706e|Abteilungsleitung Demenz|Zürich|Vokus Personal AG
+324f776552|Fachbereichsleitung Demenz (50-80%) - Dipl. Pflegefachperson HF - Spitex Solothurn|Solothurn|Ehrbar Consulting GmbH (MediMatch)
+324f72776f|Abteilungsleitung Psychiatrie 80-100% (befristet für ein halbes Jahr)|Region Oberaargau|Careerplus SA
+324f6b4d72|Abteilungsleitung Küche 80-100%|9016 St. Gallen|Bäckerei Schwyter AG
+324e78616f|Abteilungsleiter Tragwerke Hochbau (mwd) bei ARX Group|Emmen|PEC Egli Consulting GmbH
+324e587833|Abteilungsleitung Wohnen 80-100%|Zürich|Vokus Personal AG
+324e587835|Abteilungsleitung Wohnen|Zürich|Vokus Personal AG
+#gl2|W|page=4|headline=436 Jobs in der Websuche gefunden|count=100|next=5
+324e587834|Abteilungsleitung Wohnen|Zürich|Vokus Personal AG
+324e455873|Abteilungsleiter Gesamtplanung (m/w/d)|Zürich|Hays (Schweiz) AG
+324e434776|Fachbereichsleiter Beiträge und Buchhaltung (m/w/d) 100% Festanstellung|Basel|CPS Personal AG
+324d59684b|Bereichsleiter Bauphysik und Akustik (m/w)|Zürich (Stadt) Chur|Knellwolf + Partner AG
+324d5a7939|Leiter/in Finanzen & Administration (m/w) Mitglied der Geschäftsleitung|Bern|bfs consulting GmbH
+324d4e7262|Abteilungsleitung Gastroenterologie - Leitende Ärztin / Leitender Arzt (100%) - Region Zürich / Zürcher Unterland|Bülach|SuisseKasse GmbH
+324d4e7178|Bereichsleitung Normalpflege stationär (80-100%) / Region Zürich|Zürich|SuisseKasse GmbH
+324d4e4c51|Stv. Bereichsleitung Pflege & Betreuung 70-80%|Region Winterthur|VIVA Personal und Treuhand Schaffhausen GmbH
+324d417035|Leiter Abteilung Wareneingang & Spedition|Zürich|Beat Mathys, GATCOM, IT-Equipement
+324d385541|Abteilungsleiter/in Service Sanitär Festanstellung|Oberdorf NW|Chrampfcheibe Dommen Nadig AG
+324b5a3871|Abteilungsleiter/in technische Isolierungen(100%) ( Temporär )|Arisdorf BL|Soprak Personal AG
+324b4f4e65|Abteilungsleiter/in Baumeisterarbeiten(80% - 100%) ( Festanstellung )|3645 Gwatt|Soprak Personal AG
+324b4b364a|Bereichsleiter Bauphysik|Region Zürich|Arkadium AG
+324b444572|Spartenleiter HLKS mit Fokus Unternehmensentwicklung|Region Zürich|Arkadium AG
+3248755471|Personalberater / Bereichsleiter mit grossem Entwicklungspotenzial (m/w/d)|Zürich|Job Partner AG
+3247576150|Niederlassungsleiter:in Zürich (80-100%) und Mitglied der Geschäftsleitung|CH-5012 Schönenwerd|Pichler & Partner AG, Human Resources Solutions
+3247576151|Niederlassungsleiter:in Zug (80-100%) und Mitglied der Geschäftsleitung|CH-5012 Schönenwerd|Pichler & Partner AG, Human Resources Solutions
+324655666a|Obergärtner als Bereichsleiter fürs Gartenunterhalt und Gartenbau (Team 6-10 Personen)|Pfäffikon SZ|Arbeitskraft AG
+32464a5363|Leiter:in Projektumsetzung|6300 Zug|Jörg Lienert AG
+3246464278|Abteilungs-/Projektleiter Spenglerei/Bedachungen (m/w/d)|Nidwalden|Persigo AG
+3245784144|Stationsleitung/ Abteilungsleitung (HF/DNII) - Dein Know-how als Einführungsverantwortliche/r zählt!|Zürich|MalFix GmbH
+32456d6c78|Bereichsleitung Geriatrie (100%) - mit Herz, Weitblick und Führungsstärke|Zürich|Carepartner GmbH
+324563635a|Abteilungsleiter/in Prozessengineering 100% (m/w/d)|Schwyz|Permjobs Sadiku
+3244546277|Bereichsleiter/-in Spezialreinigung (m/w/d)|St. Gallen|Swissteda GmbH
+3244344371|Bereichsleiterin / Bereichsleiter Pflege Neurorehabilitation (a) 100%|Region Zürichsee|Aposto Personal GmbH
+3244344373|Bereichsleiter/in Pflege 100% (Bettenabt. Tagesklinik inkl. Hebammen)|Region Zürichsee|Aposto Personal GmbH
+32436a4e6b|Bereichsleiter/-in Bau und Mitglied der Geschäftsleitung|Raum Zürich|sk consulting Unternehmensberatung im Personalmanagement
+3243527653|Stv. Bereichsleiter/in Tiefbau (m/w)|Region Zug|ZÜRCHER Consulting
+3242364c68|Radiologie Leitung / MTRA - Jobs (80-100%)|Kt. Zürich / Zug|Stecher Consulting
+3242326e63|LEITERIN "Finanzen und Dienste", Mitglied der Geschäftsleitung (m/w, 80 %)|Männedorf|Mooser & Partner AG Personalberatung
+3239734b77|Chefarzt / Chefärztin Medizin (Geriatrie, Neurologie oder Notfallmedizin, Onkologie, Gastroenterologie) / Mitglied der Geschäftsleitung|Innerschwyz|Aposto Personal GmbH
+32386c5353|Bereichsleiter Dach (m/w/d) - Mitglied der Geschäftsleitung|Region Aarau|ZÜRCHER Consulting
+3238623463|Bauingenieur/in|Raum Basel|Basel Job AG
+3238506255|Team-/ Abteilungslead Spanienverkehre / Spedition 100%|Pratteln|punkt personal AG
+3238313876|Mitglied Geschäftsleitung Treuhand (m/w/d) 60 - 100%|Luzern|Persigo AG
+3237727942|Abteilungsleiter Sanitär (m/w)|Region Zürich|ZÜRCHER Consulting
+3237696870|Abteilungsleiter/in Sanitär und Heizung|Region Aargau|ZÜRCHER Consulting
+3237386f59|Chefärztin/Chefarzt Klinik Medizin und Mitglied der Geschäftsleitung|Zürichsee|Aposto Personal GmbH
+3236516651|Bereichsleiter/in Heizung / Kälte|Schweiz|Rechsteiner Partners AG
+32356a5258|Abteilungsleiter/in Beratung, Wasser/Abwasser|Region Aargau|ZÜRCHER Consulting
+3235667435|Bereichsleitung Pflegezentrum 80-100% (a)|Region Zürichsee|Aposto Personal GmbH
+3235564965|Bereichsleitung Pflege 80-100%|Region Zürich|Aposto Personal GmbH
+32354d354f|Abteilungsleitung Pflegezentrum 80-100%|Nordschweiz|Aposto Personal GmbH
+3235384330|Bereichsleiter/in ICT & Medizininformatik 80-100%|Ostschweiz|Aposto Personal GmbH
+32346a7430|Bereichsleiter/in Pflege 70-100%|Zürichsee|Aposto Personal GmbH
+3234655868|Leitung Pflege und Betreuung und Mitglied der Geschäftsleitung Spitex 80-100%|Nordschweiz|Aposto Personal GmbH
+3234656232|Dipl. Bauingenieur/-in Bereichsleiter Tiefbau|Region Zug|ZÜRCHER Consulting
+3234657869|Pflegefachfrau/Pflegefachmann HF als Bereichsleitung Demenzpflege 80-100%|BE|Curavero Michèle Friedli
+3234506c49|Abteilungsleitung Pflege- und Demenzabteilung 80-100%|Zürich|Aposto Personal GmbH
+3234506c47|Leiter/-in Departement Pflege & MTTD und Mitglied der Geschäftsleitung (100%)|Nordschweiz|Aposto Personal GmbH
+32344f4d78|Co-Bereichsleiter/-in Interventionelle Radiologie MTRA 80-100% (m/w/d)|Nordschweiz|Aposto Personal GmbH
+323337646f|Abteilungsleiter (m/w/d) (100%)|St.Gallen/ Appenzell|ibt Personal AG
+3231555246|Bauingenieur*in Abteilungsleiter*in Strassen- und Tiefbau|Deutschschweiz|TEAMGOLD AG
+31756f436b|Abteilungsleiter CAD (m/w/d)|Region Basel|ZÜRCHER Consulting
+3175505a4e|Leiter/in Bereich Bahnbau (w/m)|Schweiz|Rechsteiner Partners AG
+3170786a68|BereichsleiterIn Buchhaltung 100%|Fricktal|punkt personal AG
+316f49494b|Regionenleiter Ostschweiz|Zürich - Ostschweiz|LAGE A AG
+3169567938|GeschäftsbereichsleiterIn|Bern|vaccari blaser & partner GmbH
+31694b7543|Bereichsleiter*In Wirtschaftsprüfung|Zürich|IVP Ivan Vaccari Personalberatung
+3167526b7a|Abteilungsleiterin / Abteilungsleiter Medizinische Diagnostik 80-100%|Innerschwyz|Aposto Personal GmbH
+3164585a61|LeiterIn Bereich Wirtschaftsberatung Espace Mittelland|Mittelland|IVP Ivan Vaccari Personalberatung
+3161716a49|Abteilungsleiter*in Bauleitung Infrastrukturbau: ein echter WOW-Job|Deutschschweiz|TEAMGOLD AG
+315a704b30|Elektro-Bereichsleiter/in|Region Aargau|ZÜRCHER Consulting
+315a464d6d|Abteilungsleiter/in Garten- und Sportplatzbau 80-100%|Region Aarau|ZÜRCHER Consulting
+31596d775a|Abteilungsleiter Installation/Service (m/w/d)|Region Zürich|ZÜRCHER Consulting
+3159355954|BereichsleiterIn Treuhand|Zug|IVP Ivan Vaccari Personalberatung
+31586f6a63|Leitung Pflegedienst (PDL), Mitglied der Geschäftsleitung 90 - 100%|Nordschweiz|Aposto Personal GmbH
+31586e4459|Bereichsleitung Pflege 80-100% (Mitglied der GL)|Innerschwyz|Aposto Personal GmbH
+31586e4357|Leiter/in Pflege und Betreuung (80% - 100%) Mitglied der Geschäftsleitung|Region Zürich|Aposto Personal GmbH
+31586e4454|Abteilungsleitung geschützte Abteilung Demenz 80-90%|Nordschweiz|Aposto Personal GmbH
+31586e4450|Bereichsleiter / Bereichsleiterin Pflege / Mitglied der Spitalleitung 100%|Ostschweiz|Aposto Personal GmbH
+31586c3274|Bereichsleitung Pflege & Betreuung 80-100%|Kanton St. Gallen|Aposto Personal GmbH
+3158695a65|Leiter/in Pflege - Mitglied der Geschäftsleitung|Innerschwyz|Aposto Personal GmbH
+3158574138|Leiter/in Bereich Bahnbau (w/m)|Schweiz|Rechsteiner Partners AG
+3158547731|Abteilungsleiter/in Maintenance Engineering 100%|Kanton Zürich|Aposto Personal GmbH
+315842754f|Chefarzt / Chefärztin Medizin Mitglied der Geschäftsleitung|Innerschwyz|Aposto Personal GmbH
+#gl2|W|page=5|headline=436 Jobs in der Websuche gefunden|count=36|next=NONE
+3158324956|Leiterin/Leiter Bereich Pflege und Mitglied der Geschäftsleitung 80-100%|Zentralschweiz|Aposto Personal GmbH
+3157775164|Abteilungsleitung Palliativstation Kompetenzzentrum Palliativ Care Mittelland 80%-100%|Region Basel|Aposto Personal GmbH
+3157775169|Stv. Abteilungsleiter/-in interdisziplinäre Notfallstation 80% - 100%|Region Zürich|Aposto Personal GmbH
+3155575035|Bereichsleiter Leistungen AHV/IV|St. Gallen|LAGE A AG
+31554b5167|Bereichsleiter/in Tiefbau bis Tunnelbau|Schweiz|Rechsteiner Partners AG
+31526b3531|Co-Departementsleiter/in und Chefarzt/in Innere Medizin 90-100%|Region Zürichsee|Aposto Personal GmbH
+315266366a|Bereichsleiter/in Pflege 100% (Bettenabteilungen)|Zürichsee|Aposto Personal GmbH
+3152614578|Bereichsleiter / Bereichsleiterin Rehabilitation 80-100%|Region Zürichsee|Aposto Personal GmbH
+315259436f|Abteilungsleiterin / Abteilungsleiter Rehabilitation 80-100%|Zentralschweiz|Aposto Personal GmbH
+3152436b31|GESCHÄFTSBEREICHSLEITER SIEDLUNGSENTWÄSSERUNG (m/w)|Region Aarau|ZÜRCHER Consulting
+3152384631|Leitung Pflege sowie MG der GL 80-100%|Nordschweiz|Aposto Personal GmbH
+3151796742|Abteilungsleiterin/Abteilungsleiter Rehabilitation 80-100%|Innerschwyz|Aposto Personal GmbH
+3151754c51|Stv. Abteilungsleiterin / Abteilungsleiter Anästhesiepflege (a) 80-100%|Zürich|Aposto Personal GmbH
+3150524d67|Abteilungsleiter:in Sanitär|Region Bern|ZÜRCHER Consulting
+314b7a4e64|Leiter Region Winterthur|Winterthur ZH|LAGE A AG
+314b756365|REGIONENLEITER / MITGLIED DER DIREKTION|Zürich-City|LAGE A AG
+314b6a7474|Bereichsleiter Tiefbau (m/w)|Region Zürich|ZÜRCHER Consulting
+314b357133|Abteilungsleiter Bahnbau (w/m/d)|Region Aarau|ZÜRCHER Consulting
+314a70514c|Abteilungsleiterin konstruktiver Ingenieurbau / Hochbau (m/w/d)|Region Aarau|ZÜRCHER Consulting
+31485a6f37|Abteilungsleiter/-in im Bereich Siedlungsentwässerung|Region Zürich|ZÜRCHER Consulting
+314770774d|Fachbereichsleiter Produktion / Galvanik (m/w)|Wängi|ComPers GmbH
+3147677768|GESCHÄFTSBEREICHSLEITER/in Abwasser|Region Basel|ZÜRCHER Consulting
+314678614d|Senior Projektleiter, Mitglied der Geschäftsleitung Gebäudetechnik|Schweiz|Rechsteiner Partners AG
+3146573568|Bereichsleiter/in Tief- und Strassenbau|Region Zürich|ZÜRCHER Consulting
+31436d6f58|Abteilungsleiter/in Immobilienbewirtschaftung beim Eigentümer|Basel, Zürich|Sicuranza Personalberatung GmbH
+3135516e50|Client Unit Director / Mitglied...|Schweiz|Homberger AG
+4b653139|BereichsleiterIn Treuhand|Zürich|IVP Ivan Vaccari Personalberatung
+32486953|AbteilungsleitungLangzeitbereich|Deutschschweiz|Bossart Personal
+32486955|BereichsleitungSpitex|Deutschschweiz|Bossart Personal
+32486952|AbteilungsleitungAKut, Rehabilitation, Psychiyatrie|Deutschschweiz|Bossart Personal
+#gl3|D|page=1|headline=537 Jobs gefunden|count=107|next=2
+32546e4a4a|Elektroprojektleiter/in mit Perspektive Geschäftsführung (80-100 %)|Zürich|cdg Beratungen AG
+3256757152|Sachbearbeiter/in Administration mit Unterstützung der Geschäftsführung 50-100%|CH-9404 Rorschacherberg|Haus zum Seeblick
+3256714e4a|Area Manager Ticino B2B (80-100%)|CH-6038 Honau|Neupack Produkte AG
+32566d4b30|Gebietsleiter/-in Verbrauchsgüter 100%|CH-8105 Regensdorf|ESA-Einkaufsorganisation des Schweizerischen Auto- und Motorfahrzeuggewerbes Genossenschaft
+3256696a34|Rayonleiter:in Garden inkl. Stellvertretung der Geschäftsführung 80-100%|Mels|JUMBO, Division der Coop Genossenschaft
+3256696a4f|Verkaufsberater:in inkl. Stellvertretung der Geschäftsführung 80-100%|Bern Marktgasse|Coop Genossenschaft
+3256696a4b|Verkaufsberater:in inkl. Stellvertretung der Geschäftsführung 80-100%|Zürich Letzipark|Coop Genossenschaft
+3256746a6d|FM Gebietsverantwortliche/r - 100% - m/w/d|8050 Zürich|Impirio AG
+3256626a5a|Gebietsleiter-/in Verbrauchsgüter 100% (w/m)|Regensdorf|ESA-Einkaufsorganisation des Schweizerischen Auto- und Motorfahrzeuggewerbes Genossenschaft
+3256643875|Gebietsverantwortliche:r Kundendienst 100%|CH-4153 Reinach BL|Hatebur Umformmaschinen AG
+325663336f|Director, Market Access Catalyse Cluster: Austria & Switzerland|CH-4051 Basel|BeOne Medicines AG
+325663646c|Field Manager Régional|Suisse Alémanique|Chanel SARL
+#gl3|D|page=2|headline=537 Jobs gefunden|count=104|next=3
+325661636a|Gebietsverantwortliche:r Kundendienst|4153 Reinach BL|Hatebur Umformmaschinen AG
+3256594243|Hammam Bern Assistenz der Geschäftsführung / 100%|CH-3322 Urtenen-Schönbühl|Aqua-Spa-Resorts AG
+325657594d|Direktor*in Finanzverwaltung, 80-100 %|CH-8048 Zürich|Stadt Zürich
+325651506e|Teamleitung Betreuung / Stellvertretende Geschäftsführung|Elgg|Betreutes Wohnen Elgg AG
+3256527039|Director Market Access|Lucerne|MSD Merck Sharp & Dohme AG
+32564d5248|Regional Manager Global Travel Retail & Middle East Africa (GTR & MEA) (m/f/d) 100%|CH-6343 Rotkreuz|Plasencia International AG
+32564b6868|Territory Manager 100% Ostschweiz/ Westösterreich|8600 Dübendorf|Trek Bicycle
+32564b4a44|Regionalleitung Sales (m/w/a) - Verkauf von Onlinemarketing-Lösungen (100%)|Fehraltorf|localsearch (Swisscom Directories AG)
+3256494976|Regional Director of Revenue 100% (m/w/d)|CH-8032 Zürich|Tschuggen Collection AG
+32564c5755|Regional Sales Manager Bern / Mittelland|6340 Baar|Mövenpick Wein Schweiz AG
+3256687536|Area Sales Manager Chirurgie|8000 Zürich|Stettler Consulting AG
+3256457153|Verkaufsberater:in Do-it inklusive Stellvertretung der Geschäftsführung 80-100%|Winterthur Grüzemarkt|JUMBO, Division der Coop Genossenschaft
+3256464d79|Territory Manager 100% (m/w/d)|Remote, Switzerland|Trek Bicycle
+325646516b|Assistenz der Geschäftsführung 100%|3005 Bern|Aqua-Spa-Resorts AG
+325632754c|Stv. Regionalleiter:in Rheintal|CH-9424 Rheineck|spirix care AG
+3256306464|Regionalleiter Zentralschweiz-Süd 100% (m,w,d)|Muri b. Bern|DESA AUTOGLASS AG
+3255777759|Regionalleiter Zentralschweiz-Süd 100%|3074 Muri b. Bern|DESA AUTOGLASS AG
+#gl3|D|page=3|headline=537 Jobs gefunden|count=104|next=4
+325577664f|Sales Area Manager|8123 Ebmatingen|Tovenca AG
+3255746277|Assistenz Führungsunterstützung Regionalleiter 100%|CH-4310 Rheinfelden|Aargauische Kantonalbank
+3255744351|Regionalleiter:in VZ Zürich 80-100%|CH-8050 Zürich|Zumtobel Licht AG
+325572646f|Assistenz Führungsunterstützung Regionalleiter (a)|4310 Rheinfelden|Aargauische Kantonalbank
+3255735532|Verkaufsberater:in inkl. Stellvertretung der Geschäftsführung 70-90%|Bern Westside|Coop Genossenschaft
+3255734557|Area Manager (m/w/d) - Region Ostschweiz (m/w/d)|9536 Schwarzenbach|ALDI SUISSE AG
+3255734559|Area Manager (m/w/d) - Region Zentralschweiz|6035 Perlen|ALDI SUISSE AG
+32556d5334|Regionalleiter:in VZ Zürich (m/w/d)|Zürich, CH|Zumtobel Licht AG
+3255543365|Kfm. Assistenz der Geschäftsführung (m/w/d) Voll- oder Teilzeit|CH-8620 Wetzikon ZH 1|Umbrella Organisation U+O AG
+3255473939|Assistenz der Geschäftsführung (100%)|CH-5405 Dättwil AG|Aargauischer Ärzteverband
+325543486b|Area Manager Primary Care (h/f/d) 80%-100% - Région Valais - Français/Allemand|Goldach|Labor Team W AG
+3255365777|Hörsystemakustiker*in & Area Manager Berner Oberland 100% (m/w/d)|Bern|Audika AG
+3255305376|Country Manager für die Marke Haglöfs m/w/d (80-100%)|Zürich|ACE alpine & climbing equipment AG
+32547a4d7a|Direktor*in Finanzverwaltung, 80 - 100 %|CH-8004 Zürich|Stadt Zürich
+32536c6538|Territory Manager Surgical Devices & Surgical Endoscopy|CH-8304 Wallisellen|Olympus Schweiz AG
+32536c6f65|Senior Relationship Manager Private Banking - Direktor (m/w) in St. Gallen|St. Gallen|PENSADOR Partner AG
+32536c6f68|Senior Relationship Manager Private Banking - Direktor (m/w) in Zürich|Zürich|PENSADOR Partner AG
+#gl3|D|page=4|headline=537 Jobs gefunden|count=83|next=NONE
+32534c7348|Country Manager Structural Heart Switzerland|Baar|Abbott AG
+325263656d|Junior Housekeeping Service Manager|CH-4553 Subingen|Stampfli AG
+3252394979|Gebietsleiter Verkauf Nordwest- und Westschweiz (m/w/d)|CH-9642 Ebnat-Kappel|PEKA Pinselfabrik AG
+3252306d37|Junior Housekeeping Service Manager|CH-4553 Subingen|Stampfli AG
+325175614a|Regionalleiter Nordwestschweiz 100% (m/w/d)|Basel-Stadt / BS|ASSEPRO AG
+3254634566|Co-Geschäftsführung immobilienbewirtschaftung 80 - 100%|Luzern|Kohlberg & Partner GmbH
+32514a3463|Gebietsleiter/in Aussendienst Nordwestschweiz (60-80%)|CH-8038 Zürich|kingnature AG
+324f4b4966|Gebietsleiter / Kundenbetreuer /in|CH-8004 Zürich|mr. clean facility solutions ag
+324c6b586e|Assistent der Geschäftsführung (m/w)|CH-4001 Basel|Finanz Team Schweiz AG
+3245413855|Gebietsverantwortliche(r) Aussendienst-Verkäufer(in) für Edelstahllangprodukte|CH-3282 Bargen BE|Valbruna AG
+3244374635|Medizinischer Direktor (m/w/d)|CH-6026 Rain|Maharishi Ayurveda Products, Dr. med. Oliver Werner
+3158533159|Pädagoge als Kita Regionalleiter / Qualitätsmanager (m/w), Pensum von 80% bis 100%|CH-8002 Zürich|globegarden gmbh
+3157616c5a|Gebietsleitung, Pensum von 60% bis 100%|CH-8002 Zürich|globegarden gmbh
+3151516d59|Pädagogische Regionalleitung|CH-8002 Zürich|the kcc group ag
+#gl3|W|page=1|headline=158 Jobs in der Websuche gefunden|count=100|next=2
+3256766f67|FM Gebietsverantwortliche/r - 100% - m/w/d|CH-8050 Zürich|Impirio AG
+3256714642|Hörsystemakustiker*in & Area Manager Berner Oberland 100% (m/w/d)|Interlaken|salessolution.ch GmbH
+3256723950|Regionalleiter Vertrieb100% mit technischer Ausrichtung|Solothurn|yellowshark AG
+32566f6274|Country Manager Switzerland - Premium Lifestyle & Accessories|Bern|Luxury Experts Sàrl
+3256507675|Assistenz der Geschäftsführung 100%|Thurgau|PMS SCHÖNENBERGER AG
+32564d7a65|Regionalleiter Händlerbetreuung NFZ 100% (m/w)|8050 Zürich|Adecco
+325648394c|Regionalleitung Gastronomie|Deutschschweiz|PermServ AG
+3256303136|Regionalleiter/in Sicherheitsdienst Region West 100%|Ittigen / Basel|Universal-Job AG
+32556a6e35|Leitung Marketing & Kommunikation / Assistenz Geschäftsführung 100%|CH-3400 Burgdorf|OK Job SA
+32556a6e30|Leitung Marketing & Kommunikation / Assistenz Geschäftsführung 100%|CH-3400 Burgdorf|OK Job SA
+3255653537|Chief Executive Officer - Financial Services|Zürich|kessler.vogler gmbh human capital management
+325545494e|Assistenz der Geschäftsführung 100%|Sulgen|PMS SCHÖNENBERGER AG
+3254794865|Direktor*in Finanzverwaltung, 80 - 100 %|8004 Zürich|Jörg Lienert AG
+32546e5262|Territory Manager - MedTech|Zurich|Approach People Recruitment SA
+32546b7676|Responsable régional(e) pour la Suisse romande (w/m/d) 100 %|Opfikon|Gehrig Group AG
+32545a494b|Co-Geschäftsführung Immobilienbewirtschaftung 80 - 100% (m/w/d)|Zentralschweiz|Kohlberg & Partner GmbH
+#gl3|W|page=2|headline=158 Jobs in der Websuche gefunden|count=58|next=NONE
+3253656a4f|Area Business Manager Ostschweiz|Sankt Gallen|cross-ING AG
+32526d716d|Marktgebietsleiter:in Immobilienvermarktung 100%|Schaffhausen|Peak Personal GmbH
+32526d716f|Marktgebietsleiter:in Immobilienvermarktung 100%|Wil|Peak Personal GmbH
+3247797368|Area Business Manager Mittelland (Sursee und Umkreis 40 km)|Sursee|cross-ING AG
+3247797369|Area Business Manager Basel|Basel|cross-ING AG
+3241455553|Regional Manager Eastern Europe and Central Asia (m/f) 100% (Kanton Luzern)|Kanton Luzern|Mevelin AG
+32394f5559|Bauführer/-in Strassenbau mit Option stv. Geschäftsführung|Raum Zürich|sk consulting Unternehmensberatung im Personalmanagement
+32306a6e61|Assekuranz-Profi / Versicherungs-Spezialist als AGENTUR-LEITER / GEBIETSVERANTWORTLICHER (w/m)|Aarau (Region)|Mooser & Partner AG Personalberatung
+31646f666a|Regionalleiter Banking & Finance (a)|Mittelland|LAGE A AG
+#prod2|D|page=1|headline=850 Jobs gefunden|count=100|next=2
+3254775477|Standortleiter Luzern (m/w)|Luzern|Interbohr AG
+3252585248|Elektroprojektleiter mit Potenzial zum stellvertretenden Standortleiter (w/m, 80-100%)|Region Bern / Solothurn|Roger Germ AG
+325674726e|Site Manager - GIS Substations 80-100%|Schweiz|INP Schweiz AG
+325639306f|Filialleiter*in GO-UP Bergsport 80-100%|Sursee|Kunz Sport AG
+3256304759|Stv. Filialleiter / Stv. Filialleiterin (m/w/d) 80-100%|6020 Emmenbrücke|Lidl Schweiz AG
+3256424365|Leitung Geschäftsstelle 40%|Herrliberg|Schulpsychologischer Beratungsdienst im Bezirk Meilen
+3255464942|Stv. Filialleiter*in 80 - 100%|9443 Widnau|Denner AG
+3250747643|Filialleiter / Filialleiterin Kt.Schwyz - March / Oberer Zürichsee (m/w/d) 80-100%|8840 Einsiedeln|Lidl Schweiz AG
+3253776a57|Stv. Filialleiter*in 80 - 100%|8620 Wetzikon|Denner AG
+325630475a|Stv. Filialleiter / Stv. Filialleiterin (m/w/d) 80-100%|6035 Perlen|Lidl Schweiz AG
+3255374e61|Stv. Filialleiter / Stv. Filialleiterin (m/w/d) 80-100%|6403 Küssnacht a. R.|Lidl Schweiz AG
+32564a734f|Deputy Branch Manager (m/w/d)|5000 Aarau|Adecco
+3256766e70|Filialleiter 100% (m/w/d)|Egerkingen|Universal-Job AG
+32556b374b|Stv. Filialleiter / Stv. Filialleiterin (m/w/d) 80-100%|6454 Flüelen|Lidl Schweiz AG
+32556b3750|Stv. Filialleiter / Stv. Filialleiterin (m/w/d) 80-100%|6423 Seewen|Lidl Schweiz AG
+3256785032|Standortleiter Luzern (m/w) 100%|CH-6003 Luzern|Anliker AG Bauunternehmung
+325678525a|Filialleiter/in Verkauf-Café 100%|CH-4562 Biberist|Flury AG
+32566f4e59|Filialleiter / Filialleiterin Region Thurgau (m/w/d) 80-100%|8570 Weinfelden|Lidl Schweiz AG
+32566f4e54|Filialleiter / Filialleiterin Raum St. Gallen (m/w/d) 80-100%|9000 St. Gallen|Lidl Schweiz AG
+3256755267|Stv. Filialleiter*in 80 - 100%|8570 Weinfelden|Denner AG
+3255543057|Stv. Filialleiter / Stv. Filialleiterin (m/w/d) 80-100%|6330 Cham|Lidl Schweiz AG
+32566e4f42|Stv. Filialleiter*in (100%) Raum Zürich|Zürich|Confiserie Sprüngli AG
+32566b4d4e|Filialleiter / Filialleiterin Berner Oberland (m/w/d) 80-100%|3700 Spiez|Lidl Schweiz AG
+3255365a66|Stv. Filialleiter / Stv. Filialleiterin (m/w/d) 80-100%|6340 Baar|Lidl Schweiz AG
+3254345978|Stv. Filialleiter / Stv. Filialleiterin (m/w/d) 80-100%|6300 Zug|Lidl Schweiz AG
+32526c716b|Filialleiter / Filialleiterin (m/w/d) 80-100%|6060 Sarnen|Lidl Schweiz AG
+3250747645|Filialleiter / Filialleiterin (m/w/d) 80-100%|6370 Stans|Lidl Schweiz AG
+32556b374f|Stv. Filialleiter / Stv. Filialleiterin (m/w/d) 80-100%|6440 Brunnen|Lidl Schweiz AG
+3256755259|Stv. Filialleiter*in 80 - 100%|8580 Amriswil|Denner AG
+324f457670|Filialleiter / Filialleiterin (m/w/d) 80-100%|8840 Einsiedeln|Lidl Schweiz AG
+3255737161|Filialleiter*in 80 - 100%|8570 Weinfelden|Denner AG
+3255684b36|Stv. Filialleiter*in 80 - 100%|8610 Uster|Denner AG
+325463426f|Filialleiter*in in Ausbildung 80 - 100%|8400 Winterthur|Denner AG
+3256725673|Filialleiter Supporter Region Mitte 100% (m/w/d)|Kriens, Muttenz, Oberwil, Hunzenschwil und Cham|Universal-Job AG
+3256474157|Stv. Filialleiter*in 80 - 100%|8424 Embrach|Denner AG
+3256714553|Stv. Filialleiter / Stv. Filialleiterin (m/w/d) 80-100%|6005 Luzern|Lidl Schweiz AG
+325573715a|Filialleiter*in 80 - 100%|8200 Schaffhausen|Denner AG
+32556c3646|Stv. Filialleiter / Stv. Filialleiterin (m/w/d) 80%|3700 Spiez|Lidl Schweiz AG
+325469444a|Store Manager/in 100%|Wallisellen|VisilabGroup SA
+324f575941|Stv. Filialleiter*in 80 - 100%|8820 Wädenswil|Denner AG
+3254763267|Stv. Filialleiter*in 80 - 100%|8580 Amriswil|Denner AG
+3256474154|Stv. Filialleiter*in 80 - 100%|8400 Winterthur|Denner AG
+3256714554|Stv. Filialleiter / Stv. Filialleiterin (m/w/d) 80-100%|6030 Ebikon|Lidl Schweiz AG
+3256776f36|Filialleitung (m/w/d)|Langenthal|NEW YORKER (Schweiz) GmbH
+3256776448|Standortleiter Luzern 100%|CH-6003 Luzern|Anliker AG Bauunternehmung
+3255645a52|Filialleiter*in 80 - 100%|8600 Dübendorf|Denner AG
+3255645a51|Stv. Filialleiter*in 80 - 100%|8606 Greifensee|Denner AG
+3256767341|Filialleiterin / Filialleiter (w/m/d) 100%|CH-4803 Vordemwald|Volg Detailhandels AG
+3256763034|Techniker mit Ambitionen zum Stv. Filialleiter Cham 100%|CH-6330 Cham|DESA AUTOGLASS AG
+325676714f|Fachleiter*in Supermarkt 100%|CH-3150 Schwarzenburg|Genossenschaft Migros Aare
+325672797a|Design ist kein Beruf - Design ist Leidenschaft...»|Zürich|wohnbedarf wb ag
+325672794e|Filialleiter (m/w/d) 100% im Fachgeschäft Emmen Center|6020 Emmenbrücke|Confiseur Bachmann AG
+3256756d78|Stv. Filialleiter*in|8580 Amriswil|Denner AG
+3256756d32|Techniker mit Ambitionen zum Stv. Filialleiter Gebenstorf|5412 Gebenstorf|DESA AUTOGLASS AG
+3256745261|Filialleiter / Filialleiterin Bieler Seeland (m/w/d) 80-100%|2500 Biel|Lidl Schweiz AG
+3256744d61|Standortleitung Triesen Physio-Ost AG|CH-9477 Trübbach|Thomas Sax Physio-Ost AG, Triesen (LI), Zweigniederlassung Wartau
+325674394f|Stv. Leiter/in Geschäftsstelle Elektro Buttisholz inkl. Berufsbildung (w/m/d)|Buttisholz|CKW AG
+3256743865|Stv. Filialleiter / Stv. Filialleiterin (m/w/d) 80-100%|2558 Aegerten|Lidl Schweiz AG
+325675386f|Filialleiter*in Beck & Kafi, 80-100 %|CH-6330 Cham|Stiftung St. Jakob
+3256737542|Filialleiter:in 100%|CH-3072 Ostermundigen|Interdiscount / microspot.ch, Division der Coop Genossenschaft
+3256746f42|Fachleiter*in Supermarkt|3150 Schwarzenburg|Genossenschaft Migros Aare
+3256747265|Site Manager / Site Coordinator - Data Centers 100%|Schweiz|INP Schweiz AG
+3256746849|Stellvertreter:in Filialleitung|8404 Winterthur|OTTO'S AG
+3256755361|Filialleiter/in (a) 100% in der Filiale Langenthal|Langenthal|JYSK GmbH
+3256754532|Store Manager Niederdorf 100%|CH-8001 Zürich|QR Group Services Sàrl
+3256755269|Stv. Filialleiter*in 80 - 100%|6030 Ebikon|Denner AG
+3256714251|(w/m/d) / 80-100%|Vordemwald|LANDI Sursee, Genossenschaft
+3256725a4c|Filialleiter Stellvertretung / Marktleiter Stellvertretung 100% (m/w/d)|9403 Goldach|SPAR Handels AG
+325672656b|Filialleiterin / Filialleiter|4803 Vordemwald|LANDI Schweiz AG
+325670665a|Niederlassungsleiter*in 80-100%|CH-4313 Möhlin|Aargauische Kantonalbank
+3256724846|Filialleiterin / Filialleiter (w/m/d) 80-100%|4803 Vordemwald|Volg Detailhandels AG
+32566e3857|Filialleiter:in|3072 Ostermundigen|Interdiscount / microspot.ch, Division der Coop Genossenschaft
+32566f5951|Standortleitung|Buchs|Primarschule Buchs ZH
+32566f4e57|Filialleiter / Filialleiterin Raum Zürich (m/w/d) 80-100%|8000 Zürich|Lidl Schweiz AG
+32566e5573|Stellvertretender Filialleiter Zug (m/w/d) 100%|Zug|Mövenpick Wein Schweiz AG
+32566e484f|Filialleiter ad interim Chocolaterie Basel (w/m/d)|Basel|Läderach (Schweiz) AG
+32566e7a52|Stellvertretender Filialleiter Zug|6300 Zug|Mövenpick Wein Schweiz AG
+32566f6149|Filialleiter*in 80 - 100%|9245 Oberbüren|Genossenschaft Migros Ostschweiz
+32566e6e61|Filialleiter/in 100%|CH-9001 St. Gallen|Capital Services Sàrl
+3256704151|Mandatsleiter / Standortleiter Treuhand 100%|CH-3400 Burgdorf|Fiechter Treuhand AG
+32566e4b68|Filialleiterin Fontis-Buchhandlung (80%) in Winterthur|CH-8280 Kreuzlingen|Fontis AG
+32566b3467|Store Manager:in (w/m/d) 100%|Solothurn|Calida AG
+32566b7856|Vendeur/vendeuse interne en pièces détachées automobiles, bilingue FR/ALL, adjoint au chef de filiale 100% Brügg|2555 Brügg|Derendinger AG
+32566c636b|Ladenleitung (w/m/d) -100%|9526 Niederhelfenschwil|Volg Detailhandels AG
+32566c5252|Filialleiter H/F 100%|CH-8305 Dietlikon|MAXI BAZAR SA
+32566d3335|Store Manager:in|4500 Solothurn|Calida AG
+32566b3338|Stellvertretende Filialleitung (m/w/d) 100% - Wallisellen|8304 Wallisellen|ROSSMANN Schweiz AG
+32566b6874|Standortleiter/-in für die Kollektivunterkunft Beatenberg 60-80% (vorerst befristet auf ein Jahr mit Option auf Verlängerung)|CH-3803 Beatenberg|Asyl Berner Oberland
+#prod2|D|page=2|headline=853 Jobs gefunden|count=104|next=3
+32566c6e34|Filialleiter Stellvertretung / Marktleiter Stellvertretung 100% (m/w/d)|9204 Andwil|SPAR Handels AG
+32566c6d51|Filialleiter:in 100 %|Winterthur|Spiess + Kühne AG
+32566b3337|Filialleitung (m/w/d) 100% - Basel - Neueröffnung|Schweiz|ROSSMANN Schweiz AG
+3256687364|Stv. Filialleiter*in|6438 Ibach|Denner AG
+3256686c33|Stellvertretende Filialleiterin (w/m/d)|9001 St.Gallen|Müller Handels AG Schweiz
+325669436d|über Bischoff|CH-9500 Wil SG|Bischoff AG für Schule und Büro
+3256685037|H&M Store Manager Trainee (m/w/d) - Region Zug-Aargau (100% / 38.5 Wochenstunden)|Zug|H & M Hennes & Mauritz AG
+3256693265|PROJECT MANAGER ON SITE|2540 Grenchen|ETA SA Manufacture Horlogère Suisse
+3256686c35|Stellvertretende Filialleiterin (w/m/d)|9015 St. Gallen|Müller Handels AG Schweiz
+3256676a38|Stellvertretender Filialleiter (m/w/d)|Wallisellen Glattzentrum|Rituals Cosmetics Switzerland AG
+325666796d|Ladenleiterin, Ladenleiter 100%|CH-3706 Leissigen|Volg Detailhandels AG
+3256666135|Standortleiter mit übergeordneter Führungsverantwortung 80-100 % (m/w/d) Chez Grisoni Thalwil|Thalwil|Chez Grisoni, Zweigniederlassung der Scherer & Bühler AG
+3256666539|Ladenleiterin, Ladenleiter|Leissigen|Volg Detailhandels AG
+3256664d6c|Stellvertretende Filialleitung (a) 80-100% in der Filiale Heimberg|Heimberg|JYSK GmbH
+3256667853|Filialleiter:in 100%|CH-8630 Rüti ZH|Dosenbach-Ochsner AG
+3256653567|Ladenleiterin, Ladenleiter|3706 Leissigen|Volg Detailhandels AG
+3256646841|Standortleiter mit übergeordneter Führungsverantwortung 80-100 % Chez Grisoni Thalwil|CH-8800 Thalwil|Chez Grisoni, Zweigniederlassung der Scherer & Bühler AG
+3256636241|Stv. Filialleiter:in (w/m/d), 80% - 100%|Gattikon|Fressnapf Schweiz AG
+325662536f|Standortleiter:in OP Walenstadt 80-100%|8880 Walenstadt|Kantonsspital Graubünden
+3256654549|Standortleiter mit übergeordneter Führungsverantwortung 80-100 % (m/w/d) Chez Grisoni Thalwil|CH-6045 Meggen|Scherer & Bühler AG
+325663774b|Standortleitung Ilgenmoos 100%|CH-8307 Ottikon b. Kemptthal|Stiftung Ilgenhalde
+3256647134|Stellvertredende Ladenleiterin/ Stellvertretender Ladenleiter Volg w/m/d 60-100%|CH-8460 Marthalen|LANDI Weinland, Genossenschaft
+3256647133|Stellvertredende Ladenleiterin/ Stellvertretender Ladenleiter Volg w/m/d 100%|CH-8460 Marthalen|LANDI Weinland, Genossenschaft
+3256635862|Stellvertredende Ladenleiterin/ Stellvertretender Ladenleiter Volg w/m/d|Marthalen|LANDI Weinland, Genossenschaft
+325665585a|Filialleiter*in 80 - 100%|4057 Basel|Denner AG
+3256655862|Stv. Filialleiter*in 60 - 80%|4057 Basel|Denner AG
+3256654d57|Filialleitung Urnertor Altdorf|Altdorf|Tschümperlin & Co AG
+325664377a|Stellvertretende/r Filialleiter/in m/f/d - 100% Action Niederlenz|CH-5702 Niederlenz|Action Switzerland GmbH
+3256637670|Head of Creative Store Design 100%|CH-8005 Zürich|On AG
+325663634e|Stellvertretende:r Filialleiter:in 100%|8280 Kreuzlingen|Dosenbach-Ochsner AG
+3256645549|Standortleitung Asylunterkunft 100 %|CH-5034 Suhr|convalere ag
+3256644368|Storemanager 80-100%|CH-4051 Basel|Final Escape Basel GmbH
+3256655863|Stv. Filialleiter*in 60 - 80%|4051 Basel|Denner AG
+3256636d65|Stellvertretende Filialleitung 80-100% in der Region Zürich|Volketswil|JYSK GmbH
+325661384b|Filialleiter/-in / Marktleiter/-in 100% (m/w/d)|8280 Kreuzlingen|SPAR Handels AG
+3256616b4d|Stv. Filialleitung / Buchhändler*in 80-100%|Zürich Thalia AG|Orell Füssli Thalia AG
+3256615a70|Standortverantwortliche:r|8953 Dietikon|Gönnerverein Schweizer Tafel
+32565a7548|Filialleiter Stellvertretung / Marktleiter Stellvertretung 80 - 100% (m/w/d)|8600 Dübendorf|SPAR Handels AG
+3256596e4c|Standortleiter - Jetzt bewerben|Eggersriet|Martin Alther Forst- und Landmaschinen AG
+325661526b|Filialleitung 80-100% (a)|Zürich Thalia AG|Orell Füssli Thalia AG
+3256616f35|Stellvertredende Ladenleiterin/ Stellvertretender Ladenleiter Volg w/m/d 60-100%|8460 Marthalen|LANDI Weinland, Genossenschaft
+3256616170|Stellvertretende/r Filialleiter/in m/f/d - 100% Action Niederlenz|5702 Niederlenz|Action Switzerland GmbH
+3256623338|Storemanager|4051 Basel|Final Escape Basel GmbH
+3256594744|Filialleiter/in Confiserie Brändli 100%|CH-4052 Basel|Confiserie Brändli AG
+3256596942|LadenleiterIn Volg Ossingen w/m/d 100%|CH-8475 Ossingen|LANDI Weinland, Genossenschaft
+3256596933|Stellvertretende/r LadenleiterIn Rheinau 60-100% ( w/m/d)|CH-8462 Rheinau|LANDI Weinland, Genossenschaft
+3256614e36|Stellvertretende*r Ladenleiter*in 80-100%|Kirchberg|LAVEBA LANDI AG
+3256614148|Software Department Manager (all genders) - On-Site|2606 Corgémont (Bern)|Swiss Timing LTD
+3256573553|Vendeur/vendeuse interne en pièces détachées automobiles, bilingue FR/ALL, adjoint au chef de filiale 100%|CH-3004 Bern|Derendinger AG
+3256586c6d|Standortleiterin oder Standortleiter (60-80 %)|4552 Derendingen (SO)|Zweckverband Schulkreis Wasseramt Ost
+3256567631|Standortleiter LKW Werkstatt & Kundendienst 100% (m/w/d)|CH-4614 Hägendorf|F. Murpf AG, Transporte und Logistik
+3256567544|Filialleiter Supporter Region Nord / Aargau (m/w/d) 100%|CH-5502 Hunzenschwil|DESA AUTOGLASS AG
+3256586f32|Ladenleiter-Stellvertreterin/Ladenleiter-Stellvertreter Volg Stein am Rhein SH (m/w/d) 80-100%|8260 Stein am Rhein|Volg Detailhandels AG
+3256576934|Stv. Filialleiter*in|8135 Langnau am Albis|Denner AG
+325658584a|Team Lead 100% - Affoltern am Albis|8910 Affoltern am Albis|Retail Operating Company Schweiz GmbH
+3256584a65|Filialleitung 80-100% (a) - Papeterie Schoch|Winterthur Thalia AG|Orell Füssli Thalia AG
+3256576a41|Privatkundenberater mit Entwicklungspotenzial zum Stellvertreter Geschäftsstellenleitung Hombrechtikon|8634 Hombrechtikon|Raiffeisen Schweiz Genossenschaft
+3256593137|Standortleiterin oder Standortleiter, Schulleiter|4552 Derendingen|Zweckverband Schulkreis Wasseramt Ost
+325658726d|Stellvertretende Filialleitung 80-100% - Metro Boutique Thun|Thun|Metro Boutiques AG
+3256583634|Stellvertretende*r Filialleiter*in80% - 100%|4600 Olten|Hug Retail AG
+325656787a|Filialleiter*in 100%|CH-9430 St. Margrethen SG|Dörig & Brandl AG
+3256563166|Filialleiter*in 100%, TopShop Dürnten -100%|Dürnten|LANDI Bachtel, Genossenschaft
+3256586f34|Stellvertretende/r LadenleiterIn Rheinau 60-100% ( w/m/d) 60-100%|8462 Rheinau|LANDI Weinland, Genossenschaft
+3256585278|Standortleitung Asylunterkunft 100 %|5034 Suhr|convalere ag
+3256585075|FILIALLEITER/IN CONFISERIE BRÄNDLI Basel / 100 %|4052 Basel|Confiserie Brändli AG
+3256574563|LadenleiterIn Volg Ossingen w/m/d 80-100%|CH-8475 Ossingen|LANDI Weinland, Genossenschaft
+3256587874|Filialleiter:in 100%|8630 Rüti|Dosenbach-Ochsner AG
+3256583978|FILIALLEITER CONFISERIE BRÄNDLI Basel / 100 %|4052 Basel|Confiserie Brändli AG
+32566f7552|Sympathische & modebewusste Verkaufspersönlichkeit / Filialleitung 80-100%|Zürich Goldküste|beeyond Personalberatung GmbH
+3256546c63|Ladenleitung Volg Bergdietikon w/m/d -100%|8962 Bergdietikon|Volg Detailhandels AG
+3256545a39|Kanalreiniger als Standortleiter / Teamleader Kanalunterhalt Region Basel (m/w/d) 100 %|CH-6032 Emmen|Kanalhelden AG
+3256545a38|Kanalreiniger als Standortleiter / Teamleader Kanalunterhalt Region Aargau (m/w/d) 100 %|CH-6032 Emmen|Kanalhelden AG
+3256555577|Senior Bewirtschafter Gewerbeimmobilien / Stv. Standortleitung (m/w/d), Olten, 80-100%|Olten|Wincasa AG
+325655556c|Filialleiter Supporter Region Zentralschweiz (m/w/d)|Kriens|DESA AUTOGLASS AG
+3256554f64|Vendeur/vendeuse interne en pièces détachées automobiles, bilingue FR/ALL, adjoint(e) au chef de filiale (h/f/d)|Bern|Derendinger AG
+3256546c59|LadenleiterIn Volg Ossingen 60-80% (w/m/d) 60-100%|8475 Ossingen|LANDI Weinland, Genossenschaft
+3256555633|Standortleiter LKW Werkstatt & Kundendienst 100% (m/w/d)|Hägendorf|F. Murpf AG, Transporte und Logistik
+3256555573|Filialleiter Supporter Region Nord / Aargau (m/w/d)|Hunzenschwil|DESA AUTOGLASS AG
+3256557632|Stellvertretende*r Filialleiter*in 80-100%|Zentralschweiz|JobCloud AG
+3256556e4d|Filialleiter/in in Winterthur (m/w) 80%|Winterthur|Läckerli Huus AG
+3256556f61|Stv. Filialleiter*in 80%|9477 Trübbach|Denner AG
+3256556f56|Stv. Filialleiter*in 80 - 100%|2560 Nidau|Denner AG
+3256556f4f|Stv. Filialleiter*in 80 - 100%|8135 Langnau am Albis|Denner AG
+3256525268|Vendeur/vendeuse interne en pièces détachées automobiles, bilingue FR/ALL, adjoint au chef de filiale|Bern|Derendinger AG
+3256534e38|Vendeur/vendeuse interne en pièces détachées automobiles, bilingue FR/ALL, adjoint au chef de filiale 100%|CH-3004 Bern|Derendinger AG
+3256514f7a|Filialleiterin/ Storemanager 100% ( w,m,d)|Baden|Tally Weijl Retail Europe AG
+325653445a|Standortleiter LKW Werkstatt & Kundendienst 100%|CH-4614 Hägendorf|F. Murpf AG, Transporte und Logistik
+#prod2|D|page=3|headline=853 Jobs gefunden|count=104|next=4
+3256523174|Filialleiter Supporter Region Zentralschweiz|6010 Kriens|DESA AUTOGLASS AG
+325652316f|Filialleiter Supporter Region Nord / Aargau|5502 Hunzenschwil|DESA AUTOGLASS AG
+3256514c64|Standortleiter LKW Werkstatt & Kundendienst 100% (m/w/d)|CH-4614 Hägendorf|F. Murpf Handels AG
+3256523143|Standortleiter LKW Werkstatt & Kundendienst 100%|4614 Hägendorf|F. Murpf AG, Transporte und Logistik
+3256534848|Standortleiter:in Küche Hasliberg mit Diätkochausbildung 100%|CH-6083 Hasliberg Hohfluh|Michel Gruppe AG
+3256534d39|FILIALLEITER:IN / STORE MANAGER 100%|CH-9000 St. Gallen|Veloplus AG
+3256534d41|FILIALLEITER:IN / STORE MANAGER 100%|CH-3072 Ostermundigen|Veloplus AG
+3256524246|Store Manager:in LOLIPOP 80 - 100% Bern SBB|Bern|SF Retail AG
+3256523531|FILIALLEITER:IN / STORE MANAGER|3072 Ostermundigen|Veloplus AG
+3256523536|FILIALLEITER:IN / STORE MANAGER|9000 St. Gallen|Veloplus AG
+325652727a|Store Manager:in LOLIPOP 80 - 100% Bern SBB|Bern|sweetsnacks ag
+3256525439|Filialleiter/in (a) mit Potenzial 100% in der Filiale Emmenbrücke|Emmen|JYSK GmbH
+3256523041|Filialleiter*in/Gastgeber*in Raum Luzern|6004 Region Zentralschweiz|Hug Retail AG
+32564e6730|stv. standort-leiter*in 1 luzern bundesstrasse Pensum 80% / Luzern|luzernund Luzern|bakerybakery AG
+32564e7150|Standortleiter/in Walkringen 100%|CH-3512 Walkringen|Deligno AG
+32564e7765|Team- und Projektleiter:in mit Potenzial Stv. Niederlassungsleiter:in 80-100% - Rapperswil|CH-8640 Rapperswil SG|AFRY Schweiz AG
+32564d4453|Standortleiter/in Walkringen 100%|CH-3512 Walkringen|Deligno AG
+32564d4655|Filialleitung Stv. 80-100%|CH-8575 Bürglen TG|Volg Detailhandels AG
+32564a4f30|Local Site Manager Unterwerke Ostermundigen (80-100%)|CH-3072 Ostermundigen|swissgrid ag
+32564a3258|Berater/in Privat- und Geschäftskunden / Stv. Geschäftsstellenleiter/in 80 - 100 %|CH-3400 Burgdorf|Valiant Bank AG
+32564b7679|Stv. Filialleiter*in|Wädenswil|Denner AG
+32564b7745|Stv. Filialleiter*in|Zürich|Denner AG
+3256494841|Ladenleiter LANDI w/m/d 80-100%|CH-3123 Belp|LANDI Aare, Genossenschaft
+3256497762|Stützpunktleiter (w/m/d) für die Region Biberist 100%|CH-4562 Biberist|Krüger & Co. AG
+32564b5848|Team- und Projektleiter:in mit Potenzial Stv. Niederlassungsleiter:in 80-100% - Rapperswil|Rapperswil-Jona|AFRY Schweiz AG
+32564a6b68|Store Manager 80-100%|Zürich Sihlcity|CHRIST Uhren & Schmuck Division der Coop Genossenschaft
+32564a6248|Leitung Geschäftsstelle 100%|CH-8706 Meilen|Schulpsychologischer Beratungsdienst im Bezirk Meilen
+32564a6366|Ladenleiterin, Ladenleiter 80-100%|CH-3706 Leissigen|Volg Detailhandels AG
+32564b3757|Leiter(in) Geschäftsstelle Sulgen, 80 - 100%|Sulgen|Thurgauer Kantonalbank
+32564c6255|Privatkundenberaterin / Privatkundenberater mit Stellvertretung der Filialleitung, 80-100%|CH-6060 Sarnen|Obwaldner Kantonalbank
+32564b6b70|Site Manager Securi360 / 95 %|6002 Luzern|Securiton AG
+32564c5073|Filialleiter*in in Ausbildung 80 - 100%|8134 Adliswil|Denner AG
+32564c5062|Stv. Filialleiter*in 80 - 100%|8820 Wädenswil|Denner AG
+32564c506f|Filialleiter*in in Ausbildung 80 - 100%|8038 Zürich|Denner AG
+32564c506e|Stv. Filialleiter*in 80 - 100%|8134 Adliswil|Denner AG
+32564c4855|Filialleitung Stv. (w/m/d) 80-100% 80-100%|8575 Bürglen|Volg Detailhandels AG
+32564c5434|Filialleitung Stv. 80-100%|8575 Bürglen|LANDI Schweiz AG
+32564c5071|Filialleiter*in in Ausbildung 80 - 100%|8134 Adliswil|Denner AG
+32564c5068|Stv. Filialleiter*in 80 - 100%|8810 Horgen|Denner AG
+32564c7142|Assistant Store Manager / Stv. Filialleitung 80 - 100% - Spreitenbach Tivoli|Switzerland|Tiger Stores (Switzerland) AG
+3256485963|Ladenleiterin, Ladenleiter 80-100%|3706 Leissigen|Volg Detailhandels AG
+325648595a|Ladenleitung (m/w/d) -100%|Meikirch|Volg Detailhandels AG
+325647516f|Vendeur/vendeuse interne en pièces détachées automobiles, bilingue FR/ALL, adjoint(e) au chef de filiale (h/f/d) 100% Brügg|Brügg|Derendinger AG
+325648444c|Stützpunktleiter (w/m/d) für die Region Biberist|Biberist|Krüger & Co. AG
+3256466f6e|Stellvertretende Filialleitung 80-100 %|8003 Zürich|Kleiner Jung AG
+3256466958|Verkaufsstellenleitung Sanitär (w/m/d) 100%|Wil|BR Bauhandel AG
+3256455856|Leiter*in Niederlassung 80 - 100%|Eschenbach|St.Galler Kantonalbank AG
+3256455a46|Filialleiter:in Aspirant|6014 Littau|OTTO'S AG
+325645554b|Teamleitung Pflege / Stellvertretende Standortleitung Regensdorf|CH-8105 Regensdorf|Zweckverband Gesundheitszentrum Dielsdorf
+3256457653|Berater/in Privat- und Geschäftskunden / Stv. Geschäftsstellenleiter/in 80 - 100 %|Burgdorf|Valiant Bank AG
+3256463139|Leitung Geschäftsstelle|Meilen|Schulpsychologischer Beratungsdienst im Bezirk Meilen
+3256457079|Standortleiter*in Walkringen, 100%|CH-3436 Zollbrück|Deligno AG
+325645316b|Filialleiter:in Aspirant -100%|CH-6210 Sursee|OTTO'S AG
+325646556d|Stützpunktleiter für die Region Biberist|4562 Biberist|Krüger & Co. AG
+3256464b52|Ladenleitung (m/w/d) -100%|6442 Gersau|Volg Detailhandels AG
+3256464366|Stellvertretende Filialleiterin (w/m/d)|9015 St. Gallen|Müller Handels AG Schweiz
+3256453569|Eine einmalige Chance: Standortleitung für Mathiblitz Winterthur mit viel Potential|Winterthur|Lern-Blitz GmbH
+3256447468|Filialleiter:in Kuoni Thun (80 - 100% - m/w/d)|Thun, CH|DERTOUR Suisse AG
+3256464b56|Ladenleiter LANDI w/m/d 80-100% 80-100%|3123 Belp|LANDI Aare, Genossenschaft
+325641674c|Stellvertretender Filialleiter (m/w/d) 100% im Fachgeschäft Surseepark|6210 Sursee|Confiseur Bachmann AG
+3256434d37|Teamleitung Pflege / Stellvertretende Standortleitung Regensdorf80 - 100 %|CH-8157 Dielsdorf|Zweckverband Gesundheitszentrum Dielsdorf
+3256433462|Filialleiter*in/Gastgeber*in Raum Luzern80% - 100%|6004 Zentralschweiz|Hug Retail AG
+3256436f61|Leitung Geschäftsstelle 40%|CH-8706 Meilen|Schulpsychologischer Beratungsdienst im Bezirk Meilen
+3256426934|Leiter/in Geschäftsstelle Affoltern am Albis|8910 Affoltern am Albis|Raiffeisen Schweiz Genossenschaft
+325643626e|Filialleiter/Supporter Region Aargau/Zürich 100%|CH-8050 Zürich|DESA AUTOGLASS AG
+325642664c|Filialleiter/Supporter Region Aargau/Zürich|8050 Zürich|DESA AUTOGLASS AG
+3256426535|Leitung Geschäftsstelle|Meilen|Stadt Winterthur
+325642574d|Leitung der Geschäftsstelle (50 - 60 %)|CH-5727 Oberkulm|Gemeindeverband aargauSüd regio
+3256424b36|Store Leader Zentralschweiz|CH-6020 Emmenbrücke|natelo AG
+3256434373|Store Manager / Zürich (m/w/d)|Zürich|Thomas Sabo GmbH
+3256423277|Junior Store Manager (m/w/d) 100%|CH-8004 Zürich|Burgermeister Schweiz AG
+3256426e64|Filialleiter*in in Ausbildung 80 - 100%|4416 Bubendorf|Denner AG
+325639304b|Berater/in Privat- und Geschäftskunden / Stv. Geschäftsstellenleiter/in 80 - 100 %|Burgdorf|Valiant Bank AG
+3256393075|Store Manager 80-100%|Regensdorf|CHRIST Uhren & Schmuck Division der Coop Genossenschaft
+3256387056|STV. Filialleitung Bäckerei-Verkauf, Pfäffikon ZH 100%|8330 Pfäffikon ZH|Remo Wüst Bäckerei + Konditorei AG
+3256396854|Leiter/in Geschäftsstelle Affoltern am Albis 80 - 100%|8910 Affoltern am Albis|Raiffeisen Schweiz Genossenschaft
+3256394b76|Software Department Manager (all genders) - On-Site|CH-2606 Corgémont|Swiss Timing LTD
+3256386833|Filialleiter*in in Ausbildung|6030 Ebikon|Denner AG
+3256386268|Nachwuchs LANDI Geschäftsstellenleiter*in|St. Gallen, Vadianstrasse 29|LAVEBA LANDI AG
+325638626a|Shopleiter*in (Traineeprogramm) 80-100%|St. Gallen, Vadianstrasse 29|LAVEBA LANDI AG
+3256386378|Leiterin/Leiter Geschäftsstelle WMS-Praktika 80 %|3014 Bern|Bildungszentrum für Wirtschaft und Dienstleistung Bern bwd
