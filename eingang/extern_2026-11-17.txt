@@ -1,0 +1,174 @@
+# RUN 2026-11-17 06:45
+# BLOCKED LinkedIn HTTP 429 rate limit persisted after back-off (guest search), not circumvented
+# INCOMPLETE LinkedIn COO page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Chief Operating Officer page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Head of Operations page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Director Operations page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn VP Operations page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Leiter Operations page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Betriebsleiter page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Head of Supply Chain page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Supply Chain Director page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Chief Supply Chain Officer page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Leiter Supply Chain page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Leiter Einkauf page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Head of Procurement page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Chief Procurement Officer page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Leiter Beschaffung page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Leiter Produktion page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Produktionsleiter page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Werkleiter page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Standortleiter page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Plant Manager page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Site Manager page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Geschäftsführer page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Managing Director page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn CEO page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn General Manager page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Country Manager page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Bereichsleiter page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Mitglied der Geschäftsleitung page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Head of Transformation page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Chief Transformation Officer page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Chief Digital Officer page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Head of Digital Transformation page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Head of Operational Excellence page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Head of Business Excellence page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Chief of Staff page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Head of Strategy page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Head of Product Management page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Head of Customer Service page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Head of Logistics page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Program Director page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Head of Production page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Production Manager page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Geschäftsleiter page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Member of the Executive Board page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Head of Division page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Leiter Transformation page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Leiter Digitale Transformation page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Leiter Strategie page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Leiter Produktmanagement page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Leiter Kundendienst page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Leiter Logistik page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# INCOMPLETE LinkedIn Programmleiter page 1+ (start=0) HTTP 429 rate limit / time budget, not circumvented
+# BLOCKED Indeed HTTP 403 Cloudflare bot protection (cf-mitigated: challenge) on ch.indeed.com, not circumvented
+jc|2ce7b3c7-431d-48e7-a004-81057dd3a668|Head of Operations Elemente und Minirail (alle)|SCHNEEBERGER AG Lineartechnik|Roggwil BE
+jc|92eb7da9-eb13-46fa-b47f-fa747698c93a|(Senior) HR and Legal (or IT) Advisor or Operations Director|Pour Demain|Basel
+jc|86458779-c6e9-40d0-acea-8a2c8a76b3fa|Head of Operations (all genders)|Angst+Pfister AG|Embrach
+jc|1425b3b3-18b6-4f6d-939c-5d9767a336d2|LEITER/IN BESCHAFFUNG & PRODUKTION|Xeloba GmbH|Oberwangen b. Bern
+jc|df8b006b-b8cc-45e1-adad-ada84439889d|Betriebsleiter|Estoppey-Reber SA|Aegerten
+jc|de77d48d-b2be-4e5d-8942-b632bb76de44|Betriebsleiterin/Betriebsleiter Technischer Dienst|Kantonale Verwaltung Basel-Landschaft|Niederdorf
+jc|2e8ffb49-9f1e-4ffe-b22f-798976cc5b29|Stv. Betriebsleiter (20%) sowie Dachfenster Monteur (80%)|Dachfenster Keller GmbH|Thalheim an der Thur
+jc|eb51d1d8-f63a-4244-bb08-dc208d526232|Betriebsleiter / Geschäftsführer (m/w/d) für Heggidorn AG – 100%|Heggidorn AG|Frauenkappelen
+jc|a7a208b6-49b3-4a89-8a46-00d8658d340f|Betriebsleitung|movecity ag|Affoltern am Albis
+jc|a34db501-6e02-44ed-afa9-780210d49e99|Betriebsleitung Restaurant (d/w/m) - Hospitality Leadership|Tenz GmbH|Zürich
+jc|58902887-2cf0-4ac3-98e0-ee3b8d90947d|Leiter Logistik / Betriebsleiter (m/w/d)|Planzer|Regensdorf
+jc|9e46f6ee-08bf-40d2-a75d-698bbeffd84d|Betriebsleiter Spritzwerk (m/w/d) / Bern|TOMCO-PERSONAL AG|Bern
+jc|ac6821c5-d827-448f-9bdd-362f276368c7|Apotheker/in im Backoffice / Stv. Betriebsleitung / N'wangen|Dr. Gurtner Gruppe AG|Niederwangen b. Bern
+jc|9b605b86-42e0-4f70-ad70-9c3779681117|Betriebsleiter:in Gastronomie / Unit Manager 100% - Flughafen Zürich (JobID 12552)|Autogrill Schweiz-AG|Zürich
+jc|b4fcfe1f-5d3d-47fa-a617-684b0790f4ca|Betriebsleiter/in 100%|Fankhauser AG HUTTWIL, Rohrbach|Rohrbach
+jc|844309b0-25e6-4928-b6d4-7df021969a0c|Chief Technology Officer (CTO) and member of the Executive Board with focus on CHEMICAL Process Technology & Engineering|Bertrams Chemieanlagen AG|Switzerland
+jc|9a2ff62f-9e44-4807-a28d-813f261c3b26|Leiter/in Einkauf 80-100%|Spitalzentrum Biel AG|Biel
+jc|7f83eb59-3d76-4828-ad3c-acc742fb00f4|Leiter/in Logistik (100 %) Mitglied der Geschäftsleitung|Otto Fischer AG|Zürich-West
+jc|ed9aa5b6-fcbf-4d2a-adbf-cb0f4383f4b2|Leiter Einkauf (m/w) 100%|yellowshark|Wallisellen
+jc|37d15600-d459-4c4a-9834-9bf13d85373c|Linienführer/in mit Zusatzfunktion als Stv. Leiter/in Produktion 100%|Haco AG|Lanzenhäusern
+jc|ada08923-85ea-4ad9-acc6-b21632c5498b|Produktionsleiter / Head of Production (m/w/d)|Glas Trösch AG|Ursenbach
+jc|beca5d7a-5701-4a79-9336-f53a17b9c884|Leitung Produktion|Mineralquellen Adelboden AG|Adelboden
+jc|e4c8274c-2ab8-44a0-a6b0-39ff6d8044e8|Leiter Logistik und Verpackung Lebensmittelindustrie Bilingue FR DE Region Biel|dasteam ag|Berner Jura
+jc|ba4cd741-927c-43b1-bf30-970354937728|Produktionsleiter / Leiter Fertigung (m/w) – 100%|ISOTAB GmbH|Rikon im Tösstal
+jc|3a79294c-3323-425f-bc62-4482353a2d09|Produktionsleiter / Head of Production (m/w/d)|Glas Trösch AG|Ursenbach
+jc|f7e7c829-3d02-440b-b3cd-ae1b75946043|Standortleiterin oder Standortleiter, Schulleiter|Oberstufe Wasseramt Ost, Schulzentrum DeLu|Derendingen
+jc|9374a605-4dcd-4d12-9bf1-46dacba19e6d|Standortleiter 100% (m/w/d)|Christian Cavegn AG|Schafisheim
+jc|0d831301-191a-4b65-b6b9-eceaaa587f3e|Standortleiter mit übergeordneter Führungsverantwortung 80–100 % (m/w/d) Chez Grisoni Thalwil|Chez Grisoni|Thalwil
+jc|41d97f11-1406-48d9-ab73-57713f11f202|Neue Standortleitung Ilgenmoos ( F /M/ D) und Mitglied der Geschäftsleitung|Vokus Personal AG|Kanton Zürich
+jc|74688ce2-514c-4cd1-b801-8b3f784a0bf1|Global CMO Clinical Packaging Site Manager|Elan Personal AG|Basel
+jc|c76d79e1-ca44-4436-87c4-45c2d7881b76|Global CMO Clinical Packaging Site Manager|ITech Consult AG|Basel
+jc|0f68d22e-bf20-4fb9-b290-4923b82d83b2|Standortleiter LKW Werkstatt & Kundendienst 100% (m/w/d)|F. Murpf AG, Transporte und Logistik|Hägendorf
+jc|9e8b8f85-2337-4600-a579-996876d5b4ac|Site Manager – GIS Substations|INP Schweiz AG|Turgi
+jc|bb4e1c14-e02c-49f3-965c-17775914baaa|Site Manager / Site Coordinator – Data Centers|INP Schweiz AG|Turgi
+jc|38d39527-0535-4a05-8518-641c48234273|Geschäftsführer/Geschäftsführerin|Schlössli Biel-Bienne|Biel/Bienne
+jc|2eebf767-4498-48ae-92bd-3c1f3a8ce996|Geschäftsführer (m/w)|TORMAX Schweiz AG|Bülach
+jc|7ee740ce-d2f4-455d-a104-fbdc465d84af|Geschäftsführer (m/w)|PETRAG HR AG|Nordwestschweiz
+jc|c8e06f49-3dcc-426f-9a37-513765de5b42|INHABER / GESCHÄFTSFÜHRER im erweiterten Automobil-Umfeld (w/m)|Mooser & Partner AG Personalberatung|Zürich (Nord)
+jc|2c2766b9-840d-4aec-aa77-fe9ab5826bd7|Geschäftsführerin / Geschäftsführer Bildungsraum Nordwestschweiz BRNW 60%|Kanton Aargau|Aarau
+jc|a0c0f5c6-d660-402b-b0ec-52d6e401d7d1|Geschäftsführer/in Vorsorgestiftung, 80-100%|Spitalzentrum Biel AG|Biel
+jc|4a74552e-28e3-46d2-9895-5bcb1fcc3d92|Geschäftsführer/-in 80-100%|PKZ Burger-Kehl & Co. AG|Urtenen-Schönbühl
+jc|47e2e8c8-d22c-46dc-9356-15a209353dbc|Geschäftsführer/in, Leiter/in Geschäftsstelle (50%) / Verband, Verein, Kultur, NGO|Berner Münster Kinder- und Jugendchor|Bern
+jc|5bfd30d9-17a3-42d6-b87c-caf2d2564449|CEO / Vorsitz der Geschäftsleitung|Jörg Lienert AG|Wangen an der Aare
+jc|2339ec96-37f8-43b6-90e3-53c01263ff16|Geschäftsleiter:in (alle)|Karl Waechter AG|Zürich
+jc|56920463-9dfd-4a14-a52e-bec6f26617b4|Geschäftsführer:in 80 - 100%|iek Institut für emotionale Kompetenz AG|Zürich
+jc|c7273f53-9c99-48d8-a645-1fbd51ebc65d|Geschäftsleiter*in APPISBERG|Verein Appisberg|Männedorf
+jc|cfa8e6e4-e11a-4ed0-8408-a427c9d988c9|Geschäftsleiter:in|Jörg Lienert AG|St. Urban
+jc|ab26cdac-193b-4c8c-84cf-2c44cb0a2071|Projektleiter Elektroinstallationen als Geschäftsführer|dasteam ag|Region Basel
+jc|8c41ff28-cbae-4560-8948-02ce81b09ce6|Elektroprojektleiter mit Entwicklung zum Geschäftsführer (m/w/d)|das team ag|Basel (4052 Basel)
+jc|ac3b9d02-f6d4-4fe6-b7a9-0a4aef538586|Bereichsleiter/in Hotellerie, Infrastruktur und Garten (80-100%)|Schlössli Pieterlen|Pieterlen
+jc|a8729944-d821-46cf-9055-b11bb89330e6|Leiter:in ÜK-Zentrum und Mitglied der Geschäftsleitung 80 - 100 %|OdA Gesundheit beider Basel|Münchenstein
+jc|292acb62-e163-403a-b855-5f61f16ad76a|LEITER/IN DIGITALE TRANSFORMATION 80% - 100%|Xeloba GmbH|Oberwangen b. Bern
+jc|db0f27a2-7022-446d-bb8f-9155f38df45f|Geschäftsleiter Stv. (m/w/d) 100%|BAUHAUS Fachcentren AG|Langenthal
+jc|dc1439c3-5c3f-4847-ad6b-e84583d78e65|General Manager TORMAX Distribution EMEA (m/w)|TORMAX|Bülach
+jc|14dfacb4-e067-489f-ad25-583089a7b54c|Leitung Finanzen / CFO, Mitglied der Geschäftsleitung (80-100%)|Sanacare AG|Winterthur
+jc|ca476169-3fd4-47d5-a76d-11b1b6da58cd|Head of Customer Service h* (80 - 100%)|humanik AG|Dällikon
+jc|34a64bdb-3517-4a26-9891-6164fdb853de|Leiter/-in Bereich Abkommen|Bundesamt für Sozialversicherungen BSV|Bern
+jc|0c960d89-301e-4bf1-8ba6-5af13cf3b44f|Leitung Sales & Marketing (Mitglied GL)|Kirby Kaderselection GmbH|Kanton Luzern
+jc|8e68475e-cc5c-40ee-b4ce-cd57d138d8c5|CFO (Mitglied der Geschäftsleitung) – 100 %|ProSearch AG|Basel
+jc|9348c4ba-c333-4caa-93b4-160606570659|Geschäftsführer:in Restaurant Worb|Coop Restaurant|Worb
+jc|cdbe6de5-06fe-4dbb-89d7-ca5fb504e225|Geschäftsführer:in|Import Parfumerie|Langenthal
+jc|0b28a630-4d77-4a1d-b5d8-62331c5bbe97|Stv. Geschäftsführer Restaurant mit Küchenchef:in Funktion|Coop Restaurant|Dietikon Silbern Restaurant - Silbernstrasse 9
+jc|dc9514f8-60f0-4b30-b456-5475d547c415|Stv. Geschäftsführer Restaurant mit Küchenchef:in Funktion|Coop Restaurant|Dietikon Silbern Restaurant - Silbernstrasse 9
+jc|70540ded-e82c-4068-bed8-b6bb22a21e2b|Co-Geschäftsführer*in 30–50% (m/w/d)|KIBE Region Huttwil|Huttwil
+jc|414f1127-08b5-40fa-9f31-4f3ef0537c9f|Geschäftsführer:in Meiringen|COOP|Meiringen
+jc|5f27d443-d5b5-4e0f-bffd-5124f17a970d|Geschäftsführer:in Restaurant mit Kochfunktion|Coop Restaurant|Pratteln Personalrestaurant
+jc|4e2633b9-7086-4c38-bc23-e497699861b2|Geschäftsführer:in Restaurant mit Kochfunktion|Coop Restaurant|Pratteln Personalrestaurant
+jc|efc28943-48ec-4c1b-839e-2808af1dcc0c|Bereichsleiter:in Inland und Mitglied der Geschäftsleitung (80–100%)|Stiftung Hilfswerk der Evangelischen Kirchen Schweiz (HEKS)|Zürich
+jc|23f74b6a-f88e-4628-a7e9-fc21eb340315|Geschäftsführer:in|Import Parfumerie|Langenthal
+jc|2d6b5152-cc85-4738-a95f-045e09334f22|Aspirant:in Geschäftsführer:in|COOP|Stadt Zürich
+jc|79d0ec42-0746-42f0-88f5-84e3dcbaa2a2|Geschäftsführer:in 100%|Two Spice AG|Winterthur Kesselhaus
+jc|cb723325-a537-479e-8c72-1fbebffc1c7d|Aspirant:in Geschäftsführer:in|COOP|Grossraum Oftringen/Olten
+jc|dae5e015-6362-4ddd-8f22-c783780278c7|Aspirant:in Geschäftsführer:in|COOP|Grossraum Aarau
+jc|2c6d9057-7139-472f-a223-5406b3d6c655|Geschäftsführer:in Coop Matten|COOP|Matten bei Interlaken
+jc|9ba28377-9018-44af-924c-3d3888960deb|Aspirant:in Stv. Geschäftsführer:in|COOP|Grossraum Oftringen/Olten
+jc|c5f1a817-5dda-474d-968a-e12b9b44981b|Geschäftsführer:in Coop Frutigen|COOP|Frutigen
+jc|097149e1-92e7-4f0a-91c8-01e499222181|Geschäftsführer:in Restaurant Worb|Coop Restaurant|Worb
+jc|74d5dcc6-a8c3-41da-9796-49b922ac9249|2. Stv. Geschäftsführer:in (Rayonleiter:in Grundnahrungsmittel)|COOP|Obfelden - Ottenbacherstrasse 23
+jc|64f348fb-1ad6-4003-a60d-52c6f64c6223|Country Manager Switzerland - Premium Lifestyle & Accessories|Luxury Experts Sarl|Bern
+jc|91b06977-4da5-4b0f-8235-2df67d3ce468|BEREICHSLEITER ELEKTROINSTALLATIONEN|Thomson Consulting AG|Raum Zürich
+jc|4835f4d2-b9d5-4eb4-8cc9-43bedd69cdd3|Nachwuchsprogramm: Bereichsleiter*in Supermarkt|Genossenschaft Migros Aare|Langendorf
+jc|4c0e765d-6a75-4f66-9f57-e15bdc5435af|Bereichsleiter/-in IT-Infrastruktur|Informatik Service Center ISC-EJPD|Zollikofen
+jc|8ccdd42d-05d6-4bf1-a58c-352534c2ab2b|Bereichsleiter/in Patientenadministration 100 %|SRO AG|Langenthal
+jc|4bcef187-12f1-433f-95ef-383ab1ccc874|Nachwuchsprogramm: Bereichsleiter*in Supermarkt|Genossenschaft Migros Aare|Brügg
+jc|831da2c7-2134-4584-a323-248e171e3a0f|Nachwuchsprogramm: Bereichsleiter*in Supermarkt|Genossenschaft Migros Aare|Rheinfelden
+jc|2d753ffb-556a-4a5d-a658-e96512cafab7|Nachwuchsprogramm: Bereichsleiter*in Supermarkt|Genossenschaft Migros Aare|Bern
+jc|25528937-0de1-49fc-a307-2c44f330eae9|Nachwuchsprogramm: Bereichsleiter*in Supermarkt|Genossenschaft Migros Aare|Spreitenbach
+jc|56ec2487-6837-4dfd-88eb-a816f54c79e8|Nachwuchsprogramm: Bereichsleiter*in Supermarkt|Genossenschaft Migros Aare|Egerkingen
+jc|37325669-163f-43e8-beb4-9da2c0dcbafe|Fachbereichsleiter*in und Stv. Bereichsleiter*in Bade- und Eisanlagen|Stadt Zürich – Sportamt|Zürich
+jc|94f7694f-5f52-402b-baaa-10c3bb5f3e93|Bereichsleiter/in Zentrale Dienste 60%-80%|Stadt Grenchen|Grenchen
+jc|fdb7347b-84dd-4f10-b766-5fc95c971702|Leiter/-in Bereich Sozialversicherungen & Dienste 80-90% (a)|Einwohnergemeinde Emmen|Emmenbrücke
+jc|d691a4dd-271d-49d6-ba0b-b3d617851109|Mitglied der Geschäftsleitung mit Schwerpunkt Recht, Risiko und Finanzen|Alternative Bank Schweiz AG|Olten
+jc|bfa39525-ec66-431a-a93d-a73d27c836c2|Kaufmännische:r Bereichsleiter:in Spezialtiefbau|STRABAG AG|Schlieren
+jc|4e017103-dead-4a48-bc1d-5c36305822b9|Bereichsleiter/-in Vertrag|Aargauische Gebäudeversicherung|Aarau
+jc|9ab2351d-5666-4898-8c1c-440283d761b2|Bereichsleiter/in Finanzen und Controlling|Alterszentrum Obere Mühle AG|Lenzburg
+jc|8d89e1a2-98e5-4509-87ec-e0552c93326b|Bereichsleiter/in Softwarelösungen|BLT Baselland Transport AG|Oberwil
+jc|c0d94c2e-7401-4177-bef1-493b774b1122|Bereichsleiter/-in Aufsicht & Betreuung, 100%|Sicherheitsdirektion des Kantons Bern|Biel
+jc|6e301d35-53fe-4be6-b383-5ec7476eb5c6|Bereichsleiter*in Wohnen 80-100%|Stiftung Züriwerk|Bubikon
+jc|7c770116-4383-434f-9796-84c0fb3cd447|Bereichsleitung Wohnen & Mitglied der Geschäftsleitung 80–100 %|IWAZ Schweizerisches Wohn- und Arbeitszentrum für Mobilitätsbehinderte|Wetzikon ZH
+jc|dbbd68b9-c5f6-4c0c-9669-4459716b2bc2|Chief HR Officer und Mitglied der Geschäftsleitung (m/w)|oprandi & partner ag, zürich|Mittelland
+jc|39e01b4d-9b1c-4d99-8e5e-561295e3934a|LeiterIn Transport National (Mitglied der Geschäftsleitung)|Schöni Transport AG|Rothrist
+jc|6147285b-4650-4d34-bab1-07e955834dec|Leitung Zentrale Dienste - Mitglied der Geschäftsleitung|Ausgleichskasse des Kantons Solothurn|Zuchwil
+jc|b15c5369-8e30-4ce8-a255-1e9be01532d5|Bereichsleiter:in Software & Product Engineering und Mitglied der Geschäftsleitung|DV Bern AG|Bern
+jc|d53b1778-1376-45c2-8851-61493c7f74bb|Leitung Berufliche Vorsorge / Mitglied der Geschäftsleitung (80-100%)|Amrop Executive Search AG.|Zürich
+jc|bb888596-5dee-471c-80a7-7360d727dd8e|Leitung Pflege und Betreuung (80 - 100%) / Mitglied der Geschäftsleitung|Keller Unternehmensberatung AG|Pfäffikon ZH
+jc|6535f0fe-fa9f-4335-b0db-36cd5a3f4344|Mitglied der Geschäftsleitung Verkauf, Vertrieb & Marketing (m/w/d) (100%)|Nellen & Partner AG|Zürich
+jc|eca8c39b-2389-4eae-bac1-03f746141b11|Ärztliche Direktorin / ärztlicher Direktor Erwachsenenpsychiatrie & Mitglied Geschäftsleitung|Innopool AG|Liestal
+jc|c4ab1c60-8892-414f-a320-d6d50885c43e|Bereichsleiter/in Softwarelösungen - BLT|BLT Baselland Transport AG|Basel
+jc|bdc11c22-22f4-44ab-97bf-c602d4f02b38|Leitung Pflege und Betreuung / Mitglied der Geschäftsleitung (80-100%). per sofort od. n.V.|Adecco|Aarau
+jc|166e8ec7-c448-4592-a597-f07b8e911f1e|Leiter/in Strategie und Geschäftsentwicklung|Knecht Gruppe|Deutschschweiz
+jc|234e5dd0-8391-4189-9f5f-a7672c357828|Leiter/in Produktmanagement Juristische Medien|Stämpfli AG|Bern
+jc|2c29257b-4646-4b54-8644-17e48a954acb|Leitung Produktmanagement|Elan Personal AG|Rheinfelden
+jc|8e098a12-1d42-47f6-8344-d542772e72e0|Head of Customer Services|Quickline AG|Nidau
+jc|b86766d4-d2ec-487c-9349-0255a975a133|Leiter Kundendienst (a)|Stöcklin Logistik AG|Laufen
+jc|f1e032d7-fde2-41cd-a48a-154a2fb5bb66|Leiter Kundendienst 100% (M/W)|Moto-Center Thun|Steffisburg
+jc|7ea5ee4f-0be1-451c-8e12-e1db78dd073f|Leiter/in Kundendienst 100 %|FORS AG|Studen BE
+jc|7a5c44e4-3113-43e4-ab94-457faf8ef711|Leiter/in Kundendienst|IBB Energie AG|Brugg
+jc|b2193bdc-3c14-41d6-a57e-4548466fb1b5|Factory Manager Insulation Components (Laminates) 80 – 100% (f/m/d)|Hitachi Energy AG|Klingnau, Aargau, Switzerland
+# END 118
