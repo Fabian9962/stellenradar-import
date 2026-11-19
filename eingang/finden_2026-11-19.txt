@@ -1,0 +1,857 @@
+#RUN|2026-11-19|08:27
+#scm1|D|page=1|headline=11 Jobs gefunden|count=6|next=NONE
+325733784d|Leiter:in Supply Chain|CH-9442 Berneck|Oertli-Instrumente AG
+#scm1|D|page=2|headline=11 Jobs gefunden|count=0|next=NONE
+#scm1|W|page=1|headline=5 Jobs in der Websuche gefunden|count=5|next=NONE
+#scm2|D|page=1|headline=75 Jobs gefunden|count=38|next=NONE
+3257326847|Global Supply Chain & Logistics Manager 80-100% (m/w/d)|Dierikon Haan, DEU, 42781<br/> Thun|Komax AG
+3257305345|Semiconductor Supply Chain Manager 100%|CH-8952 Schlieren|Lightium AG
+3256797556|Senior Specialist Supply Chain & Procurement (w/m/d) 80%-100%|4702 Oensingen|Medifilm AG
+3256547932|Lead - D365 Functional Consultant (Supply Chain)|Zürich, ZH|On AG
+#scm2|D|page=2|headline=75 Jobs gefunden|count=0|next=NONE
+#scm2|W|page=1|headline=37 Jobs in der Websuche gefunden|count=37|next=NONE
+3256787474|Produktionsplaner / Supply Chain Specialist (a)|Bern|PRIMARIS Personalberatung AG
+325664624e|Spezialist Stammdaten & Supply Chain 80-100 %|CH-4133 Pratteln|KMU Jobs AG
+#ops1|D|page=1|headline=253 Jobs gefunden|count=103|next=2
+3257334258|Betriebsleiterin/Betriebsleiter Technischer Dienst 100%|CH-4435 Niederdorf|Kanton Basel-Landschaft
+3257354f6a|Manager Industrial Engineering|Urdorf|Mettler-Toledo (Schweiz) GmbH
+325735564b|Betriebsleiter/in Werkstatt und Biogasanlage (w/m/d)|CH-3618 Süderen|Gebr. Klaus und Urs Wittwer
+325734526b|Leiter:in Operations|6072 Sachseln|bio-familia AG
+3257347772|Business Analyst/in (m/w/d) mit Stellvertreterfunktion für den Betriebsleiter Nesa 50%|bevorzugt St.Gallen oder, nach Absprache, an einem der Standorte der regionalen Kompetenzzentren|Kanton St.Gallen
+325735476a|Betriebsleiter/-in kantonaler Strassenunterhalt 80%-100%|Wila|Kanton Zürich
+3257354653|Betriebsleitung (m/w/d) für das Hotel Restaurant Baseltor100%|4500 Solothurn|Genossenschaft Baseltor
+3257355576|Leitung F&B Operations und Stellvertretende Betriebsleitung (m/w/d) im Hotel Restaurant La Couronne100%|4500 Solothurn|Genossenschaft Baseltor
+3257306972|Operative Leitung Eventküche 80-100%|CH-3011 Bern|Burgergemeinde Bern, Casino Bern
+3257303149|Betriebsleiter 100%|CH-2558 Aegerten|Estoppey-Reber SA
+3257303764|Betriebsleiterin/Betriebsleiter Technischer Dienst 80-100%|CH-4435 Niederdorf|Kanton Basel-Landschaft
+32567a6e46|Souschef (m/w) Entwickle Dich zum Betriebsleiter|Bern|Energy Kitchen AG
+32567a5563|Leiter:in Betrieb100%|9008 St.Gallen|Olma Messen St.Gallen AG
+3256787972|HR and Legal Advisor or Operations Director|4051 Basel|Pour Demain
+32567a4f78|Head of Revenue Operations|Zürich, ZH|Pflegewegweiser GmbH
+32566f4437|Leiter:in Alarmzentrale und Betrieb (80%-100%)|Zürich|Certas AG
+#ops1|D|page=2|headline=253 Jobs gefunden|count=100|next=NONE
+3255484a74|Betriebsassistent 80-100% (w/m/d)|Spreitenbach|KL Swiss AG
+3253496d76|Stv. Betriebsleiter / Gastgeber (m/w) 80% - 100% Ristorante La Scala|CH-8640 Rapperswil SG|Ristorante La Scala AG
+#ops1|D|page=3|headline=253 Jobs gefunden|count=3|next=NONE
+#ops1|W|page=1|headline=56 Jobs in der Websuche gefunden|count=56|next=NONE
+3257355a72|Business Analyst/in (m/w/d) mit Stellvertreterfunktion für den Betriebsleiter Nesa 50-100%|9000 St.Gallen|Kanton St.Gallen
+3257355639|Head of IT Operations / Infrastructure (Hybrid/Remote)|8000 Zürich, Zürich|ALMAAS Personal Consulting GmbH
+32567a5358|Betriebsleiter/in Heizung & Sanitär mit Erfolgsbeteiligung|Werdenberg|Müntener & Thomas AG
+32567a6b69|Betriebsleiter/in Heizung & Sanitär mit Erfolgsbeteiligung|Region Werdenberg|Müntener & Thomas AG
+#prod1|D|page=1|headline=202 Jobs gefunden|count=100|next=2
+3257315068|Produktionsleiter/-in Montage|8212 Neuhausen am Rheinfall|Adecco
+3257343268|Polymechaniker EFZ 100% (m/w)|CH-9533 Kirchberg SG|Promet AG
+3257344d51|Leiter Produktion (100%, m/w/d)|Turgi|KVA Turgi Kehrichtverwertung
+3257347263|Produktionsleiter/in (100%)|CH-5036 Oberentfelden|Vital AG
+3257343978|Produktionsleitung AEMP (Aufbereitungseinheit für Medizinprodukte) 80-100%|CH-4031 Basel|Universitätsspital Basel
+32567a5044|Gruppenleiter Produktion CNC-Flachbearbeitung, Abkanten, Stanzen (m/w/d)|CH-9533 Kirchberg SG|Promet AG
+325731556e|Anlagenführer & Stv. Abteilungsleiter Lebensmittelbranche|6060 Sarnen|Persigo AG
+3253796549|Sales & Account Development Manager (a) 80-100 %|CH-9533 Kirchberg SG|Promet AG
+#prod1|D|page=2|headline=202 Jobs gefunden|count=1|next=NONE
+#prod1|D|page=3|headline=202 Jobs gefunden|count=0|next=NONE
+#prod1|W|page=1|headline=101 Jobs in der Websuche gefunden|count=100|next=2
+3257335873|Head of PO Change Management 100%|CH-6370 Oberdorf NW|avec compétence (avecco) GmbH
+3257346d44|Director - Manufacturing & Technical Operations (API & DP) 100%|CH-6300 Zug|Swisslinx AG
+3257344b58|Produktionsleiter/in 100 %|Burgdorf|Ivers-Lee AG
+3257355a79|Gruppenleiter*in / Arbeitsagog*in Produktion (80% - 100%)|9014 St. Gallen (Bruggen)|VALIDA Lehr- und Arbeitswerkstätte für Menschen mit Behinderungen
+325731757a|Produktionsleiter Getränkehersteller 100%|3000 Region Bern|ABS Personalberatung AG
+3257326a4f|Produktionsleiter Fenster & Türen (m/w/d)|9430 St. Margrethen|Gautschi AG
+32567a7869|Zimmermann/Zimmerin als Leiter Produktion für Holzsystembau 100%|CH-6264 Pfaffnau|Stellentreff AG
+325731504e|Abteilungsleiter:in Produktion Elektronik (m/w/d) / 100% / Region Ostschweiz|Winterthur|ConCape GmbH
+3257305a66|Zimmermann/Zimmerin als Leiter Produktion für Holzsystembau 100%|CH-6264 Pfaffnau|Fachkraft.ch GmbH
+3257326945|Leiter Produktion Holzbau 80-100% (a)|Kanton Luzern|Personal Sigma Sursee AG
+3257306173|LEITER/IN BESCHAFFUNG & PRODUKTION 100%|CH-3173 Oberwangen b. Bern|Xeloba GmbH
+3257303673|Directeur de production 100%|CH-4500 Solothurn|Safeguard Global AG
+3254617542|Leiter Anlagenbetrieb & Produktion (m/w/d) -100%|Aargau Baden|Onyx Circle AG
+#prod1|W|page=2|headline=101 Jobs in der Websuche gefunden|count=1|next=NONE
+#einkauf1|D|page=1|headline=94 Jobs gefunden|count=60|next=NONE
+3257317572|Leitung Beschaffung / QM 80-100% (A)|Kanton Luzern|Personal Sigma Sursee AG
+325734344d|Stellvertreter:in Leiter Einkauf 80-100 %|CH-6012 Obernau|Herzog-Elmiger AG
+3257346d58|Leiter/-in Beschaffung Projekt Mitholz 80-100%|CH-3014 Bern|Bundesamt für Rüstung (armasuisse)
+3257313678|Group Procurement Category Manager Indirects 80-100% (m/w/d)|Dierikon Haan, DEU, 42781<br/> Thun|Komax AG
+3257325674|Leiter/-in Beschaffung Projekt Mitholz 80-100%|Bern|Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS)
+32567a4346|Responsable des achats 80-100%|2501 Bienne|Spitalzentrum Biel AG
+3256736248|Senior Category Manager Obst & Gemüse (m/w/d) 80-100%|CH-8570 Weinfelden|Lidl Schweiz AG
+3255696c4a|Category Sales Manager*in|3065 Bolligen|OWIBA AG
+#einkauf1|D|page=2|headline=94 Jobs gefunden|count=4|next=NONE
+#einkauf1|W|page=1|headline=39 Jobs in der Websuche gefunden|count=39|next=NONE
+325679354f|Responsable d'achat (H/F)|2606 Jura bernois|Persag AG
+3256793776|Leitung Strategischer Einkauf (m/w/d) Ref: BJ942581|4922 Bützberg, Bern|ALMAAS Personal Consulting GmbH
+#einkauf2|D|page=1|headline=490 Jobs gefunden|count=103|next=2
+3257335865|Technische:r Einkäufer:in Elektronik 100%|CH-8404 Winterthur|KELLER Pressure AG
+3257337873|Strategic Procurement Manager (m/w/d)|Zürich|Rheinmetall Air Defence AG
+3257327343|Einkäufer:in C-Teile 100%|St. Margrethen|Stadler Rail Group
+3257327279|Senior Sourcing Lead - Information Technology & Telecom 80-100% (Zurich) (f/m/d)|Zürich|Bank Julius Bär & Co. AG
+3257346f55|Einkäufer 60%|CH-4625 Oberbuchsiten|Meier Tobler AG
+325735644f|Sr. Manager - Steel & Castings Procurement|CH-6003 Luzern|Carrier Innovation Technologies GmbH
+3257354934|Operative*r Einkäufer*in Subcontracting & Indirect Procurement|Buchs|Mibelle AG
+3257354c62|STRATEGIC PROCUREMENT MANAGER|8280 Kreuzlingen|General Dynamics European Land Systems - Mowag GmbH
+3257354c4e|Operative Einkäuferin oder operativer Einkäufer 80-100 %|4710 Balsthal|Allenspach Medical AG
+3257347531|Einkäufer:in 80-100 %|CH-6012 Obernau|Herzog-Elmiger AG
+3257356652|Mitarbeiter*in Beschaffung / Logistik 60 %|4528 Zuchwil|Wyss Samen und Pflanzen AG
+3257333549|Einkäufer:in & Sales Manager:in Sport, Fashion & Lifestyle / Remote in der Schweiz 80-100%|CH-8001 Zürich|AMP Sport GmbH
+3257354937|Buyer Packaging|Buchs|Mibelle AG
+3257354662|Operative/r EinkäuferIn (a) 100%|Zihlschlacht-Sitterdorf|Rehaklinik Zihlschlacht AG
+3257347566|Lizenzmanager / Software-Einkäufer 80-100%|CH-5600 Lenzburg|HINT AG
+3257347846|Senior Manager Procurement Excellence (f/m/d)|Baden Hybrid|Axpo Group
+3257336846|Hochschulpraktikant/-in Beschaffungs- und Vertragswesen 80-100%|CH-3600 Thun|Bundesamt für Strassen ASTRA
+3257304c68|Strategische:r Einkäufer:in (80 - 100%)|CH-4500 Solothurn|Glutz AG
+3257313777|Supplier Quality Engineer Injection Molding EMEA|Widen, Aargau|Sika Schweiz AG
+3257317676|Strategische*r Einkäufer*in (Non-Medical mit Portfolioverantwortung) 80-100%|CH-4031 Basel|Universitätsspital Basel
+325732566e|Hochschulpraktikant/-in Beschaffungs- und Vertragswesen 80-100%|Thun, Schweiz|Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK)
+3257324e71|Einkäufer:in & Sales Manager:in Sport, Fashion & Lifestyle / Remote in der Schweiz|8000 Zürich|AMP Sport GmbH
+3257323345|Technischer Einkäufer (w/m) 60-100%|CH-2542 Pieterlen|Stähli Läpp Technik AG
+3256787843|Technische:r Einkäufer:in Elektronik|8404 Winterthur|KELLER Pressure AG
+32567a6573|Projekteinkäufer:in, indirekte Güter und Dienstleistungen 80 - 100 %|4142 Münchenstein|Primeo Holding AG
+3256797071|Strategic Buyer - Electronics|Zürich|Destinus SA
+3256796679|Senior Manager IM EMEA Agile Procurement|Zug|Johnson & Johnson AG
+32567a4f77|Delivery Manager, Diagnostics Direct Procurement|Rotkreuz, Zug|F. Hoffmann-La Roche AG
+3256794950|Purchasing Clerk|Park Hyatt Zurich|Hyatt International
+3256793548|Procurement Category Specialist F&B (f/m/d) 100 %|Andermatt|Andermatt Swiss Alps AG
+3256773865|Purchasing Project Buyer - Power Tools Accessories 80-100% (f/m/div). REF299496Z|Zuchwil|Scintilla AG
+3256746750|Purchasing Project Buyer - Power Tools Accessories 80-100% . REF299496Z|4528 Zuchwil|Scintilla AG
+3256687869|Sourcing IT|CH-6340 Baar|Chain IQ Group AG
+3256526c38|Strategische:r Einkäufer:in|8006 Zürich|ETH Zürich
+#einkauf2|D|page=2|headline=490 Jobs gefunden|count=103|next=3
+325643796e|Einkäufer/-in 80-100%|3401 Burgdorf|ESA-Einkaufsorganisation des Schweizerischen Auto- und Motorfahrzeuggewerbes Genossenschaft
+#einkauf2|D|page=3|headline=490 Jobs gefunden|count=39|next=NONE
+#einkauf2|D|page=4|headline=490 Jobs gefunden|count=3|next=NONE
+#einkauf2|W|page=1|headline=254 Jobs in der Websuche gefunden|count=100|next=2
+325734456b|Mitarbeiter/in Supply Chain & Einkauf (70-100 %, befristet)|Bern|CASCINATION AG
+3257334166|Responsable Achats Industriels 100%|CH-2610 St-Imier|Safeguard Global AG
+3257355976|Operative/r EinkäuferIn (a) 100%|8588 Zihlschlacht-Sitterdorf|VITREA Schweiz AG
+3257354946|Operativen Einkäufer (m/w) 100%|Horgen|yellowshark AG
+3257347265|Technischer Einkäufer (m/w/d) 100%|Biel|Mittelland-Personal AG
+3257344769|Einkäufer:in & Sales Manager:in Sport, Fashion & Lifestyle (m/w/d) / Remote in der Schweiz|Zürich|AMP Sport GmbH
+3257347949|Einkäufer 100% (m/w/d)|Bern|Universal-Job AG
+3257333449|Praktikant :in Recruiting Support & Sourcing 60-100%|CH-8400 Winterthur|Consult & Pepper AG
+3257306c6c|Strategischer Einkäufer Packaging (m/w/d) - Ihre Chance bei einem renommierten Grossunternehmen|5033 Buchs AG|Adecco
+3257325830|Technical Supplier Manager (m/f/d)|Rotkreuz|Work Selection AG
+3257324862|Technical Supplier Manager (m/f/d)|Zug|LHH Recruitment Solutions
+3257317652|Strategischer Einkäufer (a)|5620 Bremgarten AG|Personal Knobel AG
+325730364e|Responsable Achats Industriels 100%|CH-2610 St-Imier|Safeguard Global AG
+3257313430|Projekteinkäufer|Region St. Gallen|Atlantis Personal AG
+325730724d|Operativer Einkäufer (m/w) 80-100%|Lenzburg|yellowshark AG
+3257325933|Procurement Spezialist:in|Zürich|Coopers Group AG
+3257324953|Operativer Einkäufer (m/w) 100%|Dietikon|yellowshark AG
+3257314378|WMS-Praktikum 2027 (a) 100%|Basel City / Basel|Kantonsspital Baselland
+32567a614d|Interim Operativer Einkäufer SAP R/3 MM (m/w/d) 80-100%|Südostschweiz|Swiss Interim Management GmbH
+32566d527a|Einkäufer 80-100%|CH-6280 Hochdorf|Gi Group SA
+#einkauf2|W|page=2|headline=254 Jobs in der Websuche gefunden|count=100|next=3
+3256304157|Werkstudent Planung & Procurement - Datenanalytics (m/w/d) 40 - 60 %|8590 Romanshorn|Avosano AG
+#einkauf2|W|page=3|headline=254 Jobs in der Websuche gefunden|count=54|next=NONE
+#logistik1|D|page=1|headline=373 Jobs gefunden|count=107|next=2
+3257345039|Verkaufsleiter Automobil|3001 Bern|Adecco
+325733684a|Head Customer Service & Distribution 100%|CH-4010 Basel|Mepha Pharma AG
+3257333968|Leiter:in Verkauf und Marketing 80-100%|CH-8197 Rafz|Meier Oberflächen AG
+325734654e|Teamleitung Logistik (a) 100%|Frauenfeld|Baumer Electric AG
+3257346857|Leiter:in Verkauf und Marketing (80-100 %)|CH-8197 Rafz|Meier Oberflächen AG
+3257336a4e|Head of Sales Premium Catering & Events (a) 100%|CH-6331 Hünenberg|Gamma Catering AG
+3257334568|Teamleiter/in Verkauf Innen- & Aussendienst 80-100%|CH-3112 Allmendingen b. Bern|HappyGreen Europe AG
+3257333570|Verkaufsleiter Roofing 100% (m/w/d) / Region Ost|CH-8952 Schlieren|Sika Schweiz AG
+325735507a|Sales & Business Development Executive|4437 Waldenburg|SATHOM SARL
+3257317261|Teamleiter:in Logistik und Dienste, 80-100 %|Luzern|CONCORDIA Schweizerische Kranken- und Unfallversicherung AG
+3257314e35|Verkaufsleiter:in Home & Lifestyle 100% (m/w/d)100%|Zürich Bahnhofstrasse|Magazine zum Globus AG
+3257323330|Head of Sales Modernisation & Repair 80-100%|Frauenfeld|Stadler Rail Group
+3257316950|Head of Sales Eventcatering (a) 100%|CH-6331 Hünenberg|Gamma Catering AG
+3257324a30|Teamleiter/in Verkauf Innen- & Aussendienst|3112 Allmendingen b. Bern|HappyGreen Europe AG
+3257314d76|Sales Executive 80-100% (m/w/d)|Bern, Biel, Glattbrugg|Netrics AG
+3256796b41|Teamleiter Logistik und Disposition (m/w/d) 100%|CH-4127 Birsfelden|RUBAG, Rollmaterial- & Baumaschinen AG
+3256796b33|Sales Manager (all genders)|Zürich Flughafen, ZH|Beyond Gravity Schweiz AG
+3256796854|Head of Distribution|Zürich|grape insurance AG
+325670656c|Verkaufsleiter:in Herrenmode 100% (w/m/d)|CH-3001 Bern|Magazine zum Globus AG
+3256793257|Verkaufsleiter Schweiz Mitglied der Geschäftsleitung|Schweiz|Meacon GmbH
+32566f3771|Stv. Verkaufsleiter/in 100% - Möbel & Wohndesign|Dübendorf|Designlife GmbH
+3256644850|RESPONSABLE LOGISTIQUE 100%|CH-2534 Orvin|LNS Sàrl
+32565a4839|Stellvertretende:r Verkaufsleiter:in Wine & More 100% (w/m/d)|CH-3001 Bern|Magazine zum Globus AG
+#logistik1|D|page=2|headline=373 Jobs gefunden|count=104|next=3
+325652316b|Leiter/in IT Finanzen und Logistik|9000 St.Gallen|Kanton St.Gallen
+325652314e|Leiter Verkauf|6210 Sursee|FF Frischfleisch AG
+32564f4f77|Sales Executive|8002 Zürich|Swibeco SA
+#logistik1|D|page=3|headline=373 Jobs gefunden|count=48|next=NONE
+#logistik1|D|page=4|headline=373 Jobs gefunden|count=4|next=NONE
+#logistik1|W|page=1|headline=129 Jobs in der Websuche gefunden|count=100|next=2
+3257346475|Werkstudententätigkeit - Marketing und Verkauf|8902 Urdorf|sia Abrasives Industries AG
+3257346433|Leiter/in Logistik & Lager (m/w/d) 100% Pensum|9000 St. Gallen|Säntis Gastronomie AG
+3257344b65|Teamleiter/in Verkauf Innen- & Aussendienst (m/w/d)|Allmendingen b. Bern|HappyGreen Europe AG
+3257324866|Global CRM & Salesforce Lead (m/w/d) 100 %|Zug|LHH Recruitment Solutions
+3257324830|Leiter Logistik w/m/d|Langenthal|Logjob AG
+3257317658|Leitung Verkauf (a)|8835 Feusisberg|Personal Knobel AG
+32567a3375|Teamleiter Logistik 100% (m/w/d)|Rümikon AG|F. Murpf AG, Transporte und Logistik
+32567a3661|Verkaufsleiter Automobil (a) 100%|3052 Zollikofen|Adecco
+3256797777|TeamleiterIn Vertrieb Innendienst (m / w / d)|Däniken SO|e + h Services AG
+325679337a|Leiter Verkauf und Geschäftsentwicklung Verpackung|Wollerau SZ|JobTalente GmbH
+3256793878|Leiter Logistik|Langenthal|XOWA Personal GmbH
+32567a5738|Teamleiter Logistik (a)|Region Zentralschweiz|Personal Sigma Altdorf & Stans AG
+#logistik1|W|page=2|headline=129 Jobs in der Websuche gefunden|count=29|next=NONE
+#opex1|D|page=1|headline=27 Jobs gefunden|count=20|next=NONE
+32566b7645|Digital Analytics & Performance Manager 80-100%|5406 Baden-Rütihof|Twerenbold Reisen AG
+#opex1|D|page=2|headline=27 Jobs gefunden|count=0|next=NONE
+#opex1|W|page=1|headline=7 Jobs in der Websuche gefunden|count=7|next=NONE
+3256794b41|Lean Manager/in 100%|Bâle|OK Job SA
+#opex2|D|page=1|headline=393 Jobs gefunden|count=107|next=2
+3257336a71|Healthcare: Senior Consultant / Manager - Spitalbetrieb & Prozessoptimierung 80-100%|CH-8005 Zürich|Corealis Consulting AG
+3257333175|Projekt- & Prozessmanager 100%|CH-4665 Oftringen|ista swiss ag
+3257327953|Business-Engineer Professional 80-100%|CH-3052 Zollikofen|Bundesamt für Informatik und Telekommunikation (BIT)
+3257355379|Business Engineer Core Banking - Fokus Kontoführung / Einlagengeschäft (m/w/d)|Zürich|Zürcher Kantonalbank
+3257355359|Senior Business Engineer Billing & Payments (m/w/d)|Zürich|Zürcher Kantonalbank
+3257355737|Prozessingenieur Medienversorgung (Clean/Black-Utilities) (m/w/d)|Basel|CRB Group GmbH
+3257345256|ERP System Administrator/in & Prozess Spezialist 60%-100%|8406 Winterthur|SSM Schärer Schweiter Mettler AG
+3257354d63|Business Engineer - Product Compliance|8005 Zürich|Digitec Galaxus AG
+3257336639|Kernprozessmanager/-in immobiliengrundlagen 80-100%|CH-3004 Bern|Armeestab A Stab
+3257355374|Business Engineer AI/GenAI (w/m/d)|Zürich|Zürcher Kantonalbank
+3257345659|Verantwortliche/r Qualitätssicherung & Prozessmanagement|3076 Worb|Spirit Market GmbH
+3257355754|Business Engineer - Product Compliance (w/m/d) 70 - 100%|8005 Zürich|Digitec Galaxus AG
+3257313139|Qualitäts- und Prozessmanager (a) 60-80%|CH-5036 Oberentfelden|wez Kunststoffwerk AG
+3257326750|Manager in Finance transformation - EPM Solutions|Zurich|PwC
+3257306461|Kernprozessmanager/-in Immobiliengrundlagen 80-100%|CH-3003 Bern|Armeestab A Stab
+3257315a61|Prozessingenieur:in mit Pojektleitungsverantwortung (a) 80-100%|CH-8608 Bubikon|Trafag AG
+3257316e33|Senior Manager / Principal - Organisational Excellence & Transformation 80-100%|Zurich|Eraneos Switzerland AG
+3257326c6c|Manager, Portfolio Transformation|Kaiseraugst, AG|DSM-Firmenich AG
+3257316332|Process Engineer Intern (6 months)|CH-8047 Zürich|MaxWell Biosystems AG
+3257317272|Prozessfachmann/-frau Produktionssupport 100%|Lanzenhäusern|HACO AG
+3256794651|Kernprozessmanager/-in Immobiliengrundlagen 80-100%|Bern|Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS)
+3256794841|Prozessmanager Produktionsplanung80% - 100%|3360 Herzogenbuchsee|Heiniger AG
+3256793445|Senior Manager / Director in Finance Transformation with AI, Technology & Transformation|Geneva, Lausanne, Zurich|Deloitte AG
+32567a6458|Prozessmanager Produktionsplanung|3360 Herzogenbuchsee|Heiniger AG
+3256726e6f|Responsable Projets & Processus Facility Management 80-100%|2501 Bienne|Spitalzentrum Biel AG
+3256694465|Logistics Process Engineer|8005 Zurich|Migros Online AG
+3256696474|Manager - Consulting - Technology Strategy and Transformation|8005 Zurich|Ernst & Young AG
+3256567345|Photolithography Process Engineer 80 - 100% (f/m/d)|CH-5600 Lenzburg|Hitachi Energy AG
+3256523447|Global Services Process Excellence Manager|9240 Uzwil|Bühler AG
+32564e5775|Verfahrensingenieur Verwertungsanlagen (m/w/d)|Dottikon|Dottikon Exclusive Synthesis AG
+#opex2|D|page=2|headline=393 Jobs gefunden|count=104|next=3
+32564b6832|Verfahrensingenieur Verwertungsanlagen|5605 Dottikon|Dottikon Exclusive Synthesis AG
+32566d3049|Process Engineer Sequencing|6343 Rotkreuz|Elan Personal AG
+3255436943|Manager - International Corporate Tax & Transformation|8005 Zurich|Ernst & Young AG
+#opex2|D|page=3|headline=393 Jobs gefunden|count=41|next=NONE
+32524f4e61|Business Process Consultant (all genders)|CH-8050 Zürich|valantic XPA AG
+#opex2|D|page=4|headline=393 Jobs gefunden|count=4|next=NONE
+#opex2|W|page=1|headline=163 Jobs in der Websuche gefunden|count=100|next=2
+325736316c|Senior Process Engineer (m/w) 100%|CH-3004 Bern|univativ Schweiz AG
+3257334836|Business Process Management Support (m/w) 60 - 80%|CH-4052 Basel|univativ Schweiz AG
+3257344644|Projekt- & Prozessmanager (w/m/d) 100%|Oftringen|ista swiss ag
+3257344471|Contract & Process Manager (Medical Affairs)|Basel|Talmatch GmbH
+3257344539|Business-Engineer Professional (1365)|Zollikofen|Bundesamt für Informatik und Telekommunikation (BIT)
+3257337078|Prozessingenieur Anlagenbau 80-100 % (m/w)|Frauenfeld|yellowshark AG
+325735597a|Prozessfachmann / Arbeitsvorbereitung Metallbearbeitung 100 % (m/w/d)|9450 Altstätten|HP Job GmbH
+3257346e64|Teilprojektleiter Prozess / Prozessplanung 100%|CH-4000 Basel|avec compétence (avecco) GmbH
+3257344b7a|Kernprozessmanager/-in Immobiliengrundlagen|Bern|Armeestab A Stab
+3257353632|Prozessfachmann / Arbeitsvorbereitung Metallbearbeitung 100 % (m/w/d)|9434 Au|HP Job GmbH
+3257347634|Contract & Process Manager (Medical Affairs)80-100% Temporär|Basel|Talmatch GmbH
+3257333359|Senior Business Engineer Digitale Eröffnungen (a) (80-100%)|CH-8001 Zürich|Consult & Pepper AG
+3257313244|Prozessfachmann/Produktionsplaner|Region Frauenfeld|Atlantis Personal AG
+3257313652|Prozessmanager/ Produktionsplaner 80 - 100% (m/w/d)|Langenthal|Universal-Job AG
+325730766a|Head of PO Change Management 100%|6370 Oberdorf NW (NW)|avec compétence (avecco) GmbH
+325732577a|Process Engineer (m/f/d) - Sequencing|Rotkreuz|Work Selection AG
+3257325a45|Senior Process Engineer (m/w) 100%|Bern|univativ Schweiz AG
+3257326d37|Process Engineer - Materials & Cleaning Validation (m/w/d)|Lucerne|LHH Recruitment Solutions
+3257317a30|Senior process engineer biotech manufacturing (m/w/d)|Schachen|nemensis ag
+3257317961|Process engineer cleaning validation (m/w/d)|Schachen|nemensis ag
+3257306249|Manager - International Corporate Tax & Transformation 80-100%|CH-8001 Zürich|Aequor Consulting GmbH
+3257324344|Manager - International Corporate Tax & Transformation (m/w/d)|Zürich|Aequor Consulting GmbH
+3257324856|Process Engineer (m/f/d) - Sequencing|Zug|LHH Recruitment Solutions
+3257326d38|Contract & Process Manager (m/f/d)|Basel-Stadt|LHH Recruitment Solutions
+3257323871|Montana. Verfahrenstechniker. Process Specialist Panel Line (w/m/d) 80-100 %|Villmergen|Montana Bausysteme AG
+3257317670|Contract & Process Manager - Medical Affairs|Basel Region|gloor & lang ag
+3256786a68|Prozessingenieur Messtechnologie|Sankt Gallen / Heerbrugg|Randstad (Schweiz) AG
+32567a5261|Business Process Management Support (m/w) 60 - 80%|Basel|univativ Schweiz AG
+325678794b|ERP-System Administrator & Prozessspezialist (m/w/d)|8406 Winterthur|Adecco
+3256797268|Prozessfachmann / Betriebsfachmann Werkstattbüro (m/w/d) 80-100%|Altstätten|Gi Group SA
+#opex2|W|page=2|headline=163 Jobs in der Websuche gefunden|count=63|next=NONE
+3254434a31|AVOR-Spezialist / Prozessplaner für elektronische Baugruppen|Zürich|humanik AG
+#opex2|W|page=3|headline=163 Jobs in der Websuche gefunden|count=0|next=NONE
+#gl1|D|page=1|headline=535 Jobs gefunden|count=107|next=2
+3257344374|Geschäftsführer/-in (80 - 100 %)|Bern|Stiftung SOS-Kinderdorf Schweiz
+3257344a4e|Geschäftsführer*in (80-100%)|Wetzikon|Genossenschaft Alterssiedlung Wetzikon
+3257326746|Geschäftsführer:in|6003 Luzern|Jörg Lienert AG
+3257365333|Executive Assistant to CEO|6490 Andermatt|Art of Work Personalberatung AG
+3257357173|Stv. Geschäftsführung|8004 Zürich|Bindella Terra Vite Vita SA
+3257363931|Director/Senior Director, Contracts and Transactions 100%|CH-4051 Basel|Genevant Sciences GmbH
+3257335152|Geschäftsführer/in Facility Services (80-100 %)|CH-2500 Biel/Bienne|MSA GROUP Muslija
+3257337875|Geschäftsführende:r Apotheker:In (60 - 80%)|Suhr|Lindenapotheke AG
+3257347057|Director Transaction Services 100%|CH-8050 Zürich|PwC
+3257354f72|Geschäftsführer:in|Bern Westside|IMPORT PARFUMERIE
+3257345a68|per 1. April 2027 oder nach Vereinbarung eine*n Organisationsleiter*in, Mitglied der kollektiven Geschäftsleitung (60%)|CH-3097 Liebefeld|Schweizerische Arbeitsgemeinschaft der Jugendverbände (SAJV)
+3257354749|Gesamt- & Projektleiter: in Architektur 80-100 %|Zürich Hybrid|Itten+Brechbühl AG
+3257354a72|Geschäftsführer/-in 100 %|5505 Brunegg|Sulser Logistik AG
+3257353746|Geschäftsführer:in 80-100%|Bern Westside|Coop Genossenschaft
+325734774e|Geschäftsführer Schindler Repro (m/w/d) 80-100%|Ebikon|Schindler Aufzüge AG
+3257356a75|Geschäftsführer:in SwissCollNet 70%-80%|3008 Bern|Akademie der Naturwissenschaften Schweiz SCNAT
+3257354f75|Verkaufsberater:in inkl. Stellvertretung der Geschäftsführung|Bern Westside|IMPORT PARFUMERIE
+3257354b6d|Geschäftsführer*in|8620 Wetzikon ZH|Stadt Winterthur
+3257353748|Verkaufsberater:in inkl. Stellvertretung der Geschäftsführung 70-90%|Bern Westside|Coop Genossenschaft
+3257313075|CEO / Geschäftsführer-/in|CH-6072 Sachseln|elfo ag
+3257313649|Senior Director, Internal Audit, Risk & Internal Controls m/f/d|Basel|Corden Pharma International Switzerland GmbH
+3257316632|Director Special Projects - Andermatt Experiences (f/m/d) 100 %|Andermatt & Homeoffice|Andermatt Swiss Alps AG
+3257326751|Director Transaction Services|Zurich|PwC
+325732686f|Senior Director, Corporate Affairs, Communication and Policy Advocacy, CNE, Europe|Basel|Revolution Medicines Switzerland GmbH
+3257325677|Principal Scientist (Director) Health Economics, Oncology (m/f/d)|Zurich|MSD Merck Sharp & Dohme AG
+3257326a7a|Sr Director - Portfolio Transformation, Trauma|Zuchwil|Johnson & Johnson AG
+3257326f69|Director, Global Alliances - Biosimilars & Biologics|4123 Allschwil|Abbott AG
+32567a7444|Bereichsleiter:in Bildung (50%) und Co-Geschäftsleiter:in (15%) / Responsable du domaine Formation (50%) et co-directeur.trice (15%)|CH-2503 Biel/Bienne|Multimondo
+3257315568|Direktorin, Direktor der Pädagogischen Hochschule|5210 Brugg-Windisch|Fachhochschule Nordwestschweiz FHNW
+3257314174|Geschäftsführer/in Glacier Express AG (80-100 %)|Zürich|Rhätische Bahn AG
+325730474e|Gesamtleiter:in Projekte Architektur (GLP) (80-100 %)|CH-4053 Basel|Rapp Gruppe AG
+3257303770|Director, Engineering Excellence 100%|CH-8212 Neuhausen am Rheinfall|Tyco Fire & Security GmbH
+3257316641|General Manager Academic Accounts Enterprise Solutions International (f/m/d)|Remote|GE Healthcare AG
+3257307537|Director/Senior Director, Contracts and Transactions|4051 Basel|Genevant Sciences GmbH
+3257305057|Director/Senior Director, Contracts and Transactions 80-100%|CH-4051 Basel|Genevant Sciences GmbH
+3257317755|Data & Integration CoE Lead (m/w/d)|Frankfurt Geneva St Gallen Zürich München Hamburg Lausanne Basel|Dentsu International Switzerland AG
+325732596e|Praktikant*in Direktion Kommunikation 80 - 100%|8005 Zürich|Migros-Genossenschafts-Bund
+3257326c37|GCM Transformation and Portfolio Office Head|Switzerland|Takeda Pharmaceuticals International AG
+3257354b47|Geschäftsführer/-in|3027 Bern|VERUS ADVISORY AG
+32567a3567|Geschäftsführer:in (80 - 100%)|8253 Diessenhofen|Verein Soziale Dienste Untersee & Rhein
+325678774e|Geschäftsführer*in 50-70%|CH-4031 Basel Universitätsspital|Hippotherapie-Zentrum Basel
+3256796670|Director Program Management|Schaffhausen|Johnson & Johnson AG
+32567a5243|Stellvertreter*in Geschäftsleitung 80 - 100%|5503 Schafisheim|VOI AG
+3256796158|Geschäftsführer/in / Filialleiter/in (80-100%)|CH-9000 St. Gallen|Watch Shop Calan
+3256785552|Geschäftsführerin / Geschäftsführer Öffentlichkeitsgesetz.ch|Remote|Verein Öffentlichkeitsgesetz.ch
+3257324a6e|Director - Quality and Responsible Person|6000 Luzern|Swisslinx AG
+3256755168|Commercial Co-Founder / CEO|St. Gallen|RSC - Reinhard Steiner Creation
+3256755174|CEO & Late Co-Founder|Zürich|Alivion AG
+3256727978|Geschäftsführer:in (80 %)|Zürich|Winterhilfe Schweiz
+325672714c|Geschäftsführer/in Vorsorgestiftung, 80-100%|2501 Biel|Spitalzentrum Biel AG
+32567a4150|Direktor:in|4001 Basel, Bern Zürich|MPB Recruitment Group AG
+#gl1|D|page=2|headline=535 Jobs gefunden|count=104|next=3
+325668386c|Chief Executive Officer (CEO) - Asset & Wealth Management (100%)|CH-8808 Pfäffikon SZ|Golden Hawk Invest AG
+325641765a|Geschäftsführer/in Restaurant Portofino 100%|CH-8800 Thalwil|Pumpstation Gastro AG
+#gl1|D|page=3|headline=535 Jobs gefunden|count=104|next=4
+32557a476c|Stv. Geschäftsführer kontrollierter Betonrückbau (m/w/d) 100%|CH-5012 Schönenwerd|BETONCOUPE AG
+32557a6b70|Senior Lead - Office of the Co-CEO|Zürich, ZH|On AG
+3255757a46|Sales Representative|3421 Lyssach|Viessmann (Schweiz) GmbH
+32554a3670|BVG-SpezialistIn als MandatsleiterIn / GeschäftsführerIn|5506 Mägenwil|PEKAM AG
+32564b6568|Geschäftsführer:in 80-100%|8302 Kloten|Wilhelm AG, Zürich
+3256457958|CHEF/FE DE CABINET DES ZENTRALPRÄSIDENTEN 80% - 100%|Ostermundigen|Xeloba GmbH
+3256437671|CHEF/FE DE CABINET DES ZENTRALPRÄSIDENTEN 80% - 100%|3072 Ostermundigen|Xeloba GmbH
+32544c4f62|Klassenlehrperson für die Primarstufe (1.-6. Klasse)|Winterthur|Kollegiumsverein der Rudolf Steiner Schule Winterthur
+#gl1|D|page=4|headline=535 Jobs gefunden|count=75|next=NONE
+#gl1|D|page=5|headline=535 Jobs gefunden|count=4|next=NONE
+#gl1|W|page=1|headline=164 Jobs in der Websuche gefunden|count=100|next=2
+3257357769|Geschäftsführerin / Geschäftsführer 100%|CH-4001 Basel|upConsult GmbH
+3257356b50|directrice / directeur à 70 % - 80 %|3008 Bern|Akademie der Naturwissenschaften Schweiz SCNAT
+3257335452|Director - Manufacturing & Technical Operations 40%|CH-6300 Zug|Swisslinx AG
+3257346556|Geschäftsführer*in (80-100%)|Wetzikon ZH|inoversum personalmanagement AG
+3257346653|Geschäftsführer:in 100%|CH-6003 Luzern|Jörg Lienert AG
+3257353164|Executive Assistant to CEO (w/m/d)|6490 Andermatt|Art of Work Personalberatung AG
+3257344746|Director/Senior Director, Contracts and Transactions|Basel|Genevant Sciences GmbH
+3257343533|(Associate) Director Legal Counsel - EMEA Contracts & Operations - immediately available - temporary until 06/2027 with permanent option thereafter|Zug Hybrid|AurigaVision AG
+3257344c49|Senior Director, Head of Global Marketing (m/f/d)|Allschwil|Abbott AG
+3257353957|Geschäftsführer*in (80-100%)|Wetzikon (ZH)|Steinmann & Partner GmbH
+3257347862|Geschäftsführer Schweiz (m/w/d)|Region Zürich|Nellen & Partner AG
+3257355148|Chief Executive Officer (CEO)|Schweiz|Kienbaum AG
+3257316649|Geschäftsführerin / Geschäftsführer|Basel|upConsult GmbH
+3257326857|Director - Manufacturing & Technical Operations (API & DP)|Zug, Hybrid|Swisslinx AG
+3257314650|Stellvertreter*in Geschäftsleitung|Aargau / Brugg|Genossenschaft Migros Aare
+3257325338|Geschäftsführung EXIT Deutsche Schweiz (m/w/d)|Zürich|Mercuri Urval AG
+32567a7567|CEO / Vorsitz der Geschäftsleitung 100%|CH-3380 Wangen an der Aare|Jörg Lienert AG
+325731744d|Director Switzerland Business Development|Switzerland|Phaidon International Group
+3256797848|INHABER / GESCHÄFTSFÜHRER im erweiterten Automobil-Umfeld (w/m)|Dübendorf|Mooser & Partner AG Personalberatung
+32567a576d|Treuhänder mit Potenzial zum Stv. Geschäftsführer 80 - 100% (m/w/d)|St. Gallen|Universal-Job AG
+325679454b|Geschäftsführung 60 - 80 % Zirkus Schule Basel|Basel|PKS Personal AG
+325679397a|Geschäftsführer 100% permanent|Luzern|G&L Partner AG
+#gl1|W|page=2|headline=164 Jobs in der Websuche gefunden|count=64|next=NONE
+32384d7945|TreuhänderIn auf Expertenstufe mit Partnerpotential D/E|Zug Kanton|Schöpfer AG
+#gl1|W|page=3|headline=164 Jobs in der Websuche gefunden|count=0|next=NONE
+#strategie1|D|page=1|headline=35 Jobs gefunden|count=30|next=NONE
+3257357858|Sales & Business Development Executive 100%|CH-4437 Waldenburg|SATHOM SARL
+325734414a|Stabsbereichsleiterin / Stabsbereichsleiter Gebäudetechnik HLKK-S, Elektro 80-100%|CH-5004 Aarau|Kanton Aargau
+325733395a|Stabsbereichsleiterin / Stabsbereichsleiter Gebäudetechnik HLKK-S, Elektro 80-100%|CH-5001 Aarau|Kanton Aargau
+3257327155|Stabsbereichsleiterin / Stabsbereichsleiter Gebäudetechnik HLKK-S, Elektro 80-100%|CH-5000 Aarau|Kanton Aargau
+32566c4f36|Business Development Director 100%|CH-8152 Glattbrugg|UPS United Parcel Service (Schweiz) AG
+#strategie1|W|page=1|headline=5 Jobs in der Websuche gefunden|count=5|next=NONE
+#strategie2|D|page=1|headline=24 Jobs gefunden|count=16|next=NONE
+#strategie2|W|page=1|headline=8 Jobs in der Websuche gefunden|count=8|next=NONE
+#produkt1|D|page=1|headline=20 Jobs gefunden|count=14|next=NONE
+3257334651|Leiter/in Produktmanagement Juristische Medien 100%|CH-3006 Bern|Stämpfli AG
+32567a4571|Leiter/in Produktmanagement Juristische Medien|3006 Bern|Stämpfli AG
+3256455734|Head of Product Brand, Performance Running|Zürich, ZH|On AG
+32516f375a|Head of Integrated Product Support (IPS) Management (m/w/d)|Zürich|Rheinmetall Air Defence AG
+#produkt1|W|page=1|headline=6 Jobs in der Websuche gefunden|count=6|next=NONE
+325733314a|Leitung Marktsegment Holz 100%|CH-6203 Sempach Station|Jörg Lienert AG
+3257303541|Leitung Produktmanagement 80-100%|CH-4310 Rheinfelden|Elan Personal AG
+3256795a5a|Leitung Produktmanagement|Aargau|Elan Personal AG
+#beratung1|D|page=1|headline=248 Jobs gefunden|count=106|next=2
+3257364264|Customs Operations Manager 80-100%|CH-9400 Rorschach|Würth Management AG
+3257334866|BACKOFFICE & OPERATIONS MANGER:IN 100%|CH-6314 Unterägeri|Trendline AG
+3257343365|Travel Designer / Operations Manager (m/w/d) (100%) - inkl. Wochenenddienst - Bucher Incoming|CH-6036 Dierikon|Bucher Travel Inc.
+325734324a|Operations Manager, RIVR|Zurich|Amazon
+3257353176|(Senior) Consultant Operations / Digitales Bauen, 80-100% (m/w/d)|Zürich|BearingPoint AG
+3257315a4f|Office & Operations Coordinator (80-100%)|CH-6340 Baar|Asperiq AG
+3257326a79|SR Manager Operational Excellence, Advanced Therapies|Allschwil|Johnson & Johnson AG
+3257304d44|Operations Consultant C5I 100%|CH-3600 Thun|RUAG AG
+3257356a4c|Unternehmensarchitekt 80-100% - GIS/Bim/Behörde|3000 Bern|ITech Consult AG
+3256793331|BACKOFFICE & OPERATIONS MANGER:IN|6314 Neuägeri|Trendline AG
+3256793841|Operations Manager (m/w/d) - Winterthur Area|CH-8152 Glattpark (Opfikon)|NTT Switzerland SA (Wallisellen)
+3256774850|Trainee Operations Management 80 - 100 %|3123 Belp|Gribi AG Belp
+32566a7061|Junior Supply Chain Manager|3303 Jegenstorf|Interdiscount / microspot.ch, Division der Coop Genossenschaft
+3255766a53|Customs Operations Manager 100%|CH-9400 Rorschach|Würth Management AG
+#beratung1|D|page=2|headline=248 Jobs gefunden|count=74|next=NONE
+3245575030|Engineer, Validation Operations|Suisse|Consultants in Science Sàrl
+#beratung1|W|page=1|headline=78 Jobs in der Websuche gefunden|count=78|next=NONE
+3257357866|Unternehmensarchitekt 80-100% - GIS/Bim/Behörde|CH-3004 Bern|ITech Consult AG
+325733764f|System Engineer Operations 100%|3000 Bern (BE)|avec compétence (avecco) GmbH
+3256796169|Operations Manager|Zurich|Akkodis Switzerland SA
+#projekt1|D|page=1|headline=41 Jobs gefunden|count=31|next=NONE
+3257364a68|Programme Manager Academy 60-80%|CH-8001 Zürich|HWZ Hochschule für Wirtschaft Zürich AG
+3257354750|Programme Manager Academy 60-80%|8021 Zürich|HWZ Hochschule für Wirtschaft Zürich AG
+3257323473|FOREUM Programme Coordinator (80-100%, Zurich)|CH-8045 Zürich|European Alliance of Associations for Rheumatology
+32567a5432|Business Program Director - Avaloq Harmonization|Zurich|Deutsche Bank (Schweiz) AG
+3256696336|Senior Programm-/Projektleiter|4002 Basel|Sympany Versicherungen AG
+325634386c|Programmkoordinator:in (m/w/d) 40-80%|CH-8050 Zürich|ETH Zürich
+#projekt1|W|page=1|headline=11 Jobs in der Websuche gefunden|count=11|next=NONE
+3257347633|Senior Program Manager (Industrialization & Scale-Up)100% Temporär/Festanstellung|Grossraum Zürich|Talmatch GmbH
+32567a5942|ServiceNow Programme Manager|Zurich|Experis AG
+325469786e|Netzwerk Techniker für Presales|Bubikon|RM Group AG
+#service1|D|page=1|headline=255 Jobs gefunden|count=105|next=2
+3256796843|Servicetechniker Metallbau mit Perspektive zum Leiter Service (m/w/d) 100 %|St. Gallen (9008 Wittenbach)|das team ag
+3257357939|Leiter Service mit Schwerpunkt Anlagen- und Maschinenbau 100 % (m/w/d)|CH-4142 Münchenstein|Alfred Imhof Holding AG
+3257344241|Leiter:in Kundenservice Beratungscenter (w/m/d)80% - 100%|Root D4|Luzerner Kantonalbank AG
+3257344176|Teamleitung Service 70% - 90%|Leissigen|SOLVIVA Care AG
+3257337778|Leiter Service mit Schwerpunkt Anlagen- und Maschinenbau 100% (m/w/d)|CH-4142 Münchenstein|Alfred Imhof Holding AG
+3257327458|Head Customer Service|Rotkreuz (Office-Based)|Novartis AG
+3257345671|Leiter Customer Service|8197 Rafz|Alfa-Klebstoffe AG
+3257347461|Leiter After Sales|Aesch / BL|hoffmann automobile ag
+3257347851|Head of Customer Service B2C (w/m/d) 80% - 100%|Rotkreuz|Mobility Genossenschaft
+325733544b|Chef de Service mit Schwerpunkt Event 60-100% (w/m/d)|CH-8800 Thalwil|ecus. AG
+325732774a|Chef de Service (m/w) Restaurantleiter (m/w/d)|Flühli|Hotel Rischli AG
+325735374f|Leiter:in Service-Center Nord (alle) 100%|Biel-Benken|Hinni AG
+3257344446|Leiter/in Multikanal Service 80% - 100% nach Vereinbarung|Baar|Zuger Kantonalbank
+3257354b56|Leiter/in Multikanal Service|Baar|Zuger Kantonalbank
+3257313679|Teamleiter/in Kundenservice-Center 80-100%|Bern|Visana Services AG
+3257306637|Teamleader Sales Support 100%|CH-6343 Rotkreuz|Bechtle direct AG
+3257324f6a|Leiter Service mit Schwerpunkt Anlagen- und Maschinenbau 100 %|4142 Münchenstein|Alfred Imhof AG
+3257324773|Senior Service Manager 80-100%|Zurich (Headquarter)|Sunrise GmbH
+3257326e53|Senior Service Manager 80-100%|8152 Zurich (Headquarter)|Sunrise GmbH
+3257303269|Leiter/in Kundendienst 100?%|CH-2557 Studen BE|FORS AG
+3257316346|Leiter*in Aftersales 80-100%|CH-6020 Emmenbrücke|Hammer Auto Center AG, Emmenbrücke
+3257305876|Leitung Customer Service & Insurance Management (m/w/d), 100%|CH-6010 Kriens|Fresenius Kabi (Schweiz) AG
+3257304e64|Leiter Customer Service (m/w) 100%|CH-8197 Rafz|Alfa-Klebstoffe AG
+3257313946|Teamleader:in Service 60-80%|8004 Zürich Europaallee|Two Spice AG
+325732314b|Leiter*in Aftersales in Alpnach 80-100%|6021 Alpnach Dorf|Hammer Auto Center AG
+3257323235|Leitung Hauswirtschaft und Service Pflegewohnen 80 % (m/w)|CH-6006 Luzern|St. Anna Stiftung
+32567a445a|Stellvertretung Leiter:in Customer Service 80% - 100%|5405 Dättwil|Oertli Ophthalmedic Schweiz AG
+3256793359|Serviceleiter Beton-, Tunnel- und Bergbautechnik 100%|8105 Regensdorf|Robert Aebi AG
+32567a6656|Leiter/in After Sales|8050 Zürich|Emil Frey AG
+32566f7466|Objektmanager / Service Manager|8050 Zürich|Zumtobel Licht AG
+32566f7651|Servicetechniker Werkzeugmaschinen / Fördertechnik mit Zusatzfunktion als STV. Serviceleiter|8200 Schaffhausen|Apleona Schweiz AG
+325657756b|Serviceleiter Westschweiz (m/w/d)|Biel/Bienne|Mathieu & Partner AG
+32564a3872|Teamleitung Service (m/w/d) 100%|CH-4058 Basel|Krafft AG
+#service1|D|page=2|headline=255 Jobs gefunden|count=77|next=NONE
+3255754543|Service Manager/-in, 80 - 100 %|Bern Berne|Kanton Bern
+32564f4a63|Kundendienstleiter|6210 Zentralschweiz|Personal Sigma Sursee AG
+3254747555|TeamleiterIn Support|Rothenburg Lucerne|Opacc Software AG
+#service1|W|page=1|headline=82 Jobs in der Websuche gefunden|count=82|next=NONE
+3257363337|Leiter Aftersales Automobil 100%|CH-8640 Rapperswil SG|Asanti AG
+3257334a51|Leiter Aftersales Automobil 100%|CH-8640 Hurden|Asanti AG
+3257334357|Servicetechniker Metallbau mit Perspektive zum Leiter Service (m/w/d) 100 %|CH-9008 St. Gallen|das team ag
+3257334634|Leiter Service Gebäudetechnik, 80-100%|CH-6060 Sarnen|Persigo AG
+3257333464|Servicetechniker Metallbau mit Perspektive zum Leiter Service (m/w/d) 100 %|CH-9008 St. Gallen|das team ag
+3257323856|teamleiter / servicetechniker (w/m/d)|Wattwil|progress personal ag
+3257323779|Serviceleiter Beton-, Tunnel- und Bergbautechnik 100% (m/w)|Regensdorf|Robert Aebi AG
+3257313366|Stv. Kundendienstleiter / Werkstatt NFZ|Region Frauenfeld|Atlantis Personal AG
+3257324379|Verkäufer*in Blumen und Kundendienst|Zürich|Migros-Genossenschafts-Bund
+32567a346d|Leiter Aftersales Automobil 100%|8640 Oberer Zürichsee|Asanti AG
+3256707458|Head of Customer Service|Dällikon|humanik AG
+#qualitaet1|D|page=1|headline=89 Jobs gefunden|count=56|next=NONE
+325735564f|Leiter Qualitätssicherung & QMB (m/w) 100%|Flawil|OMB Maschinenfabrik AG
+325732494c|Leiter:in Sicherheit, Qualität und Umwelt Region Mitte, Infrastruktur|Olten, CH|Schweizerische Bundesbahnen SBB
+325730536a|Leiter/in Qualitätsmanagement Gruppe 100%|CH-3555 Trubschachen|Kambly SA Spécialités de Biscuits Suisses
+32567a4842|Sachbearbeiter:in / Qualitätsverantwortliche:r Heimlieferung|3172 Niederwangen BE|Swiss Household Services AG
+32567a6350|Responsable Qualité (H/F)|Saint-Imier, CH|PATEK PHILIPPE SA GENEVE
+3257324c6c|Leitung Beschaffung / QM 80-100%|6210 Kanton Luzern|Personal Sigma Sursee AG
+3257314b41|Leiter Qualitätssicherung (m/w/d)|Canton of Solothurn / Bettlach|Randstad (Schweiz) AG
+3256687073|Leiter Vertriebssteuerung & QM|Basel|Sympany Versicherungen AG
+325661566d|Leiter/-in Qualitätsmanagement Rettung|4051 Basel|Kanton Basel-Stadt
+#qualitaet1|W|page=1|headline=35 Jobs in der Websuche gefunden|count=35|next=NONE
+3257335449|Director - Quality and Responsible Person 40%|CH-6003 Luzern|Swisslinx AG
+3257334876|Leiter Qualitätswesen / QMB (m/w) 100%|CH-8200 Schaffhausen|Stettler Consulting AG
+3257343956|Responsable Qualité (H/F)|Région de Bienne|JOB WATCH SA
+3257326853|Director - Quality and Responsible Person|Luzern, Hybrid|Swisslinx AG
+32567a5841|Head of Quality Management 100% (m/w/d)|Langnau im Emmental|Universal-Job AG
+#digital1|D|page=1|headline=207 Jobs gefunden|count=104|next=2
+3257323444|Verantwortlicher Interne Buchhaltung 60-100% (a)|8001 Zürich|Art of Work Personalberatung AG
+3257357361|Service Specialist / Application Manager ERP - AX und D365 F&O (m/w/d) 80-100%|CH-6038 Gisikon|Sabag Holding AG
+325735744a|ERP Berater / Projektleiter / Supporter Warenwirtschaftssystem im Gesundheitswesen 80-100%|CH-8105 Regensdorf|OPALE SOLUTIONS SA
+3257364274|Senior Consultant/Manager — Life Sciences Commercial Transformation, 25696 100%|CH-8005 Zürich|Deloitte AG
+325735666e|Project Manager - Digital Health (80 - 100%)|CH-8004 Zürich|CISTEC AG
+3257346652|Service Specialist / Application Manager ERP Finance (m/w/d) 80-100%|CH-6038 Gisikon|Sabag Holding AG
+325735474f|Project Manager Digital Workplace|Bern, Basel, Zürich|isolutions AG
+3257354a4e|ERP Berater / Projektleiter / Supporter Warenwirtschaftssystem im Gesundheitswesen|8105 Regensdorf|OPALE SOLUTIONS SA
+3257335568|Consultant (Projektleiter und Support) für ERP-Lösungsbereich Patientenmanagement 80-100%|CH-8105 Watt|OPALE SOLUTIONS SA
+3257353245|Senior Consultant - Healthcare Data & Digital Transformation|Zug Basel|IQVIA AG
+325734796d|Forward Deployment Engineer - Trial Simulation & Protocol Design|Kaiseraugst, Aargau|F. Hoffmann-La Roche AG
+325732666e|Service Specialist / Application Manager ERP Finance (m/w/d) 80-100%|Gisikon|Sabag Holding AG
+3257326666|Service Specialist / Application Manager ERP - AX und D365 F&O (m/w/d) 80-100%|Gisikon|Sabag Holding AG
+3257323276|Head of Digital Health Unit (80 - 100%)|CH-4051 Basel|Universität Basel
+3257313076|Leiter Digitalisierung & IT 80-100 %, (a)|CH-6260 Reiden|F. Borner AG
+325731786a|Head of Digital Health Unit (80 - 100%)|CH-4123 Allschwil|Schweizerisches Tropen- und Public Health-Institut
+325679504d|Experienced Consultant Transformation & AI Enablement Re/Insurance 80-100% (m/w/d)|Zürich|BearingPoint AG
+3257315654|ERP-Consultant|6038 Gisikon|Consult & Pepper AG
+3256716a51|Business Analyst & Consultant im ERP-Umfeld|8006 Zürich|Tocco AG
+3256793164|ERP-Consultant|6038 Gisikon|Consult & Pepper AG
+32566e5673|Business Analyst & Consultant im ERP-Umfeld (80-100 %)|CH-8006 Zürich|Tocco AG
+3253546e53|Global Adhesive Engineering & Digital Transformation Leader (m/f/d)|Freienbach, Schwyz|DuPont de Nemours International Sàrl
+#digital1|D|page=2|headline=207 Jobs gefunden|count=22|next=NONE
+324f624c65|ProjektleiterIn ERP Junior / Senior|Rothenburg Lucerne|Opacc Software AG
+#digital1|W|page=1|headline=89 Jobs in der Websuche gefunden|count=89|next=NONE
+3257363455|Erfahrener ERP Business Analyst mit Fokus Finanzen 80-100%|CH-3004 Bern|p4b ag
+325734444d|ERP ProjektleiterIn (m/w/d) 80%-100%|Lenzburg|VIS Consulting AG
+325734465a|ERP-Consultant (Finanzen / HR) (a)|Gisikon|Consult & Pepper AG
+3257333345|ERP-Consultant 60-100%|CH-6038 Gisikon|Consult & Pepper AG
+3257346666|ERP-Consultant (Finanzen / HR) (a) 100%|CH-6038 Gisikon|Consult & Pepper AG
+3257327363|ERP Project Manager - Digitalisierung (m/w/d)|Basel|Rocken AG
+325732736a|ERP Projektleiter AbaProject (m/w/d)|Zürich|Rocken AG
+32567a7766|ERP-Consultant 80-100%|CH-6038 Gisikon|Consult & Pepper AG
+3257316965|ERP Project Manager ABACUS (HR & Payroll) (m/w/d)|Schlieren|Rocken AG
+3257305869|Spezialist/in Finanzbuchhaltung - Einstieg in die ERP-Beratung als ABACUS Consultant 100%|CH-4002 Basel|PKS Personal AG
+325730616e|LEITER/IN DIGITALE TRANSFORMATION 80% - 100%|CH-3173 Oberwangen b. Bern|Xeloba GmbH
+3257306176|Leiter/in Digitalisierung & IT 80% - 100%|CH-6260 Reiden|Xeloba GmbH
+#ops2|D|page=1|headline=511 Jobs gefunden|count=107|next=2
+3257364839|Stv. Leitung Pflege & Betreuung 80-100%|CH-3706 Leissigen|SOLVIVA Care AG
+325736374f|Stellvertretende Leitung Hauswirtschaft 60-90%|CH-3550 Langnau im Emmental|dahlia Verein
+3257364b79|Stv. Leiterin / Stv. Leiter Information / Telefonzentrale -80%|CH-8400 Winterthur|Kantonsspital Winterthur
+325736476f|Global Associate Director, Patient Strategy & Partnerships 100%|CH-4123 Allschwil|Abbott AG
+3257363050|COO / Leiter:in Projektumsetzung & Mitglied der Geschäftsleitung 80-100%|CH-6034 Inwil|Obrist interior AG
+3257356943|Catering-Mitarbeiter:in mit Stv.- Funktion 100-100%|Bern|Genossenschaft ZFV-Unternehmungen
+3257333173|Stv. Leiter/in Bio- und Gartenbad 80 %|CH-8952 Schlieren|Stadt Schlieren
+3257355573|Stellvertretende Leitung F&B Operations & Bankettadministration (m/w/d) im Hotel Restaurant La Couronne60% - 100%|4500 Solothurn|Genossenschaft Baseltor
+3257354748|Vice President, Regulatory Affairs - CMC Large Molecule and Device Quality & Regulatory|Zurich|MSD Merck Sharp & Dohme AG
+3257353475|Projektleiter / Stv. Leiter Realisierung (w/m/d) 80-100%|CH-8820 Wädenswil|Uster AG, Planer + Architekten, Immobilientreuhänder
+325733796e|Associate Director - Scientific Data, Modeling & AI (m/f/d)|Basel (City)|Novartis AG
+325733304d|Stv. Leiterin / Stv. Leiter Information / Telefonzentrale 80%|CH-8401 Winterthur|Kantonsspital Winterthur
+3257356a68|COO / Leiter:in Projektumsetzung & Mitglied der Geschäftsleitung|6034 Inwil|Obrist interior AG
+3257303833|Associate Director, Engineering Excellence 100%|CH-8212 Neuhausen am Rheinfall|Tyco Fire & Security GmbH
+3257316978|BAULEITER:IN / gesucht per sofort oder nach Vereinbarung MIT POTENTIAL STV. LEITER AUSFÜHRUNG Arbeitspensum 80-100%|CH-8400 Winterthur|Baumgartner Partner Architekten AG
+32567a7833|Stellvertretende Leitung Langzeitpsychiatrie 80-100%|CH-8707 Uetikon am See|averecura ag
+3257315650|Stellvertretende Leitung Hauswirtschaft 60-90%|3550 Langnau im Emmental|dahlia Verein
+325730486d|PRODUKTIONSSUPPORT TECHNIK UND PROZESSE / STV. LEITUNG PRODUKTION (60-100%)|CH-3415 Hasle b. Burgdorf|Phytomed AG
+3257326f4e|Global Associate Director, Patient Strategy & Partnerships|4123 Allschwil|Abbott AG
+325731384a|Stv. Leiter Nachtreinigung|Root, LU|Fredag AG
+3257317a6f|2. Stv. Geschäftsführer:in (Rayonleiter:in Nonfood) 80-100%|Amriswil|Coop Genossenschaft
+3257326c39|Associate Director, Study Site Engagement|Zurich, Canton of Zurich|Takeda Pharmaceuticals International AG
+32567a5756|Associate Director, Engineering Excellence|Schaffhausen, Neuhausen|Johnson Controls
+325679475a|Associate Director Clinical Pharmacology|CH-4123 Allschwil|Alentis Therapeutics AG
+32567a6b37|Stv. Leitung Event und Themenfahrten (a) 80-100%|6002 Luzern|Tavolago AG
+325679596c|Stv. Leitung Event und Themenfahrten (a) 80% - 100%|CH-6005 Luzern|Tavolago AG
+3256735a41|Director of Hotel Operations 100%|CH-4052 Basel|River Advice AG
+#ops2|D|page=2|headline=511 Jobs gefunden|count=104|next=3
+3256634745|Stellvertretende Leitung Tierhaltung|8008 Schweizerische Epilepsie-Stiftung / Bleulerstrasse|Schweizerische Epilepsie-Stiftung
+3256566241|Stv. Leitung Service 80-100%|CH-4147 Aesch BL|Alterszentrum im Brüel Aesch-Pfeffingen
+3256564651|Stv. Leitung Hauswirtschaft|8808 Pfäffikon (SZ)|TERTIANUM AG
+325645756f|Stellvertretende Leitung Tourist Information (60 %)|Ringgenberg BE|Tourismusverein Ringgenberg-Goldswil-Niederried
+#ops2|D|page=3|headline=511 Jobs gefunden|count=104|next=4
+#ops2|D|page=4|headline=511 Jobs gefunden|count=86|next=NONE
+#ops2|D|page=5|headline=511 Jobs gefunden|count=4|next=NONE
+#ops2|W|page=1|headline=129 Jobs in der Websuche gefunden|count=100|next=2
+3257356250|Revenue Operations Manager - Schwerpunkt Sales & CRM (m/w/d)|Zürich|Randstad (Schweiz) AG
+3257344469|Finance & Business Operations Manager - Accounting & Controlling|Basel|Clear Solutions Laboratories AG
+3257346e5a|Associate Director - Scientific Data, Modeling & AI 100%|CH-4000 Basel|avec compétence (avecco) GmbH
+3257347245|Associate Director - Scientific Data, Modeling & AI 100%|4000 Basel (BS)|avec compétence (avecco) GmbH
+3257347246|Associate Director, AI Engineer 100%|4000 Basel (BS)|avec compétence (avecco) GmbH
+325678745a|Nah am Bett, stark im Team - Stv. Leitung Pflege 60-100 %|Berner Oberland|Careerplus SA
+325679784c|Stellvertretende Leitung Langzeitpsychiatrie 80-100%|Uetikon am See|averecura ag
+#ops2|W|page=2|headline=129 Jobs in der Websuche gefunden|count=29|next=NONE
+#ops3|D|page=1|headline=215 Jobs gefunden|count=102|next=2
+3257364334|Stellvertretende Betriebsleitung 80-100%|CH-4051 Basel|Gastro Basel AG
+3257357355|Betriebsleiter/-in kantonaler Strassenunterhalt 80-100%|CH-8492 Wila|Kanton Zürich Baudirektion, Generalsekretariat
+#ops3|D|page=2|headline=215 Jobs gefunden|count=68|next=NONE
+#ops3|W|page=1|headline=49 Jobs in der Websuche gefunden|count=49|next=NONE
+#gl2|D|page=1|headline=1’519 Jobs gefunden|count=107|next=2
+3257317932|Bereichsleiter/in Akquisition & Planung, Geschäftsfeld Realisation, 80-100%|Glattpark (Opfikon)|Allreal-Gruppe
+3257356e41|Ressortleiter/in Spezialreinigung (80 - 100%)|Frenkendorf|Top Services Group AG
+3257355545|Abteilungsleiter:in Anästhesiepflege 80-100%|3010 Bern|Insel Gruppe
+325735774a|Bereichsleiter*in Food / Non Food 100%|CH-3550 Langnau im Emmental|Genossenschaft Migros Aare
+325736306e|Leitung Tech-Hub, Mitglied der Geschäftsleitung 80-100%|CH-3004 Bern|Stämpfli AG
+3257335a49|Assistenz Bereichsleitung Erwachsenenbereich 80% - Referenz WO213|CH-4600 Olten|Stiftung Arkadis
+3257335050|Bereichsleiter/in Finanzen und Controlling 100%|CH-5600 Lenzburg|Alterszentrum Obere Mühle AG
+3257344369|Fachverantwortliche/r Sicherheit / Stv. Abteilungsleitung Bau + Sicherheit (80 - 100 %)|CH-8306 Brüttisellen|Gemeinde Wangen-Brüttisellen
+3257344158|Abteilungsleitung Werkhof und Stadtgrün im Amt für Tiefbau und Verkehr|CH-8501 Frauenfeld|Stadt Frauenfeld
+3257333778|Leiter/in Abteilung Stipendien und Studiendarlehen 90%|CH-9000 St. Gallen|Kanton St.Gallen
+3257343035|Stellvertreter:in Bereichsleiterin Schulen 50-80%|CH-2540 Grenchen|Verein Bachtelen Kinderheime und Sonderschulen
+3257356946|Abteilungsleiter:in Holzbau - 100%|6078 Lungern|HP Gasser AG
+3257356a45|Bereichsleiter:in Hochspannungsleitungen|4542 Luterbach|Arnold AG
+3257333338|Leiter:in Abteilung Sicherheit (80-100 %)|CH-3098 Köniz|Gemeinde Köniz
+3257337278|Abteilungsleitung Werkhof und Stadtgrün im Amt für Tiefbau und Verkehr|8500 Frauenfeld|Stadt Frauenfeld
+3257356347|Ressortleiter/-in Brückenbauer 50-100%|CH-4001 Basel|Kanton Basel-Stadt
+3257356344|Ressortleiter/-in Erwachseneninterventionen 50-100%|CH-4001 Basel|Kanton Basel-Stadt
+3257356346|Ressortleiter/-in Online-Polizeiposten 50-100%|CH-4001 Basel|Kanton Basel-Stadt
+3257356345|Ressortleiter/-in Polizeiposten Basel 50-100%|CH-4001 Basel|Kanton Basel-Stadt
+325734715a|Bereichsleiter:in Administration/Finanzen / Mitglied der Geschäftsleitung100 %|CH-8157 Dielsdorf|Zweckverband Gesundheitszentrum Dielsdorf
+325734586d|Abteilungsleiter/-in Geotechnik und Wasserbau 80 - 100%|Bern|CSD Ingenieure AG
+3257344f6f|Stellvertretung Fachbereichsleitung und Fachperson Familienhilfe 70-80%|4900 Langenthal|Schoio AG
+3257354745|Leitung Tech-Hub, Mitglied der Geschäftsleitung|CH-3006 Bern|Stämpfli AG
+3257354734|Chief Technology Officer (CTO) (m/w/d) - Technologie, Produktentwicklung & Kundenberatung - Mitglied der Geschäftsleitung|CH-2502 Biel/Bienne|Aartesys AG
+325735374c|Bereichsleiter:in Hochspannungsleitungen (alle) 100%|Luterbach|Arnold AG
+3257347569|Spartenleiter / Bauführer Erneuerungsbau (m/w) 80-100 %|CH-4852 Rothrist|Gebr. Hallwyler AG, Hoch- und Tiefbau
+3257343972|Bereichsleiter:in Elektro 80-100%|Zürich|ISS Schweiz
+325733377a|Bereichsleiter*in Food / Non Food 80-100%|CH-3550 Langnau im Emmental|Genossenschaft Migros Aare
+3257356a59|Leitung Tech-Hub, Mitglied der Geschäftsleitung|3001 Bern|Stämpfli AG
+3257354f49|Ressortleiter Cloud Systems|8401 Theaterstrasse, Winterthur, Schweiz|Bison Schweiz AG
+325734616e|Ressortleiter Cloud Systems (w/m/d) -100%|8400 Winterthur|Bison Schweiz AG
+3257346563|Leitung des Fachbereiches «Nachhaltiger Pflanzenschutz und Sorten» 80-100%|Liebefeld|Eidgenössisches Departement für Wirtschaft, Bildung und Forschung (WBF)
+3257345446|Bereichsleiter*in immobilienbewirtschaftung und Vermietung|8003 Zürich|Baugenossenschaft Rotach Zürich
+3257343976|Departementsleiterin / Departementsleiter Pflege/MTT 80-100%|CH-4031 Basel|Universitätsspital Basel
+3257347366|Abteilungsleiter*in Food 80 - 100%|9542 Münchwilen|Genossenschaft Migros Ostschweiz
+325731734d|Bereichsleiter:in Heizung & lüftung|CH-9200 Gossau SG|Schwizer Haustechnik AG
+3257324d66|Leiter/in Abteilung Stipendien und Studiendarlehen|9000 St.Gallen|Kanton St.Gallen
+3257325130|Bereichsleitung Verarbeitung & Handel|4052 Basel|Bio Suisse, Vereinigung Schweizer Biolandbau-Organisationen
+32567a7530|Sektorchef Operations 100% Revierbewachungen (m/w/d)|CH-8400 Winterthur|Securitas AG Schweizerische Bewachungsgesellschaft
+3257315a4b|Assistent:in Bereichsleitung Inbetriebsetzung 100%|Bussnang, Weinfelden, Erlen|Stadler Rail Group
+325731634a|Stv. Leitung Fachbereich Schulpersonal, 80 %|CH-8048 Zürich|Stadt Zürich
+3257315146|Bereichsleitung Verarbeitung & Handel (V&H) 80-100%|CH-4052 Basel|Bio Suisse, Vereinigung Schweizer Biolandbau-Organisationen
+325731567a|Leiter*in Bereich Berufspraxis und Professionalisierung|5210 Windisch|Fachhochschule Nordwestschweiz FHNW
+3257314e38|Leiter/in Abteilung Stipendien und Studiendarlehen (m/w/d) 80-100%|St.Gallen|Kanton St.Gallen
+3257304d64|Bereichsleiter/in Finanzen und Controlling 60%|CH-5600 Lenzburg|Alterszentrum Obere Mühle AG
+3257304f55|Bereichsleitung Wohnen & Mitglied der Geschäftsleitung 80-100 %|CH-8620 Wetzikon ZH|IWAZ Schweizerisches Wohn- und Arbeitszentrum für Mobilitätsbehinderte
+325730526c|Leitung Finanzen / CFO, Mitglied der Geschäftsleitung 80-100%|CH-8400 Winterthur|Sanacare AG
+3257317938|Stv. Abteilungsleiterin / Stv. Abteilungsleiter Verarbeitung (100%)|CH-6144 Zell|Bell Schweiz AG
+325732334f|Leitung Finanzen / CFO, Mitglied der Geschäftsleitung von Sanacare (w/m/d),80-100%, Winterthur / hybrid|Winterthur|Sanitas Krankenversicherung
+3257323252|Fachbereichsleitung Unterricht|CH-8038 Zürich|Stadt Zürich
+#gl2|D|page=2|headline=1’519 Jobs gefunden|count=104|next=3
+3257316f49|Abteilungsleitung Offene Jugendarbeit Zentrum 60-80%|CH-9000 St. Gallen|Stadt St. Gallen
+3257313373|Abteilungsleitung Werkhof und Stadtgrün im Amt für Tiefbau und Verkehr|CH-8500 Frauenfeld|Stadt Frauenfeld
+3257316967|Bereichsleitung Beratung und Unterstützung|CH-8200 Schaffhausen|Unterstützende Dienste Sandacker, Schaffhauser Sonderschulen
+3257316870|General Manager - Novotel Zürich Airport Messe (m/w/d)|Zürich|Novotel Hotels & Resorts
+3257307651|Co-Leitung Sozialdienst/Betreuung 60-70%|8932 Mettmenstetten (ZH)|Stiftung Werk- und Wohnhaus zur Weid
+3257325135|Bereichsleiter*in Food / Non Food|3550 Langnau|Genossenschaft Migros Aare
+3257327159|Front of House Manager / Asst. General Manager (a) 100%|CH-6005 Luzern|Tavolago AG
+3257315545|Leiter*in Ressort Hochschule und Gesellschaft|5210 Windisch|Fachhochschule Nordwestschweiz FHNW
+3257313837|Fachbereichsleitung Unterricht, 85 %|CH-8048 Zürich|Stadt Zürich
+3257304f38|Abteilungsleitung Restaurants 100%|CH-3645 Gwatt (Thun)|Stiftung TRANSfair
+3257307263|Stv. Abteilungsleiter:in Webshop Logistik|6210 Sursee|OTTO'S AG
+3257307266|Stv. Abteilungsleiter:in Webshop Logistik|6210 Sursee|OTTO'S AG
+3257323364|Section Head Molecular Discovery Technologies|Basel, Basel-City|F. Hoffmann-La Roche AG
+3257345557|Leiter/in immobilienmanagement / Mitglied der Geschäftsleitung|8005 Region Zürich|guido schilling ag
+3256794e4d|Fachbereichsleitung Gesundheit MNA / Diplomierte Pflegefachperson FH 80-100% (m/w/d)|Zürich|Caritas Schweiz
+3256794938|Assistenz Bereichsleitung Erwachsenenbereich 80%|CH-4600 Olten|Stiftung Arkadis
+3256794a6d|Assistentin / Assistent Bereichsleitung Hotellerie mit Stellvertretungsfunktion (80 - 100%)|CH-8180 Bülach|Stiftung Alterszentrum Region Bülach
+3256794947|Stellvertrende Bereichsleitung Landverkehre Pratteln|Pratteln|Gebrüder Weiss AG
+3256793150|Bereichsleiter/in Finanzen und Controlling|5600 Lenzburg|Alterszentrum Obere Mühle AG
+32567a6a65|Stv. Regionenleiter:in Birsfelden, Muttenz, Pratteln|4133 Pratteln|Basellandschaftliche Kantonalbank
+3256796a57|Leiter:in Abteilung Bildung und Technologie|CH-8001 Zürich|Literargymnasium Rämibühl Zürich
+3256796c70|Leiterin/Leiter Finanzen (100%) Mitglied der Geschäftsleitung|CH-5430 Wettingen|Regionale Verkehrsbetriebe Baden-Wettingen (RVBW) AG
+32567a5679|Department Manager - Skincare - Unbefristeter Vertrag 80-100% - Zürich Sihlcity - Januar 2027|Zürich|Sephora Switzerland SA
+32567a567a|Department Manager - Make-up - Unbefristeter Vertrag 80-100% - Zürich Sihlcity - Januar 2027|Zürich|Sephora Switzerland SA
+3256735250|Abteilungsleiter:in Food/Non-Food|3422 Kirchberg|OTTO'S AG
+3256735265|Abteilungsleiter:in Food/Non-Food|3604 Thun|OTTO'S AG
+#gl2|D|page=3|headline=1’519 Jobs gefunden|count=104|next=4
+3256746972|Abteilungsleiter:in Food/Non-Food|8604 Volketswil|OTTO'S AG
+3256746965|Abteilungsleiter:in Möbel|8404 Winterthur|OTTO'S AG
+3256746873|Abteilungsleiter:in Textil/Sport|8048 Zürich|OTTO'S AG
+3256746945|Abteilungsleiter:in Food/Non-Food|8887 Mels|OTTO'S AG
+3256746968|Abteilungsleiter:in Food/Non-Food|8500 Frauenfeld|OTTO'S AG
+3256726d50|Leitung Finanzen / CFO, Mitglied der Geschäftsleitung|8400 Winterthur|Sanacare AG
+32567a4555|Fachbereichsleiter oder Teamleiter Technischer Verkauf Innendienst 100%|Giswil / Kanton Obwalden|Gi Group SA
+32567a676a|Neue Standortleitung Ilgenmoos und Mitglied der Geschäftsleitung|8307 Kanton Zürich|Vokus Personal AG
+32566e7477|Nachwuchsfachperson mit Ziel Fach- oder Bereichsleitung, Region Luzern-Land 100%|CH-6210 Sursee|Genossenschaft Migros Luzern, in Dierikon
+32566d3747|Abteilungsleiter:in 80-100% I Metro Boutique Schönbühl (Shoppyland)|Urtenen-Schönbühl|Metro Boutiques AG
+#gl2|D|page=4|headline=1’519 Jobs gefunden|count=104|next=5
+32566a4856|Leiterin/Leiter Finanzen und Mitglied der erweiterten Geschäftsleitung 80-100%|CH-8835 Feusisberg|Marigin AG
+3256683646|Abteilungsleiterin/Abteilungsleiter Bau + Sicherheit (80 - 100 %) / Mitglied der Geschäftsleitung|CH-8306 Brüttisellen|Gemeinde Wangen-Brüttisellen
+325666426a|Abteilungsleiter*in Metzgerei 100%|CH-8620 Wetzikon ZH|Genossenschaft Migros Ostschweiz
+3256666c4f|Abteilungsleiter/in Onkologie und Spezialisierte Palliative Care 80-100%|CH-3012 Bern|Lindenhofgruppe AG
+3256656674|Leitung Zentrale Dienste - Mitglied der Geschäftsleitung 80-100%|CH-4528 Zuchwil|Ausgleichskasse des Kantons Solothurn (AKSO)
+#gl2|D|page=5|headline=1’519 Jobs gefunden|count=104|next=6
+3256596872|Directeur·trice du département Marché & Vente 100%|CH-3176 Neuenegg|Ofac société coopérative
+3256615866|Abteilungsleiter Wareneingang 100%|4900 Langenthal|BAUHAUS Fachcentren AG
+3256733458|Abteilungsleitung PPS & AVOR|4001 Basel|persona service AG
+3256545a42|Bereichsleiter*in Krea-Werkstätten 80%|3400 Burgdorf|Stiftung intact
+3256554c68|Bereichsleiter*in Archäologie & Denkmalpflege|Zürich|Stadt Zürich
+#gl2|D|page=6|headline=1’519 Jobs gefunden|count=104|next=7
+32564c454a|Abteilungsleiter:in Textil 80-100%|6300 Zug|Ochsner Sport AG
+3256464f4d|Abteilungsleiter:in Outdoor 80-100%|8180 Bülach|Ochsner Sport AG
+#gl2|D|page=7|headline=1’519 Jobs gefunden|count=104|next=8
+3256304c50|Abteilungsleiter:in Run&Train 80-100%|6003 Luzern Pilatus|Ochsner Sport AG
+325630784c|Abteilungsleiter:in Möbel|3661 Uetendorf|OTTO'S AG
+3255725832|Fachbereichsleiter/in Unterricht Zyklus 2 - Kognitive Entwicklung|6276 Hohenrain|Kanton Luzern
+#gl2|D|page=8|headline=1’519 Jobs gefunden|count=104|next=9
+3255656242|Abteilungsleitung Wohnen 50-80%|4133 Pratteln|Stiftung Adulta
+3255616c43|Abteilungsleitung Notfallpflege und Aufnahmestation|4310 Rheinfelden|Gesundheitszentrum Fricktal AG
+32554a3759|Oberärzt:in in der Funktion Stv. Abteilungsleiter:in|3010 Bern|Insel Gruppe
+#gl2|D|page=9|headline=1’519 Jobs gefunden|count=104|next=10
+32544e5574|Abteilungsleiter:in Run & Train 100%|6300 Zug|Ochsner Sport AG
+32536c6353|Das Team - vo Bärn für Bärn|Bern|Renovation-Bern AG
+#gl2|D|page=10|headline=1’519 Jobs gefunden|count=104|next=11
+3252396569|Abteilungsleiter:in Bike & Ski 100%|8207 Schaffhausen|Ochsner Sport AG
+324e596961|Abteilungsleiter:in Run & Train/Multisport 100%|8808 Pfäffikon SZ|Ochsner Sport AG
+#gl2|D|page=11|headline=1’519 Jobs gefunden|count=71|next=NONE
+#gl2|D|page=12|headline=1’519 Jobs gefunden|count=4|next=NONE
+#gl2|W|page=1|headline=452 Jobs in der Websuche gefunden|count=100|next=2
+3257336b77|Fachbereichsleiter Brandschutz (a)|Solothurn, Solothurn, Solothurn|Gi Group SA
+3257335043|Chief HR Officer und Mitglied der Geschäftsleitung (m/w) 100%|CH-4600 Olten|oprandi & partner ag
+3257335572|Business-Unit-Leiter:in Verkehrsinfrastruktur Region Nordost 100%|CH-3004 Bern|e-selection AG
+3257344876|Bereichsleiter*in Food / Non Food|Langnau im Emmental|Genossenschaft Migros Aare
+3257346370|Ressortleiter Cloud Systems (w/m/d)|8401 Theaterstrasse, Winterthur, Schweiz|fenaco Genossenschaft
+3257354138|Abteilungsleiter*in Betriebslogistik|3225 Müntschemier, Berne|Flexsis SA
+3257347933|Abteilungsleiter Bike/Ski 100% 100% (m/w/d)|Luzern|Universal-Job AG
+3257346775|Leiter/in immobilienmanagement / Mitglied der Geschäftsleitung 80-100%|CH-8005 Zürich|guido schilling ag
+3257317166|Leiter/in Abteilung Stipendien und Studiendarlehen (m/w/d) 90-100%|9000 St.Gallen|Kanton St.Gallen
+325732434c|Stv. Regionenleiter:in Birsfelden, Muttenz, Pratteln (60% - 100%)|Pratteln|Basellandschaftliche Kantonalbank
+3257304269|BEREICHSLEITER ELEKTROINSTALLATIONEN 100%|CH-8001 Zürich|Thomson Consulting AG
+3257316e47|Senior Projektleiter Abwasser / Stv, GBL Luzern (m/w/d)|Luzern|Hays (Schweiz) AG
+325730324f|FACHBEREICHSLEITER:IN TRAGWERKSPLANUNG (w/m/d) 80-100%|CH-3000 Bern|ZÜRCHER Consulting
+3257314261|Abteilungsleiter*in Food/Non Food|Thurgau / Müllheim|Genossenschaft Migros Ostschweiz
+3257314278|Abteilungsleiter*in Frische|St. Gallen / Gossau|Genossenschaft Migros Ostschweiz
+3257314276|Nachwuchsfachperson mit Ziel Fach- oder Bereichsleitung, Region Nid- und Obwalden|Nidwalden / Stans|Genossenschaft Migros Luzern, in Dierikon
+325731426f|Nachwuchsfachperson mit Ziel Fach- oder Bereichsleitung, MM Sarnen-Center|Canton of Obwalden / Sarnen|Genossenschaft Migros Luzern, in Dierikon
+3257314337|Abteilungsleiter*in Früchte/Gemüse|Thurgau / Arbon|Genossenschaft Migros Ostschweiz
+3256794545|Fachbereichsleiter oder Teamleiter Technischer Verkauf Innendienst 100% (a)|Giswil, Obwalden, Obwalden|Gi Group SA
+3256797838|Bereichsleitung Wohnen & Mitglied der Geschäftsleitung 100 %|Wetzikon ZH|IWAZ Schweizerisches Wohn- und Arbeitszentrum für Mobilitätsbehinderte
+3256795a53|Stv. Abteilungsleiterin (Abteilungsleiter Verarbeitung) 100% (m/w/d)|Luzern|Universal-Job AG
+3256786846|Nachwuchsprogramm: Abteilungsleiter*in Supermarkt|Aargau / Brugg|Genossenschaft Migros Aare
+3256797441|Stellvertretender Abteilungsleiter Schleiferei 100%|9113 Degersheim|Angehrn AG Umformtechnik
+3256794c68|Chief HR Officer und Mitglied der Geschäftsleitung (m/w)|Mittelland|oprandi & partner ag
+#gl2|W|page=2|headline=452 Jobs in der Websuche gefunden|count=100|next=3
+32556c346d|Leitung Kompetenzzentrum Tierschutz, Mitglied der Geschäftsleitung|8048 Zürich-Altstetten|Jörg Lienert AG
+#gl2|W|page=3|headline=452 Jobs in der Websuche gefunden|count=100|next=4
+3255464676|Leiter/in Shared Services - Mitglied der Geschäftsleitung|Mittelland|Jörg Lienert AG
+32544d564f|Teamleiter/in Heizung & Sanitär, Mitglied Geschäftsleitung (m/w/d)|Thun|Randstad (Schweiz) AG
+3254487346|CFO, Mitglied der Geschäftsleitung|4153 Reinach / BL|Jörg Lienert AG
+#gl2|W|page=4|headline=452 Jobs in der Websuche gefunden|count=100|next=5
+#gl2|W|page=5|headline=452 Jobs in der Websuche gefunden|count=52|next=NONE
+#gl3|D|page=1|headline=560 Jobs gefunden|count=107|next=2
+325732486a|Co-Direktor (a)|3715 Adelboden|Adecco
+3257356a65|Customer Service Area Sales Manager|4303 Kaiseraugst|Transver AG
+3257347757|Regional Manager Africa & Middle East (m/w/d)|Nussbaumen|Liebherr-Export AG
+32567a456d|Area Sales Manager Chirurgie|8000 Zürich|Stettler Consulting AG
+#gl3|D|page=2|headline=560 Jobs gefunden|count=104|next=3
+#gl3|D|page=3|headline=560 Jobs gefunden|count=104|next=4
+#gl3|D|page=4|headline=560 Jobs gefunden|count=91|next=NONE
+#gl3|D|page=5|headline=560 Jobs gefunden|count=4|next=NONE
+#gl3|W|page=1|headline=173 Jobs in der Websuche gefunden|count=100|next=2
+3257327741|Regional Director of Revenue (gn)|Zürich|Konen & Lorenzen International GmbH & Co. KG, Düsseldorf, Zweigniederlassung Baar
+#gl3|W|page=2|headline=173 Jobs in der Websuche gefunden|count=73|next=NONE
+#prod2|D|page=1|headline=877 Jobs gefunden|count=107|next=2
+325735554a|Stv. Filialleiter / Stv. Filialleiterin (m/w/d) 80-100%|6370 Stans|Lidl Schweiz AG
+325732534a|Stv. Filialleiter / Stv. Filialleiterin (m/w/d) 80-100%|6060 Sarnen|Lidl Schweiz AG
+32567a516f|Stv. Filialleiter / Stv. Filialleiterin (m/w/d) 80-100%|8957 Spreitenbach|Lidl Schweiz AG
+3257364157|Store Manager - Region Stadt Zürich 80-100%|CH-8001 Zürich|QR Group Services Sàrl
+3257364154|Store Manager in Burger King - Region Zürich Oberland 100%|CH-8620 Wetzikon ZH|QR Group Services Sàrl
+325644356d|Automobilfachmann Stv. Filialleitung 100% (m/w/d)|Cham|Universal-Job AG
+3257336843|Store Manager / Filialleitung (a) in Bern - 80 - 100% Pensum|CH-3011 Bern|Tiger Stores (Switzerland) AG
+325733494f|Vendeur/vendeuse interne en pièces détachées automobiles, bilingue FR/ALL, adjoint(e) au chef de filiale (h/f/d) 100% Brügg|CH-2555 Brügg BE|Derendinger AG
+3257355534|Ladenleitung (m/w/d) -100%|3225 Müntschemier|Volg Detailhandels AG
+3257336a62|Verkäufer / angehender Filialleiter (m/w/d) 60-80% - Vape, Shisha, Headshop & CBD|CH-3600 Thun|Dampfwaren AG
+3257335576|Store Manager Bern 100%|CH-3011 Bern|QR Group Services Sàrl
+3257335570|Store Manager Grauholz 100%|CH-3063 Ittigen|QR Group Services Sàrl
+325733766e|Stellvertretende Filialleiterin (w/m/d)|8820 Wädenswil|Müller Handels AG Schweiz
+3257337849|Stellvertretende Filialleitung (m/w/d)|Basel|NEW YORKER (Schweiz) GmbH
+3257337864|Standortleiter*in und Fachärzt*in Allgemeine Innere Medizin, 80-100%|Thurgau|Polipraxis AG
+325733594c|Mandatsleiter / Standortleiter Treuhand 60-100%|CH-3400 Burgdorf|Fiechter Treuhand AG
+325735426e|Stellvertretende Filialleitung (a) 80% in der Filiale Reinach|Reinach|JYSK GmbH
+3257307472|Privatkundenberater und Stv. Leiter Geschäftsstelle Rapperswil-Jona|8645 Rapperswil-Jona|Raiffeisen Schweiz Genossenschaft
+3257325953|Filialleiter Stellvertretung / Marktleiter Stellvertretung 80% (m/w/d)|9014 St. Gallen|SPAR Handels AG
+3257303130|Stellvertretende/r Filialleiter/in 80%|CH-9477 Trübbach|Denner Partner Danielewski GmbH
+3257316133|STORE MANAGER 100% ( m,w,d)|Bern|Tally Weijl Retail Europe AG
+32567a6d46|Standortleiter/in Physiotherapie - Standort Oerlikon 80-100%|CH-8952 Schlieren|Physiokandil GmbH
+3257315634|Store Manager / Filialleitung in Bern - 80 - 100% Pensum|3011 Bern|Tiger Stores (Switzerland) AG
+3257305457|Niederlassungsleiter*in Wettingen 80-100%|CH-5430 Wettingen|Aargauische Kantonalbank
+3257314e5a|Filialleiter Stellvertretung / Marktleiter Stellvertretung 80 - 100% (m/w/d)|8280 Kreuzlingen|SPAR Handels AG
+3257314238|Store Manager/in 100%|Zürich|Sportsystem AG
+3257304569|Vendeur/vendeuse interne en pièces détachées automobiles, bilingue FR/ALL, adjoint au chef de filiale 100% Brügg|CH-2555 Brügg BE|Derendinger AG
+3257325964|Filialleiter*in 80 - 100%|6460 Altdorf UR|Denner AG
+3257316331|Filialleiter (m/w/d) 80-100%|3421 Lyssach|JEANS FRITZ Schweiz AG
+325731556f|Leiter*in Geschäftsstelle Weiterbildung|4600 Olten|Fachhochschule Nordwestschweiz FHNW
+3257305351|Store Manager 80-100%|CH-3421 Lyssach|QR Group Services Sàrl
+3257354f78|Global CMO Clinical Packing Site Manager|4051 Basel|Personal Contact Group AG
+3256786673|Vendeur/vendeuse interne en pièces détachées automobiles, bilingue FR/ALL, adjoint(e) au chef de filiale (h/f/d) 100% Brügg|Brügg|Derendinger AG
+3256785942|Privatkundenberater und Stv. Leiter Geschäftsstelle Rapperswil-Jona (w/m/d) 80 - 100%|8645 Rapperswil-Jona|Raiffeisen Schweiz Genossenschaft
+3256785758|Filialleitung mit Verantwortung für die Kreativwelt (80-100 %)|CH-9500 Wil SG|Bischoff AG für Schule und Büro
+32567a4444|Stv. Filialleiter*in|8832 Wollerau|Denner AG
+3256795044|Niederlassungsleiter*in Wettingen (a)|5430 Wettingen|Aargauische Kantonalbank
+32567a6a59|Team Lead 100% - Glattbrugg|8152 Glattbrugg|Retail Operating Company Schweiz GmbH
+3256786166|Gérant (h/f) -100%|CH-6210 Sursee|OTTO'S AG
+32567a4452|Verkäufer / angehender Filialleiter 60-80% - Vape, Shisha, Headshop & CBD|3600 Thun|Dampfwaren AG
+3256787a72|Store Manager 100% - BURGER KING ST. GALLEN|Bahnhof St.Gallen|Candrian Catering AG
+32567a6855|Stv. Filialleiter*in|3052 Zollikofen|Denner AG
+32567a6134|Stellvertretende Filialleitung (a) 80-100% in der Filiale Lyss|Lyss|JYSK GmbH
+#prod2|D|page=2|headline=877 Jobs gefunden|count=104|next=3
+325673525a|Stellvertreter:in Filialleitung|3661 Uetendorf|OTTO'S AG
+3256746939|Stellvertreter:in Filialleitung|8952 Schlieren|OTTO'S AG
+3256735335|Stellvertreter:in Filialleitung|4058 Basel|OTTO'S AG
+3256735345|Filialleiter:in|5012 Schönenwerd|OTTO'S AG
+3256726630|Niederlassungsleiter:in Rapperswil & Glarnerland|8640 Rapperswil-Jona|ISS Schweiz
+3256716a68|Stellvertreter:in Filialleitung|6330 Cham|OTTO'S AG
+32566e7873|Berater/in Privat- und Geschäftskunden / Stv. Geschäftsstellenleiter/in 80 - 100 %|3400 Burgdorf|Valiant Bank AG
+325670346c|Vendeur/vendeuse interne en pièces détachées automobiles, bilingue FR/ALL, adjoint(e) au chef de filiale (h/f/d) 100% Brügg|CH-2555 Brügg BE|Derendinger AG
+32566c3647|Stv. Filialleiter*in|Ibach|Denner AG
+32566c4164|Elektro-Projektleiter/in mit Meisterprüfung als Filialleiter/in 100 %|Zumikon|Brem & Schwarz Elektroinstallationen AG
+32566b6f46|Standortleiter/-in für die Kollektivunterkunft Beatenberg 60-80% (vorerst befristet auf ein Jahr mit Option auf Verlängerung)|3803 Beatenberg|Asyl Berner Oberland
+32565a6d55|Stv. Filialleiter*in|Langnau am Albis|Denner AG
+#prod2|D|page=3|headline=877 Jobs gefunden|count=104|next=4
+325659546e|Standortleitung Asylunterkunft 100 %|CH-5034 Suhr|convalere ag
+325655744a|Privatkundenberaterin / Privatkundenberater mit Stellvertretung der Filialleitung, 80-100%|6390 Engelberg|Obwaldner Kantonalbank
+3256524564|Leitung Geschäftsstelle 50 - 80%|9105 Schönengrund|Reha Löwen Schönengrund AG
+32564a356a|Fahrradmechaniker*in oder/und Werkstatt/Filialleitung (STV) in Luzern 100%|CH-6015 Luzern|AureusDrive AG
+#prod2|D|page=4|headline=877 Jobs gefunden|count=104|next=5
+3256427573|Filialleiter*in in Ausbildung|Ebikon|Denner AG
+32557a4774|Niederlassungsleiter kontrollierter Betonrückbau (m/w/d) 100%|CH-8153 Rümlang|BETONCOUPE AG
+3255766163|Bauführer:in Hoch- und Ingenieurbau mit Ambition zur Niederlassungsleitung 80-100%|CH-4600 Olten|Strabag AG
+3255755666|Standortleiter:in Hauswirtschaft 70-100%|CH-3027 Bern|Domicil Bern AG
+3255734959|Standortleitung Pflege Bundesasylzentrum Basel|4057 Basel|convalere ag
+#prod2|D|page=5|headline=877 Jobs gefunden|count=104|next=6
+3255687a57|Musikinstrumentenverkäufer / stellv. Filialleiter (m/w) 100%|CH-9000 St. Gallen|Musikhaus Kubli, Zweigniederlassung der Tuba Center W. Kubli
+3256503374|Filialleiter / Branch Manager 100%|2502 Biel/Bienne|The Adecco Group
+3255363142|Filialleiter*in in Ausbildung|6048 Horw|Denner AG
+3255356a4a|Stellvertretende:r Filialleiter:in 100%|9015 St. Gallen Shopping Arena|Ochsner Sport AG
+3254694459|Stellvertretende:r Filialleiter:in 80-100%|6438 Ibach SZ|Ochsner Sport AG
+#prod2|D|page=6|headline=877 Jobs gefunden|count=104|next=7
+3254366368|Site Manager Securi360 (m/w/d) / 95 %|Luzern|Securitas AG Schweizerische Bewachungsgesellschaft
+3253386b71|Stellvertretende:r Filialleiter:in 100%|8060 Zürich Flughafen|Ochsner Sport AG
+#prod2|D|page=7|headline=877 Jobs gefunden|count=66|next=NONE
+#prod2|D|page=8|headline=877 Jobs gefunden|count=4|next=NONE
+#prod2|W|page=1|headline=215 Jobs in der Websuche gefunden|count=100|next=2
+3257364645|Global CMO Clinical Packaging Site Manager 100%|CH-4070 Basel|Elan Personal AG
+3257363771|Produktionsleiter Getränkehersteller 100%|CH-3004 Bern|ABS Personalberatung AG
+3257335565|Projektleiter:in elektrische Gebäudeanlagen / Stv. Niederlassungsleitung 100%|CH-4001 Basel|e-selection AG
+3257334132|Global CMO Clinical Packaging Site Manager 100%|CH-4001 Basel|ITech Consult AG
+3257344b56|Anlagenführer & Stv. Abteilungsleiter Lebensmittelbranche (m/w/d)|Sarnen|Persigo AG
+3257305744|Stv. Niederlassungsleiter / Senior Privatkundenberater 100%|CH-4001 Basel|Albedis SA
+3257305741|Stv. Niederlassungsleiter / Senior Privatkundenberater 100%|CH-4001 Basel|Albedis SA
+3257314267|Filialleiter / Filialleiterin Raum St. Gallen (m/w/d) 80-100%|St. Gallen / St. Gallen|Lidl Schweiz AG
+3257314634|Stv. Filialleiter*in|Lucerne / Hochdorf|Denner AG
+3257314554|Filialleiter*in|Thurgau / Weinfelden|Denner AG
+325731456c|Stv. Filialleiter*in|Canton of Bern / Interlaken|Denner AG
+3257314566|Stv. Filialleiter*in|Basel-Landschaft / Sissach|Denner AG
+3257303536|Global CMO Clinical Packaging Site Manager 10%|CH-4001 Basel|ITech Consult AG
+32567a4d34|Vendeur/vendeuse interne en pièces détachées automobiles, bilingue FR/ALL, adjoint au chef de filiale 100% Brügg|2555 Brügg|Derendinger AG, Zweigniederlassung Dietlikon
+3256794b67|Global CMO Clinical Packaging Site Manager|basel|ITech Consult AG
+32567a3057|Filialleiter*in Beck & Kafi, 80-100 % (Standort Cham)|Cham|Stiftung St. Jakob
+32567a3350|Techniker mit Ambitionen zum Stv. Filialleiter Cham (m/w/d)|Cham|DESA AUTOGLASS AG
+32567a3354|Techniker mit Ambitionen zum Stv. Filialleiter Gebenstorf (m/w/d)|Gebenstorf|DESA AUTOGLASS AG
+3256796e6b|Global CMO Clinical Packaging Site Manager (m/f/d)|Basel|Work Selection AG
+3256795a63|Global CMO Clinical Packaging Site Manager|Basel-Stadt|Elan Personal AG
+3256534343|Niederlassungsleiter (m/w/d) 100 %|CH-3360 Herzogenbuchsee|CHRONOS Personalberatung GmbH
+#prod2|W|page=2|headline=215 Jobs in der Websuche gefunden|count=100|next=3
+#prod2|W|page=3|headline=215 Jobs in der Websuche gefunden|count=15|next=NONE
+#scm3|D|page=1|headline=463 Jobs gefunden|count=107|next=2
+3257337136|Verantwortliche:r Einkauf & Logistik 80-100 %|8005 Zürich|Enzler Reinigungen AG
+3257355637|Supply Chain Planning Portfolio Lead|Baar|Biogen Switzerland AG
+#scm3|D|page=2|headline=463 Jobs gefunden|count=104|next=3
+#scm3|D|page=3|headline=463 Jobs gefunden|count=104|next=4
+#scm3|D|page=4|headline=463 Jobs gefunden|count=15|next=NONE
+#scm3|D|page=5|headline=463 Jobs gefunden|count=4|next=NONE
+#scm3|W|page=1|headline=152 Jobs in der Websuche gefunden|count=100|next=2
+3257363354|Leiter Logistik w/m/d 100%|CH-4900 Langenthal|Logjob AG
+#scm3|W|page=2|headline=152 Jobs in der Websuche gefunden|count=52|next=NONE
+#einkauf3|D|page=1|headline=164 Jobs gefunden|count=94|next=NONE
+32567a4341|Leiter/in Einkauf 80-100%|2501 Biel|Spitalzentrum Biel AG
+#einkauf3|W|page=1|headline=77 Jobs in der Websuche gefunden|count=77|next=NONE
+#digital2|D|page=1|headline=41 Jobs gefunden|count=30|next=NONE
+3257326275|Lead Data & AI Engineer (Zurich / Lausanne Switzerland)|Zürich / Lausanne|Unit8 SA
+3257354c6d|Data Engineer Tech Expert and Lead|3001 Bern|NonStop Consulting AG
+32567a5138|Engineering Lead Data & Analytics 80-100% (w/m/d)|Zürich Zürich|LGT Bank AG
+#digital2|W|page=1|headline=13 Jobs in der Websuche gefunden|count=13|next=NONE
+3257357a68|Data Engineer Tech Expert and Lead 80-100%|CH-3004 Bern|NonStop Consulting AG
+3257326865|Lead Data Scientist (m/w) 100%|Schaffhausen|myitjob GmbH
+#strategie3|D|page=1|headline=41 Jobs gefunden|count=33|next=NONE
+3257366143|Leiter:in Geschäftsentwicklung & IT 100%|8048 Zürich|Elvetino AG
+3257324832|Prozess- und Fachleitung mit Fallführung - je eine Stelle für Familien und Junge Menschen 50 - 80%|3013 Bern|qualifutura GmbH
+3256727033|Leiter/in Projekte & Prozesse Facility Management 80-100%|2501 Biel|Spitalzentrum Biel AG
+#strategie3|W|page=1|headline=8 Jobs in der Websuche gefunden|count=8|next=NONE
+#service2|D|page=1|headline=87 Jobs gefunden|count=68|next=NONE
+#service2|W|page=1|headline=20 Jobs in der Websuche gefunden|count=20|next=NONE
+#projekt2|D|page=1|headline=42 Jobs gefunden|count=32|next=NONE
+#projekt2|W|page=1|headline=11 Jobs in der Websuche gefunden|count=11|next=NONE
+#END|pages=130|jobs=725
