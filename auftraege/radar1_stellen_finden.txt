@@ -1,5 +1,5 @@
 Name: Radar 1 – Stellen finden (Version 3, 15.11.2026: Vollständigkeit – alle Seiten prüfen, Ergebnis erst am Ende schreiben; nur eigene Umgebung, nie Fabians Laptop; Version 2: 12 Abfragen mehr – Director/VP, Bereichsleitung, GL, CEO, Werk-/Standortleitung, CSCO, CPO, CDO, CSO u. a.)
-Zeitplan: täglich 06:00 (Europe/Zurich)
+Zeitplan: täglich 00:30, Nachläufe 02:30 und 04:30 (Europe/Zurich; abgestimmt am 20.11.2026: die Liste muss spätestens 05:45 mit #END vollständig sein, Claude importiert sie um 04:50 und 05:50)
 --- Auftrag ---
 ENVIRONMENT (mandatory): Work in your own environment (your own servers and your own browser). Exception (Fabian, 2026-11-16): if a site blocks you and Fabian's computer is online with the Grok Bot app setting 'Route traffic through this computer' switched on, your own browser may retry through his internet connection. Never use tools that run on his computer and never write files on his computer.
 If a site blocks you (bot protection, CAPTCHA, login wall, HTTP 403/429): do not try to get around it (apart from the routing exception above: no other devices, no proxies, no solving CAPTCHAs, no disguised access). Record it as BLOCKED as described below, continue with the next page or source, and write what you have.

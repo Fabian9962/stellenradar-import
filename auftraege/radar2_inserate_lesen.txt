@@ -1,12 +1,18 @@
-Name: Radar 2 – Inserate lesen (Version 3, 15.11.2026: Inserat auf der Firmen-Homepage suchen, Anrede/Ton/Kontakt erfassen; Version 2: nur eigene Umgebung)
-Zeitplan: täglich 07:00 (Europe/Zurich)
+Name: Radar 2 – Inserate lesen (Version 4, 20.11.2026: Zeitplan 06:15 abgestimmt; Eingabe nur zu_lesen_<heute>, warten statt abbrechen, nie aus finden_ oder nur nach Titel beurteilen, Zwischenstände speichern; Version 3: Firmen-Homepage, Anrede/Ton/Kontakt)
+Zeitplan: täglich 06:15 (Europe/Zurich)
 --- Auftrag ---
 ENVIRONMENT (mandatory): Work in your own environment (your own servers and your own browser). Exception (Fabian, 2026-11-16): if a site blocks you and Fabian's computer is online with the Grok Bot app setting 'Route traffic through this computer' switched on, your own browser may retry through his internet connection. Never use tools that run on his computer and never write files on his computer.
 If a site blocks you (bot protection, CAPTCHA, login wall, HTTP 403/429): do not try to get around it (apart from the routing exception above: no other devices, no proxies, no solving CAPTCHAs, no disguised access). Record it as BLOCKED as described below, continue with the next page or source, and write what you have.
 
 Lies Stelleninserate und beurteile sie für Fabian Kaiser. Jede Seite live öffnen, nichts aus dem Gedächtnis, nichts erfinden.
 
-EINGABE: Datei eingang/zu_lesen_<JJJJ-MM-TT>.json (heutiges Datum, Europe/Zurich) im GitHub-Repository Fabian9962/stellenradar-import, Branch main. Sie enthält eine JSON-Liste mit {"id","url","titel","firma","ort","ort_punkte","markiert"}. Fehlt die Datei oder ist die Liste leer, schreibe die Ausgabedatei mit dem Inhalt [] und beende.
+EINGABE: Datei eingang/zu_lesen_<JJJJ-MM-TT>.json (heutiges Datum, Europe/Zurich) im GitHub-Repository Fabian9962/stellenradar-import, Branch main. Sie enthält eine JSON-Liste mit {"id","url","titel","firma","ort","ort_punkte","markiert"}. Claude legt sie jeden Morgen zwischen 04:50 und 06:00 an (Aufgabe «Grok-Liste importieren»), aus der Liste von Radar 1.
+ZEITPLAN UND ABSTIMMUNG (Fabian, 20.11.2026):
+- Fehlt die Datei beim Start: alle 10 Minuten neu prüfen (git pull), höchstens bis 07:30. Fehlt sie dann noch: eingang/urteile_<JJJJ-MM-TT>.json mit dem Inhalt [] schreiben und beenden.
+- Ist die Liste leer: [] schreiben und beenden.
+- Arbeite NUR mit den Einträgen aus zu_lesen. Nie Stellen aus eingang/finden_… oder archiv/ beurteilen, nie eine Stelle nur nach Titel und Firma beurteilen. Was du nicht lesen konntest, lässt du weg (Claude liest es am Nachmittag selbst).
+- Reihenfolge wie in der Liste (markierte Stellen zuerst).
+- Zwischenstände: nach je 25 beurteilten Stellen eingang/urteile_<JJJJ-MM-TT>.json mit allen bisherigen Urteilen schreiben und committen (gleiche Datei, überschreiben). Claude übernimmt um 08:15 und um 11:15; was bis 11:00 committet ist, kommt heute in den Radar. Nach 11:00 nur noch den letzten Stand committen und beenden.
 
 FÜR JEDE STELLE, in dieser Reihenfolge:
 1. FIRMEN-HOMEPAGE (Fabians Vorgabe vom 15.11.2026: er will sich immer auf das Inserat auf der Homepage des Arbeitgebers beziehen): Den Arbeitgeber bestimmen. Ist «firma» ein Personalvermittler (z. B. Universal-Job, Careerplus, Kohlberg, HUNTER, oprandi, Jörg Lienert, Kessler Vogler, Michael Page, Hays, Robert Walters, Mooser), steht der Arbeitgeber oft im Inserat («Mandat für …», «unser Kunde …»); ist er nicht genannt, gilt der Vermittler als Firma und «arbeitgeber» bleibt leer. Dann die offizielle Website des Arbeitgebers suchen und dort die Karriere- bzw. Stellenseite öffnen (auch eingebettete Bewerbungsportale des Arbeitgebers wie refline, umantis, successfactors, personio, onlyfy/prescreen, workday zählen als Firmenseite). Prüfen, ob dieselbe Stelle dort ausgeschrieben ist (gleiche Funktion, gleicher Ort; der Titel darf leicht abweichen). Gefunden: die direkte Adresse der Stelle auf der Firmenseite als «fu» festhalten und den Inseratstext von DORT lesen. Nicht gefunden: «fu» = "" und in «fh» kurz notieren, was versucht wurde (z. B. «Karriereseite firma.ch/jobs geprüft, Stelle nicht gelistet»). Nur auf Seiten des Arbeitgebers selbst suchen, nicht auf anderen Stellenbörsen.
