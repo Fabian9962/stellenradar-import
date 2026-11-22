@@ -1,0 +1,231 @@
+#RUN|2026-11-22|05:04
+#scm1|D|page=1|headline=14 Jobs gefunden|count=9|next=NONE
+#scm1|W|page=1|headline=5 Jobs in der Websuche gefunden|count=5|next=NONE
+#scm2|D|page=1|headline=78 Jobs gefunden|count=42|next=NONE
+#scm2|D|page=2|headline=78 Jobs gefunden|count=0|next=NONE
+#scm2|W|page=1|headline=36 Jobs in der Websuche gefunden|count=36|next=NONE
+#ops1|D|page=1|headline=277 Jobs gefunden|count=104|next=2
+3257426f49|Betriebsleiter Automotive|Luzern , Zug|Safeguard Global BPO AG
+3256653942|Stv. Betriebsleiter sowie Dachfenster Monteur|8478 Thalheim an der Thur|Dachfenster Keller GmbH
+#ops1|D|page=2|headline=277 Jobs gefunden|count=104|next=3
+3256336358|Responsable opérations|2500 Bienne 6|Bien-Air Dental SA
+#ops1|D|page=3|headline=277 Jobs gefunden|count=15|next=NONE
+#ops1|D|page=4|headline=277 Jobs gefunden|count=4|next=NONE
+#ops1|W|page=1|headline=66 Jobs in der Websuche gefunden|count=66|next=NONE
+325743695a|Betriebsleiter Automotive|Luzern , Zug|Safeguard Global AG
+325744356c|Betriebsleiter Automotive 100%|CH-6344 Meierskappel|Safeguard Global AG
+3257427642|Leiter Operations (Leistungsbearbeitung)|Zürich|Michael Page
+3256776a76|Leiter Betrieb Fernwärme und Fernkälte (m/w)|St. Gallen|Einwandern Schweiz Eric John
+#prod1|D|page=1|headline=200 Jobs gefunden|count=101|next=2
+3257443938|Head of Manufacturing 100%|CH-2504 Biel/Bienne|United Machining Mill AG
+3257437266|Produktionsleiter/in Metzgerei (80-100 %)|CH-8803 Rüschlikon|Kraus Metzgerei AG
+#prod1|D|page=2|headline=200 Jobs gefunden|count=4|next=NONE
+#prod1|D|page=3|headline=200 Jobs gefunden|count=1|next=NONE
+#prod1|W|page=1|headline=97 Jobs in der Websuche gefunden|count=97|next=NONE
+3257436b30|Anlagenführer & Stv. Abteilungsleiter Lebensmittelbranche (m/w/d)|Sarnen|Persigo AG
+3257436846|Head of Manufacturing|Biel/Bienne|United Machining AG
+#einkauf1|D|page=1|headline=97 Jobs gefunden|count=59|next=NONE
+#einkauf1|W|page=1|headline=43 Jobs in der Websuche gefunden|count=43|next=NONE
+3257433963|Head of Purchasing & Cost Controlling (gn)|Zürich|Konen & Lorenzen International GmbH & Co. KG, Düsseldorf, Zweigniederlassung Baar
+#einkauf2|D|page=1|headline=496 Jobs gefunden|count=103|next=2
+325743716d|Expertin/Experte Öffentliches Beschaffungswesen 100%|CH-4410 Liestal|Kanton Basel-Landschaft
+3257437033|Program Manager, Comparator Sourcing - Europe Remote|Remote|Thermo Fisher Scientific (Schweiz) AG
+#einkauf2|D|page=2|headline=496 Jobs gefunden|count=103|next=3
+32556f5868|Junior Procurement Europe - Logistic & Transport|5724 Dürrenäsch|Bertschi AG
+#einkauf2|D|page=3|headline=496 Jobs gefunden|count=38|next=NONE
+#einkauf2|D|page=4|headline=496 Jobs gefunden|count=3|next=NONE
+#einkauf2|W|page=1|headline=261 Jobs in der Websuche gefunden|count=100|next=2
+3257436572|Operativer Technischer Einkauf|Pfäffikon ZH|Tyrolit Hydrostress AG
+3257444232|Technischer Einkäufer (m/w/d) 80-100%|CH-5600 Lenzburg|Gi Group SA
+3257436e4d|Technischer Einkäufer (m/w/d) 80-100%|Seetal AG|Gi Group SA
+3257436473|Manager Quality, Compliance & Supplier Quality (m/w/d)|Bassersdorf|Dyconex AG
+3257436573|Strategische/r EinkäuferIn Immobilien (Bauleistungen, Generalplaner. Generalunternehmer)|Emmen|RUAG Real Estate AG
+3257435747|Technische*r Einkäufer*in 80 - 100%, Region Baden|Region Baden|absolutLIV AG
+3257413159|Strategischer Einkäufer (m/w/d) (80 - 100 %)|Hirschthal|Pfiffner Schaltgeräte AG
+#einkauf2|W|page=2|headline=261 Jobs in der Websuche gefunden|count=100|next=3
+#einkauf2|W|page=3|headline=261 Jobs in der Websuche gefunden|count=61|next=NONE
+#logistik1|D|page=1|headline=374 Jobs gefunden|count=107|next=2
+325744374d|Teamleiter Logistik (m/w/d) 100%|CH-8645 Jona|Häny AG
+3257437534|Teamleiter Verkauf (w/m/d) - Biel-Seeland 100%|CH-2502 Biel/Bienne|Swiss Life AG
+3257433755|Sales Director B2B 100%|CH-6343 Rotkreuz|Bechtle direct AG
+#logistik1|D|page=2|headline=374 Jobs gefunden|count=104|next=3
+#logistik1|D|page=3|headline=374 Jobs gefunden|count=51|next=NONE
+#logistik1|D|page=4|headline=374 Jobs gefunden|count=4|next=NONE
+#logistik1|W|page=1|headline=127 Jobs in der Websuche gefunden|count=100|next=2
+3257443165|Leiter/in Lagerlogistik|8200 Schaffhausen|WIGUMAR AG
+325743724b|Head of Sales 100%|CH-8304 Wallisellen|Human Professional Personalberatung AG
+#logistik1|W|page=2|headline=127 Jobs in der Websuche gefunden|count=27|next=NONE
+#opex1|D|page=1|headline=22 Jobs gefunden|count=16|next=NONE
+#opex1|W|page=1|headline=6 Jobs in der Websuche gefunden|count=6|next=NONE
+#opex2|D|page=1|headline=417 Jobs gefunden|count=107|next=2
+3257383163|Qualitäts- & Prozessmanager 60-80% Pensum|5036 Oberentfelden|wez Kunststoffwerk AG
+325658526c|Prozess Manager:in Energiegemeinschaften|8953 Dietikon|enersuisse ag
+#opex2|D|page=2|headline=417 Jobs gefunden|count=104|next=3
+32564d4b4c|Prozess Experte Bulk Produktion 80-100%|CH-4334 Sisseln AG|SwissCo Services AG
+#opex2|D|page=3|headline=417 Jobs gefunden|count=46|next=NONE
+#opex2|D|page=4|headline=417 Jobs gefunden|count=4|next=NONE
+#opex2|W|page=1|headline=175 Jobs in der Websuche gefunden|count=100|next=2
+3257435a33|Project Manager Trading / Change the Bank|Zürich|Coni & Partner AG
+3257435974|Analyst Business Risk / Bank Processes Trading|Zürich|Coni & Partner AG
+3257384f4c|AVOR-Spezialist / Prozessplaner für elektronische Baugruppen h* 80-100%|CH-8050 Zürich|humanik AG
+#opex2|W|page=2|headline=175 Jobs in der Websuche gefunden|count=75|next=NONE
+#opex2|W|page=3|headline=175 Jobs in der Websuche gefunden|count=0|next=NONE
+#gl1|D|page=1|headline=543 Jobs gefunden|count=107|next=2
+325743706d|Geschäftsführung 100%|CH-8048 Zürich|Baugenossenschaft Halde Zürich
+3257435932|Polier / Vorarbeiter|Malters|Hans Renggli Bau AG Malters
+3257443947|Geschäftsleiter:in Thurplus 100%|CH-8500 Frauenfeld|Thurplus
+3257427632|Sr Director, Global Customer Enablement & Experience|Zurich|Amcor Group
+3257435879|Co-Geschäftsleiter:in mit Beteiligungsperspektive|CH-3097 Liebefeld|Restaurant - Bar Schichtwechsel
+3257414148|Chief Executive Officer|4600 Mittelland|oprandi & partner ag
+#gl1|D|page=2|headline=543 Jobs gefunden|count=104|next=3
+#gl1|D|page=3|headline=543 Jobs gefunden|count=104|next=4
+#gl1|D|page=4|headline=543 Jobs gefunden|count=82|next=NONE
+#gl1|D|page=5|headline=543 Jobs gefunden|count=4|next=NONE
+#gl1|W|page=1|headline=165 Jobs in der Websuche gefunden|count=100|next=2
+3257435469|Stellvertreter*in Geschäftsleitung|Aargau / Schafisheim|Genossenschaft Migros Aare
+3257443449|Elektroprojektleiter mit Entwicklung zum Geschäftsführer (m/w/d) 100%|CH-4001 Basel|das team ag
+3257443371|Geschäftsführung 100%|CH-6283 Baldegg|Jörg Lienert AG
+#gl1|W|page=2|headline=165 Jobs in der Websuche gefunden|count=65|next=NONE
+#gl1|W|page=3|headline=165 Jobs in der Websuche gefunden|count=0|next=NONE
+#strategie1|D|page=1|headline=33 Jobs gefunden|count=26|next=NONE
+#strategie1|W|page=1|headline=7 Jobs in der Websuche gefunden|count=7|next=NONE
+#strategie2|D|page=1|headline=23 Jobs gefunden|count=13|next=NONE
+#strategie2|W|page=1|headline=10 Jobs in der Websuche gefunden|count=10|next=NONE
+#produkt1|D|page=1|headline=18 Jobs gefunden|count=12|next=NONE
+#produkt1|W|page=1|headline=6 Jobs in der Websuche gefunden|count=6|next=NONE
+#beratung1|D|page=1|headline=245 Jobs gefunden|count=105|next=2
+3257435869|Senior MGA Operations Analyst|CH-8002 Zürich|SCOR Services Switzerland AG
+#beratung1|D|page=2|headline=246 Jobs gefunden|count=76|next=NONE
+#beratung1|D|page=3|headline=246 Jobs gefunden|count=4|next=NONE
+#beratung1|W|page=1|headline=74 Jobs in der Websuche gefunden|count=74|next=NONE
+3257436e36|Selbständiger Unternehmensberater / Business Consultant als Franchise-Partner (m/w/d)|Zürich|FEE-Consult AG
+#projekt1|D|page=1|headline=39 Jobs gefunden|count=29|next=NONE
+#projekt1|W|page=1|headline=11 Jobs in der Websuche gefunden|count=11|next=NONE
+#service1|D|page=1|headline=264 Jobs gefunden|count=105|next=2
+3257427538|Project Manager in Service Order Management|Zurich, Zurich|Hitachi Energy AG
+3257433772|Chef de service 100%|CH-3780 Gstaad|Charly's Gstaad AG
+#service1|D|page=2|headline=264 Jobs gefunden|count=86|next=NONE
+#service1|D|page=3|headline=264 Jobs gefunden|count=4|next=NONE
+#service1|W|page=1|headline=82 Jobs in der Websuche gefunden|count=82|next=NONE
+#qualitaet1|D|page=1|headline=85 Jobs gefunden|count=53|next=NONE
+3257443569|Leiter/in Qualitätsmanagement 80-100%|CH-3457 Wasen im Emmental|PB SWISS TOOLS AG
+32567a336f|Leiter Qualitätsmanagement (m/w/d)|Lyss|SPT Roth AG
+#qualitaet1|W|page=1|headline=34 Jobs in der Websuche gefunden|count=34|next=NONE
+3257426e59|Leiter/in Qualitätsmanagement(QC / QA) - 100% - Nordwestschweiz|Nordwestschweiz|Peko AG
+#digital1|D|page=1|headline=203 Jobs gefunden|count=104|next=2
+3257426f70|Projektleiter ERP Transformation Group Services|3052 Zollikofen|Securiton AG
+3257437131|LeiterIn interne Informatik 100%|CH-6023 Rothenburg|Opacc Software AG
+3256566436|ProjektleiterIn ERP Junior / Senior 100%|CH-4142 Münchenstein|Opacc Software AG
+32564c7a56|Technischer ERP-Consultant im Bereich Integration/Schnittstellen/Datenaustausch 80-100%|CH-8105 Regensdorf|OPALE SOLUTIONS SA
+#digital1|D|page=2|headline=203 Jobs gefunden|count=23|next=NONE
+#digital1|D|page=3|headline=203 Jobs gefunden|count=4|next=NONE
+#digital1|W|page=1|headline=84 Jobs in der Websuche gefunden|count=84|next=NONE
+#ops2|D|page=1|headline=518 Jobs gefunden|count=107|next=2
+325743744a|Stv. Leitung Personal & Bildung 100%|CH-3600 Thun|Stiftung WiA - Wohnen im Alter
+325730366b|Trainee Operations Management 80 - 100 %|CH-3123 Belp|Gribi AG Belp
+3257313661|Sachbearbeiter/in AVOR & Stv. Leitung 100% (m/f/d)|Schlieren|PlakatiF AG
+#ops2|D|page=2|headline=519 Jobs gefunden|count=104|next=3
+#ops2|D|page=3|headline=519 Jobs gefunden|count=104|next=4
+3255466862|Facility and Operation Coordinator|4002 Basel|ISS Schweiz
+#ops2|D|page=4|headline=519 Jobs gefunden|count=87|next=NONE
+3254674376|Switzerland CRM & Customer Operations Manager 100%|6340 Baar|Amplifon AG
+#ops2|D|page=5|headline=519 Jobs gefunden|count=4|next=NONE
+#ops2|W|page=1|headline=136 Jobs in der Websuche gefunden|count=100|next=2
+#ops2|W|page=2|headline=136 Jobs in der Websuche gefunden|count=36|next=NONE
+#ops3|D|page=1|headline=222 Jobs gefunden|count=103|next=2
+#ops3|D|page=2|headline=222 Jobs gefunden|count=69|next=NONE
+#ops3|D|page=3|headline=222 Jobs gefunden|count=3|next=NONE
+#ops3|W|page=1|headline=56 Jobs in der Websuche gefunden|count=56|next=NONE
+#gl2|D|page=1|headline=1’547 Jobs gefunden|count=107|next=2
+325744374c|Leiter/in Immobilienbewirtschaftung (80-100%) - Mitglied der Geschäftsleitung|CH-4123 Allschwil|ACTIV IMMOTREUHAND AG
+3257444431|IT Bereichsleiter EDI & DataIntegration (m/w/d) 100%|8953 Dietikon|Planzer Transport AG
+3257434871|Abteilungsleiter:in Damenober- und Unterbekleidung sowie Accessoires|8001 Zürich St. Annahof|Coop Genossenschaft
+325743486e|Abteilungsleiter:in Damenober- und Unterbekleidung sowie Accessoires|Zürich St. Annahof|Coop Genossenschaft
+3257427578|Abteilungsleiter:in Damenober- und Unterbekleidung sowie Accessoires 80-100%|Zürich St. Annahof|Coop Genossenschaft
+3257444132|Mitglied der Geschäftsleitung / Leitung Fachbereich Sozialpädagogik 80-100 %|CH-3027 Bern|socialdesign ag
+3257443442|Stellvertretende Abteilungsleiterin / Stellvertretender Abteilungsleiter Molkerei 100%|CH-8600 Dübendorf|Transgourmet Schweiz AG
+3257427648|Leiter*in Bereich Pflegeversorgung (80 %)|CH-6002 Luzern|Stadt Luzern
+3257427661|Kaufmännische Leitung (Mitglied der Geschäftsleitung) 100%|CH-6006 Luzern|Frei's Schulen AG Luzern
+3257434536|Abteilungsleiter:in Möbel|3661 Uetendorf|OTTO'S AG
+#gl2|D|page=2|headline=1’547 Jobs gefunden|count=104|next=3
+#gl2|D|page=3|headline=1’547 Jobs gefunden|count=104|next=4
+#gl2|D|page=4|headline=1’547 Jobs gefunden|count=104|next=5
+#gl2|D|page=5|headline=1’547 Jobs gefunden|count=104|next=6
+#gl2|D|page=6|headline=1’547 Jobs gefunden|count=104|next=7
+#gl2|D|page=7|headline=1’546 Jobs gefunden|count=104|next=8
+3256317065|IT Bereichsleiter EDI & DataIntegration|8953 Dietikon|Planzer Transport AG
+3256344363|Abteilungsleiter:in 70-90%|CH-6130 Willisau|Stiftung Brändi
+3256327974|Verantwortliche*r Ressort Gesuche|Zürich|Universität Zürich
+#gl2|D|page=8|headline=1’546 Jobs gefunden|count=104|next=9
+#gl2|D|page=9|headline=1’546 Jobs gefunden|count=104|next=10
+#gl2|D|page=10|headline=1’546 Jobs gefunden|count=104|next=11
+#gl2|D|page=11|headline=1’546 Jobs gefunden|count=97|next=NONE
+#gl2|D|page=12|headline=1’546 Jobs gefunden|count=4|next=NONE
+#gl2|W|page=1|headline=453 Jobs in der Websuche gefunden|count=100|next=2
+3257436c6d|Abteilungsleiter/in Prävention Nicht übertragbare Erkrankungen NCD|Bern|Bundesamt für Gesundheit (BAG)
+3257436c41|Mitglied der Geschäftsleitung / Leitung Fachbereich Sozialpädagogik 80-100 %|Bern|socialdesign ag
+3257437057|Kaufmännische Leitung (Mitglied der Geschäftsleitung) 100%|CH-6006 Luzern|Jörg Lienert AG
+3257436636|Stellvertretende Abteilungsleiterin / Stellvertretender Abteilungsleiter Molkerei|Dübendorf|Transgourmet Schweiz AG
+3257437941|Bereichsleiter Sanitär 100% (m/w/d)|Bern|Universal-Job AG
+325743386e|Stellvertreter Abteilungsleiter Betriebslogistik 100%, m/w|Müntschemier, Seeland, Bern|Gi Group SA
+3257436539|Leiter:in Bereich Privatkunden / Mitglied der Geschäftsleitung|Gümligen|Meister Executive Search AG
+3257435443|Bereichsleiter*in Frische mit Zusatzfunktion Stellvertreter*in Filialleitung|Thurgau / Kreuzlingen|Genossenschaft Migros Ostschweiz
+3257433870|Abteilungsleiter Ausführungsplanung (a)|Bern, Bern-Mittelland, Bern|Gi Group SA
+3257433238|Leitung Empfang & Fachbereiche (100 %)|CH-9469 Haag (Rheintal)|ibt Personal AG
+3257417772|Kaufmännische Leitung (Mitglied der Geschäftsleitung) 80-100%|6006 Luzern|Jörg Lienert AG
+#gl2|W|page=2|headline=454 Jobs in der Websuche gefunden|count=100|next=3
+325653634a|Architekt / Mitglied der Geschäftsleitung (a)|Bern, Bern-Mittelland, Bern|Gi Group SA
+#gl2|W|page=3|headline=454 Jobs in der Websuche gefunden|count=100|next=4
+#gl2|W|page=4|headline=454 Jobs in der Websuche gefunden|count=100|next=5
+#gl2|W|page=5|headline=454 Jobs in der Websuche gefunden|count=54|next=NONE
+#gl3|D|page=1|headline=572 Jobs gefunden|count=107|next=2
+#gl3|D|page=2|headline=572 Jobs gefunden|count=104|next=3
+#gl3|D|page=3|headline=572 Jobs gefunden|count=104|next=4
+3256486c4d|Area Sales Manager Europe 100%|5616 Meisterschwanden|Tanner + Co AG Verpackungstechnik
+#gl3|D|page=4|headline=572 Jobs gefunden|count=104|next=NONE
+#gl3|D|page=5|headline=572 Jobs gefunden|count=4|next=NONE
+#gl3|W|page=1|headline=172 Jobs in der Websuche gefunden|count=100|next=2
+3257437876|Regionalleiter/in Sicherheitsdienst Region West 100%|Ittigen / Basel|Universal-Job AG
+3257436a37|Stv. Geschäftsführung|Zürich|Bindella Terra Vite Vita SA
+#gl3|W|page=2|headline=172 Jobs in der Websuche gefunden|count=72|next=NONE
+32525a7a54|Country HR Manager Switzerland (GER/ENG/FRE)|Basel|Michael Page
+#prod2|D|page=1|headline=876 Jobs gefunden|count=107|next=2
+3257436371|Stv. Filialleiter Chocolaterie Bern (w/m/d)|Bern|Läderach (Schweiz) AG
+325743374c|Standortleitung Pflege Bundesasylzentrum Basel (m/w/d) 100%|CH-4057 Basel|convalere ag
+#prod2|D|page=2|headline=876 Jobs gefunden|count=104|next=3
+#prod2|D|page=3|headline=876 Jobs gefunden|count=104|next=4
+#prod2|D|page=4|headline=876 Jobs gefunden|count=104|next=5
+3256357243|Stv. Standortleitung Pflege Bundesasylzentrum Basel (m/w/d)|Basel|convalere ag
+#prod2|D|page=5|headline=876 Jobs gefunden|count=104|next=6
+#prod2|D|page=6|headline=877 Jobs gefunden|count=104|next=7
+#prod2|D|page=7|headline=877 Jobs gefunden|count=65|next=NONE
+#prod2|D|page=8|headline=877 Jobs gefunden|count=4|next=NONE
+#prod2|W|page=1|headline=216 Jobs in der Websuche gefunden|count=100|next=2
+3257436e41|Filialleiter/Supporter in der Deutsch- und Westschweiz (m,w,d)|Muri b. Bern|DESA AUTOGLASS AG
+3257435466|Filialleiter*in|Canton of Zug / Steinhausen|Denner AG
+325743546b|Stellvertretende*r Filialleiter*in|Zurich / Kilchberg|Genossenschaft Migros Aare
+325743716b|Standortleiter Fahrzeugservice 100%|CH-8001 Zürich|Safeguard Global AG
+3257436e33|Standortleiter Parkhausbetrieb Basel (m/w/d) 80-100 %|Basel|APCOA Switzerland AG
+325743544b|Filialleiter*in in Ausbildung|Lucerne / Horw|Denner AG
+3256786973|Stv. Filialleiter*in|Lucerne / Ebikon|Denner AG
+#prod2|W|page=2|headline=216 Jobs in der Websuche gefunden|count=100|next=3
+#prod2|W|page=3|headline=216 Jobs in der Websuche gefunden|count=16|next=NONE
+#scm3|D|page=1|headline=468 Jobs gefunden|count=106|next=2
+#scm3|D|page=2|headline=468 Jobs gefunden|count=104|next=3
+#scm3|D|page=3|headline=468 Jobs gefunden|count=104|next=4
+#scm3|D|page=4|headline=468 Jobs gefunden|count=23|next=NONE
+#scm3|D|page=5|headline=468 Jobs gefunden|count=4|next=NONE
+#scm3|W|page=1|headline=149 Jobs in der Websuche gefunden|count=100|next=2
+#scm3|W|page=2|headline=149 Jobs in der Websuche gefunden|count=49|next=NONE
+#einkauf3|D|page=1|headline=163 Jobs gefunden|count=97|next=NONE
+#einkauf3|D|page=2|headline=163 Jobs gefunden|count=4|next=NONE
+#einkauf3|W|page=1|headline=73 Jobs in der Websuche gefunden|count=73|next=NONE
+#digital2|D|page=1|headline=43 Jobs gefunden|count=31|next=NONE
+#digital2|W|page=1|headline=14 Jobs in der Websuche gefunden|count=14|next=NONE
+#strategie3|D|page=1|headline=37 Jobs gefunden|count=27|next=NONE
+#strategie3|W|page=1|headline=10 Jobs in der Websuche gefunden|count=10|next=NONE
+#service2|D|page=1|headline=89 Jobs gefunden|count=69|next=NONE
+#service2|W|page=1|headline=20 Jobs in der Websuche gefunden|count=20|next=NONE
+#projekt2|D|page=1|headline=40 Jobs gefunden|count=30|next=NONE
+#projekt2|W|page=1|headline=11 Jobs in der Websuche gefunden|count=11|next=NONE
+#END|pages=132|jobs=97
