@@ -1,0 +1,179 @@
+#RUN|2026-11-23|04:48
+#scm1|D|page=1|headline=14 Jobs gefunden|count=9|next=NONE
+#scm1|D|page=2|headline=14 Jobs gefunden|count=0|next=NONE
+#scm1|W|page=1|headline=5 Jobs in der Websuche gefunden|count=5|next=NONE
+#scm2|D|page=1|headline=69 Jobs gefunden|count=43|next=NONE
+#scm2|D|page=2|headline=69 Jobs gefunden|count=0|next=NONE
+#scm2|W|page=1|headline=26 Jobs in der Websuche gefunden|count=26|next=NONE
+#ops1|D|page=1|headline=276 Jobs gefunden|count=104|next=2
+3257446636|Stellvertretender Betriebsleiter (m/w)|Zurich / Zürich|Williams ButchersTable am Hegibachplatz
+3257446671|Stv. Betriebsleitung (m/w/d)|Canton of Bern / Grindelwald|Bergrestaurant Bussalp, Grindelwald
+3257426f4c|Betriebsleiter Hochsicherheitslager & Edelmetalle|8108 Dällikon|Planzer Transport AG
+#ops1|D|page=2|headline=276 Jobs gefunden|count=104|next=3
+#ops1|D|page=3|headline=276 Jobs gefunden|count=15|next=NONE
+#ops1|D|page=4|headline=276 Jobs gefunden|count=4|next=NONE
+#ops1|W|page=1|headline=65 Jobs in der Websuche gefunden|count=65|next=NONE
+#prod1|D|page=1|headline=198 Jobs gefunden|count=101|next=2
+#prod1|D|page=2|headline=198 Jobs gefunden|count=3|next=NONE
+#prod1|D|page=3|headline=198 Jobs gefunden|count=1|next=NONE
+#prod1|W|page=1|headline=96 Jobs in der Websuche gefunden|count=96|next=NONE
+#einkauf1|D|page=1|headline=98 Jobs gefunden|count=60|next=NONE
+3256745a57|Category Development Manager (m/w/d)|Zurich,Vienna|Danone Schweiz AG
+#einkauf1|W|page=1|headline=43 Jobs in der Websuche gefunden|count=43|next=NONE
+#einkauf2|D|page=1|headline=490 Jobs gefunden|count=103|next=2
+3257444932|Fachperson Strategischer Einkauf & Vertragsmanagement Bauleistungen 80-100%|CH-6330 Cham|Cham Swiss Properties AG
+#einkauf2|D|page=2|headline=490 Jobs gefunden|count=103|next=3
+3256565352|WMS-Praktikum 2027 (a) 100%|Bruderholz Basel-Landschaft|Kantonsspital Baselland
+3256345958|Mitarbeiter/-in Warenbeschaffung in Toffen|3125 Toffen|Sanitas Troesch AG
+3255696938|IT-Beschaffungsmanager:in 80-100% (m/w/d)|Remote|IGS Informatikgesellschaft für Sozialversicherungen GmbH
+#einkauf2|D|page=3|headline=490 Jobs gefunden|count=36|next=NONE
+#einkauf2|D|page=4|headline=490 Jobs gefunden|count=3|next=NONE
+#einkauf2|W|page=1|headline=257 Jobs in der Websuche gefunden|count=100|next=2
+3257446359|Erfahrener Einkäufer 40 - 80% (m/w/d)|Uznach|Universal-Job AG
+#einkauf2|W|page=2|headline=257 Jobs in der Websuche gefunden|count=100|next=3
+#einkauf2|W|page=3|headline=257 Jobs in der Websuche gefunden|count=57|next=NONE
+#logistik1|D|page=1|headline=373 Jobs gefunden|count=107|next=2
+#logistik1|D|page=2|headline=373 Jobs gefunden|count=104|next=3
+#logistik1|D|page=3|headline=373 Jobs gefunden|count=51|next=NONE
+#logistik1|D|page=4|headline=373 Jobs gefunden|count=4|next=NONE
+#logistik1|W|page=1|headline=126 Jobs in der Websuche gefunden|count=100|next=2
+#logistik1|W|page=2|headline=126 Jobs in der Websuche gefunden|count=26|next=NONE
+#opex1|D|page=1|headline=22 Jobs gefunden|count=16|next=NONE
+#opex1|W|page=1|headline=6 Jobs in der Websuche gefunden|count=6|next=NONE
+#opex2|D|page=1|headline=416 Jobs gefunden|count=107|next=2
+#opex2|D|page=2|headline=416 Jobs gefunden|count=104|next=3
+#opex2|D|page=3|headline=416 Jobs gefunden|count=42|next=NONE
+#opex2|D|page=4|headline=416 Jobs gefunden|count=4|next=NONE
+#opex2|W|page=1|headline=178 Jobs in der Websuche gefunden|count=100|next=2
+#opex2|W|page=2|headline=178 Jobs in der Websuche gefunden|count=78|next=NONE
+#gl1|D|page=1|headline=542 Jobs gefunden|count=107|next=2
+3257444b53|Director - International Private Client & Family Office Tax - Romandie & Turkish Tax Desk 100%|CH-8050 Zürich|PwC
+#gl1|D|page=2|headline=542 Jobs gefunden|count=104|next=3
+#gl1|D|page=3|headline=542 Jobs gefunden|count=104|next=4
+#gl1|D|page=4|headline=542 Jobs gefunden|count=79|next=NONE
+#gl1|D|page=5|headline=542 Jobs gefunden|count=4|next=NONE
+#gl1|W|page=1|headline=167 Jobs in der Websuche gefunden|count=100|next=2
+3257444844|INHABER / GESCHÄFTSFÜHRER im erweiterten Automobil-Umfeld 80-100%|CH-8600 Dübendorf|Mooser & Partner AG Personalberatung
+3257444763|Bauführer Hochbau (a) mit Weiterenwicklung zum Geschäftsleiter Stv.|Bern, Bern-Mittelland, Bern|Gi Group SA
+#gl1|W|page=2|headline=167 Jobs in der Websuche gefunden|count=67|next=NONE
+#strategie1|D|page=1|headline=34 Jobs gefunden|count=27|next=NONE
+#strategie1|W|page=1|headline=7 Jobs in der Websuche gefunden|count=7|next=NONE
+#strategie2|D|page=1|headline=24 Jobs gefunden|count=14|next=NONE
+#strategie2|D|page=2|headline=24 Jobs gefunden|count=0|next=NONE
+#strategie2|W|page=1|headline=10 Jobs in der Websuche gefunden|count=10|next=NONE
+#produkt1|D|page=1|headline=19 Jobs gefunden|count=13|next=NONE
+3257446e39|Head Product - all genders (80-100%)|Zürich|Cembra Money Bank AG
+#produkt1|W|page=1|headline=6 Jobs in der Websuche gefunden|count=6|next=NONE
+#beratung1|D|page=1|headline=232 Jobs gefunden|count=105|next=2
+#beratung1|D|page=2|headline=232 Jobs gefunden|count=74|next=NONE
+#beratung1|D|page=3|headline=232 Jobs gefunden|count=4|next=NONE
+#beratung1|W|page=1|headline=62 Jobs in der Websuche gefunden|count=62|next=NONE
+#projekt1|D|page=1|headline=39 Jobs gefunden|count=29|next=NONE
+#projekt1|W|page=1|headline=11 Jobs in der Websuche gefunden|count=11|next=NONE
+#service1|D|page=1|headline=261 Jobs gefunden|count=105|next=2
+325744674f|Leiter Customer Service / Export|Zurich / Rafz|Manpower
+#service1|D|page=2|headline=261 Jobs gefunden|count=82|next=NONE
+#service1|D|page=3|headline=261 Jobs gefunden|count=4|next=NONE
+#service1|W|page=1|headline=83 Jobs in der Websuche gefunden|count=83|next=NONE
+3257446467|Event Services Team Leader|Zurich / Zürich|Hyatt International
+3257446456|Fachleiter*in Blumen / Kundendienst Migros Drachen|Basel City / Basel|Genossenschaft Migros Basel
+#qualitaet1|D|page=1|headline=84 Jobs gefunden|count=52|next=NONE
+3255654244|Contrôleur et répondant qualité - H/F|CH-2608 Courtelary|MONWITT SA
+#qualitaet1|D|page=2|headline=84 Jobs gefunden|count=2|next=NONE
+#qualitaet1|W|page=1|headline=34 Jobs in der Websuche gefunden|count=34|next=NONE
+#digital1|D|page=1|headline=207 Jobs gefunden|count=104|next=2
+3257446e4f|Senior Digitalisierungsberater / Digital Transformation Consultant|2504 Biel/Bienne|business4you Invest AG
+#digital1|D|page=2|headline=207 Jobs gefunden|count=26|next=NONE
+#digital1|D|page=3|headline=207 Jobs gefunden|count=4|next=NONE
+#digital1|W|page=1|headline=85 Jobs in der Websuche gefunden|count=85|next=NONE
+3257446a58|Business Application Manager ERP (m/w/d)|Winterthur|Rocken AG
+#ops2|D|page=1|headline=514 Jobs gefunden|count=107|next=2
+3257446637|Stv. Leitung Restauration 80 - 100%|Aargau / Villmergen|Altersheim-Verein Villmergen/Dintikon
+#ops2|D|page=2|headline=514 Jobs gefunden|count=104|next=3
+3256523370|Stv. Leitung Pflege & Betreuung und Teamleitung Dipl. Pflegefachfrau / Pflegefachmann 100% Demenz|8174 Stadel|TERTIANUM AG
+#ops2|D|page=3|headline=514 Jobs gefunden|count=104|next=4
+#ops2|D|page=4|headline=514 Jobs gefunden|count=84|next=NONE
+#ops2|D|page=5|headline=514 Jobs gefunden|count=4|next=NONE
+#ops2|W|page=1|headline=134 Jobs in der Websuche gefunden|count=100|next=2
+#ops2|W|page=2|headline=134 Jobs in der Websuche gefunden|count=34|next=NONE
+#ops3|D|page=1|headline=222 Jobs gefunden|count=103|next=2
+#ops3|D|page=2|headline=222 Jobs gefunden|count=69|next=NONE
+#ops3|D|page=3|headline=222 Jobs gefunden|count=3|next=NONE
+#ops3|W|page=1|headline=56 Jobs in der Websuche gefunden|count=56|next=NONE
+#gl2|D|page=1|headline=1’548 Jobs gefunden|count=107|next=2
+3257447735|Leiter/in Ressort Lebensraum Gewässer80% - 100%|6204 Sempach|Schweizerische Vogelwarte Sempach
+325744766b|Leiter/in Fachbereich Sport und Sportlehrperson (a) 60% - 100%|Luzern|Schulen Luzern
+3257447630|Vorsteher/in Abteilung Denkmalpflege - Kant. Denkmalpfleger/in 100%|Bern|Kanton Bern
+3257445476|IT Bereichsleiter EDI & DataIntegration|8953 Dietikon|Planzer Transport AG
+325744476d|Bereichsleitung der Heilpädagogischen Schulen in Zürich und Dielsdorf 80-100%|CH-8051 Zürich|Stiftung RgZ
+3257444a7a|Abteilungsleiter:in Möbel 100%|CH-3661 Uetendorf|OTTO'S AG
+3257444b31|Stv. Abteilungsleiter:in Webshop Logistik 100%|CH-6210 Sursee|OTTO'S AG
+3257444b30|Stv. Abteilungsleiter:in Webshop Logistik 100%|CH-6210 Sursee|OTTO'S AG
+3257444b49|Abteilungsleiter:in Lackiererei 100%|CH-3700 Spiez|Carrosserie Spiez AG
+#gl2|D|page=2|headline=1’548 Jobs gefunden|count=104|next=3
+#gl2|D|page=3|headline=1’548 Jobs gefunden|count=104|next=4
+3256773469|Abteilungsleiter*in Blumen/Pflanzen|Baden|Genossenschaft Migros Aare
+#gl2|D|page=4|headline=1’548 Jobs gefunden|count=104|next=5
+325672655a|Abteilungsleiter/-in Geotechnik und Wasserbau 80 - 100%|3007 Bern|CSD Ingenieure AG
+#gl2|D|page=5|headline=1’548 Jobs gefunden|count=104|next=6
+3256633076|Abteilungsleitung Kultur / Kulturbeauftragte/r 80%|CH-8620 Wetzikon ZH|Stadt Wetzikon (ZH)
+#gl2|D|page=6|headline=1’548 Jobs gefunden|count=104|next=7
+#gl2|D|page=7|headline=1’548 Jobs gefunden|count=104|next=8
+3256484947|Bereichsleiter:in / Fitnessinstruktor:in / Group Fitness Instruktor:in (50-100%)|Zürich|High Five Fitness AG
+3256344971|Sektorleiter/-in Frischmarkt 100%|CH-4133 Pratteln|Demaurex & Cie S.A.
+#gl2|D|page=8|headline=1’548 Jobs gefunden|count=104|next=9
+#gl2|D|page=9|headline=1’548 Jobs gefunden|count=104|next=10
+#gl2|D|page=10|headline=1’548 Jobs gefunden|count=104|next=11
+#gl2|D|page=11|headline=1’548 Jobs gefunden|count=97|next=NONE
+#gl2|D|page=12|headline=1’548 Jobs gefunden|count=4|next=NONE
+#gl2|W|page=1|headline=455 Jobs in der Websuche gefunden|count=100|next=2
+3257444838|Elektro-Spezialist als ABTEILUNGS-LEITER "Elektro-Werkstatt" 80-100%|CH-8050 Zürich|Mooser & Partner AG Personalberatung
+#gl2|W|page=2|headline=455 Jobs in der Websuche gefunden|count=100|next=3
+#gl2|W|page=3|headline=455 Jobs in der Websuche gefunden|count=100|next=4
+#gl2|W|page=4|headline=455 Jobs in der Websuche gefunden|count=100|next=5
+#gl2|W|page=5|headline=455 Jobs in der Websuche gefunden|count=55|next=NONE
+#gl3|D|page=1|headline=570 Jobs gefunden|count=107|next=2
+#gl3|D|page=2|headline=570 Jobs gefunden|count=104|next=3
+#gl3|D|page=3|headline=570 Jobs gefunden|count=104|next=4
+#gl3|D|page=4|headline=570 Jobs gefunden|count=98|next=NONE
+#gl3|D|page=5|headline=570 Jobs gefunden|count=4|next=NONE
+#gl3|W|page=1|headline=176 Jobs in der Websuche gefunden|count=100|next=2
+#gl3|W|page=2|headline=176 Jobs in der Websuche gefunden|count=76|next=NONE
+#prod2|D|page=1|headline=869 Jobs gefunden|count=107|next=2
+325744486f|Niederlassungsleitung (w/m/d) Schädlingsbekämpfung 100%|CH-8045 Zürich|RATEX AG
+325741444b|Filialleiter/Supporter in der Deutsch- und Westschweiz|3074 Muri b. Bern|DESA AUTOGLASS AG
+#prod2|D|page=2|headline=869 Jobs gefunden|count=104|next=3
+#prod2|D|page=3|headline=869 Jobs gefunden|count=104|next=4
+#prod2|D|page=4|headline=869 Jobs gefunden|count=104|next=5
+#prod2|D|page=5|headline=869 Jobs gefunden|count=104|next=6
+#prod2|D|page=6|headline=869 Jobs gefunden|count=104|next=7
+#prod2|D|page=7|headline=869 Jobs gefunden|count=61|next=NONE
+#prod2|D|page=8|headline=869 Jobs gefunden|count=4|next=NONE
+#prod2|W|page=1|headline=212 Jobs in der Websuche gefunden|count=100|next=2
+325744644d|Stv. Filialleiter*in|Lucerne / Rothenburg|Denner AG
+3257446447|Stv. Filialleiter*in|Zurich / Adliswil|Denner AG
+#prod2|W|page=2|headline=212 Jobs in der Websuche gefunden|count=100|next=3
+#prod2|W|page=3|headline=212 Jobs in der Websuche gefunden|count=12|next=NONE
+#scm3|D|page=1|headline=452 Jobs gefunden|count=105|next=2
+#scm3|D|page=2|headline=452 Jobs gefunden|count=104|next=3
+#scm3|D|page=3|headline=452 Jobs gefunden|count=104|next=4
+#scm3|D|page=4|headline=452 Jobs gefunden|count=19|next=NONE
+#scm3|D|page=5|headline=452 Jobs gefunden|count=4|next=NONE
+#scm3|W|page=1|headline=137 Jobs in der Websuche gefunden|count=100|next=2
+#scm3|W|page=2|headline=137 Jobs in der Websuche gefunden|count=37|next=NONE
+#einkauf3|D|page=1|headline=164 Jobs gefunden|count=96|next=NONE
+#einkauf3|D|page=2|headline=164 Jobs gefunden|count=4|next=NONE
+#einkauf3|W|page=1|headline=74 Jobs in der Websuche gefunden|count=74|next=NONE
+#digital2|D|page=1|headline=43 Jobs gefunden|count=31|next=NONE
+#digital2|D|page=2|headline=43 Jobs gefunden|count=2|next=NONE
+#digital2|W|page=1|headline=14 Jobs in der Websuche gefunden|count=14|next=NONE
+#strategie3|D|page=1|headline=37 Jobs gefunden|count=27|next=NONE
+#strategie3|D|page=2|headline=37 Jobs gefunden|count=0|next=NONE
+#strategie3|W|page=1|headline=10 Jobs in der Websuche gefunden|count=10|next=NONE
+#service2|D|page=1|headline=87 Jobs gefunden|count=66|next=NONE
+#service2|D|page=2|headline=89 Jobs gefunden|count=0|next=NONE
+#service2|W|page=1|headline=21 Jobs in der Websuche gefunden|count=21|next=NONE
+#projekt2|D|page=1|headline=41 Jobs gefunden|count=31|next=NONE
+#projekt2|D|page=2|headline=41 Jobs gefunden|count=1|next=NONE
+#projekt2|W|page=1|headline=11 Jobs in der Websuche gefunden|count=11|next=NONE
+#END|pages=137|jobs=40
